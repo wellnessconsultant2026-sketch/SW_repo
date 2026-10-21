@@ -1,0 +1,27 @@
+{
+  "name": "return-to-yourself",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "supabase:seed": "node --env-file=.env.local scripts/seed-supabase.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.115.0",
+    "framer-motion": "^11.18.2",
+    "lenis": "^1.3.26",
+    "next": "^16.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "sharp": "^0.35.4",
+    "vite": "^6.1.1"
+  }
+}

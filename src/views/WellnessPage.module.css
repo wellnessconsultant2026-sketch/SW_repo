@@ -1,0 +1,114 @@
+.pillarsList {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  margin-top: 3rem;
+}
+
+.pillarCard {
+  background: #FFFFFF;
+  border: 1px solid rgba(82, 32, 79, 0.1);
+  border-radius: 20px;
+  padding: clamp(1.8rem, 3vw, 2.5rem);
+  box-shadow: 0 8px 30px rgba(38, 28, 44, 0.05);
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 2rem;
+  align-items: start;
+  transition: all 0.3s ease;
+}
+
+.pillarCard:hover {
+  border-color: var(--gold-accent, #C8954A);
+  box-shadow: 0 12px 35px rgba(82, 32, 79, 0.1);
+}
+
+.pillarMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.pillarNum {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--gold-accent, #C8954A);
+}
+
+.pillarName {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--plum-primary, #52204F);
+  letter-spacing: 0.04em;
+}
+
+.subcategoriesList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.subChip {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-primary, #17132D);
+  background: rgba(247, 239, 230, 0.7);
+  border: 1px solid rgba(200, 149, 74, 0.2);
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+}
+
+.associatedServices {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid rgba(82, 32, 79, 0.08);
+}
+
+.associatedTitle {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--gold-accent, #C8954A);
+  margin-bottom: 0.75rem;
+}
+
+.serviceLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.serviceLinkPill {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--plum-primary, #52204F);
+  text-decoration: none;
+  background: rgba(82, 32, 79, 0.05);
+  border: 1px solid rgba(82, 32, 79, 0.12);
+  padding: 0.4rem 0.9rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.serviceLinkPill:hover {
+  background: var(--plum-primary, #52204F);
+  color: #FFFFFF;
+  border-color: var(--plum-primary, #52204F);
+}
+
+@media (max-width: 768px) {
+  .pillarCard {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

@@ -1,0 +1,445 @@
+.section {
+  position: relative;
+  padding: var(--section-y) 0;
+  background-color: var(--bg-canvas);
+  border-top: 1px solid rgba(196, 160, 118, 0.25);
+}
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+  text-align: center;
+}
+
+.header {
+  max-width: 44rem;
+  margin: 0 auto var(--space-12);
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-body);
+  font-size: var(--fs-xs);
+  color: var(--gold-accent);
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}
+
+.quote {
+  font-family: var(--font-display);
+  font-size: var(--fs-display);
+  font-weight: 500;
+  font-style: italic;
+  color: var(--text-primary);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  margin-bottom: var(--space-4);
+}
+
+.supporting {
+  font-family: var(--font-body);
+  font-size: var(--fs-base);
+  color: var(--text-muted);
+  line-height: 1.7;
+}
+
+.pointsGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.75rem;
+  margin-bottom: var(--space-12);
+  align-items: stretch;
+}
+
+.pointCard {
+  position: relative;
+  border-radius: 16px;
+  padding: 1.45rem 1.65rem 1.35rem;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+  box-shadow: 0 8px 26px -4px rgba(45, 30, 40, 0.05), 0 2px 6px rgba(0, 0, 0, 0.02);
+  transition: all 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  min-height: 270px;
+}
+
+/* Card 1: Neurotransmitter Balance (Soft cream + golden brain aura) */
+.brainCard {
+  background: linear-gradient(145deg, #FCFAF7 0%, #F8F4EE 60%, #F1E9DC 100%);
+  border: 1.5px solid rgba(220, 210, 196, 0.7);
+}
+
+.brainCard:hover {
+  transform: translateY(-5px);
+  border-color: var(--gold-accent, #C8954A);
+  box-shadow: 0 16px 36px -6px rgba(200, 149, 74, 0.22), 0 6px 14px rgba(82, 32, 79, 0.06);
+}
+
+/* Card 2: Vagus Nerve Activation (Featured luminous gold + meditating silhouette on water) */
+.vagusCard,
+.featuredCard {
+  background: linear-gradient(145deg, #FBF6EE 0%, #F7EAD4 35%, #EFD2A6 70%, #DFC088 100%);
+  border: 2px solid #C8954A;
+  box-shadow: 0 14px 38px -6px rgba(200, 149, 74, 0.3), 0 6px 16px rgba(82, 32, 79, 0.08);
+}
+
+.vagusCard:hover,
+.featuredCard:hover {
+  transform: translateY(-5px) scale(1.01);
+  box-shadow: 0 20px 44px -6px rgba(200, 149, 74, 0.38), 0 8px 18px rgba(82, 32, 79, 0.12);
+}
+
+/* Card 3: Cellular Restoration (Soft pearl + watercolor botanical leaves) */
+.cellularCard {
+  background: linear-gradient(145deg, #FAF8F5 0%, #F5F4EE 55%, #EBF0E8 100%);
+  border: 1.5px solid rgba(220, 210, 196, 0.7);
+}
+
+.cellularCard:hover {
+  transform: translateY(-5px);
+  border-color: #7A9E86;
+  box-shadow: 0 16px 36px -6px rgba(122, 158, 134, 0.22), 0 6px 14px rgba(45, 30, 40, 0.06);
+}
+
+/* Artwork Containers & Blending */
+.artContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.4s ease;
+}
+
+.brainArt {
+  width: 52%;
+  mix-blend-mode: multiply;
+  mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 30%, rgba(0, 0, 0, 0.85) 65%, black 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 30%, rgba(0, 0, 0, 0.85) 65%, black 100%);
+  opacity: 0.95;
+}
+
+.brainCard:hover .brainArt {
+  transform: scale(1.04);
+  opacity: 1;
+}
+
+.vagusArt {
+  width: 58%;
+  mix-blend-mode: multiply;
+  mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 32%, rgba(0, 0, 0, 0.85) 68%, black 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 32%, rgba(0, 0, 0, 0.85) 68%, black 100%);
+  opacity: 0.95;
+}
+
+.vagusCard:hover .vagusArt {
+  transform: scale(1.03);
+  opacity: 1;
+}
+
+.cellularArt {
+  width: 52%;
+  mix-blend-mode: multiply;
+  mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 30%, rgba(0, 0, 0, 0.85) 65%, black 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, transparent 8%, rgba(0, 0, 0, 0.25) 30%, rgba(0, 0, 0, 0.85) 65%, black 100%);
+  opacity: 0.95;
+}
+
+.cellularCard:hover .cellularArt {
+  transform: scale(1.04);
+  opacity: 1;
+}
+
+.artImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center right;
+  display: block;
+}
+
+/* Card Header: 01 — */
+.cardHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.85rem;
+  position: relative;
+  z-index: 2;
+}
+
+.pointNum {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--gold-accent, #C8954A);
+  line-height: 1;
+}
+
+.headerBar {
+  width: 24px;
+  height: 1.5px;
+  border-radius: 1px;
+  background-color: rgba(200, 149, 74, 0.45);
+}
+
+.vagusCard .pointNum {
+  color: #9C6724;
+}
+
+.vagusCard .headerBar {
+  background-color: rgba(156, 103, 36, 0.45);
+}
+
+.cellularCard .pointNum {
+  color: #557260;
+}
+
+.cellularCard .headerBar {
+  background-color: rgba(85, 114, 96, 0.45);
+}
+
+/* Content Area, Titles, and Description */
+.contentArea {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 1rem;
+  max-width: 62%;
+}
+
+.pointTitle {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--text-primary, #261C2C);
+  line-height: 1.22;
+  letter-spacing: -0.012em;
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+
+.titleLine {
+  display: block;
+}
+
+.pointDesc {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: #554A57;
+  line-height: 1.48;
+  margin: 0;
+  max-width: 100%;
+}
+
+.vagusCard .pointDesc {
+  color: #4A3E48;
+}
+
+/* Card Footer: Learn more & Circular Arrow */
+.cardFooter {
+  position: relative;
+  z-index: 2;
+  margin-top: auto;
+}
+
+.learnMoreBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: #554A57;
+  transition: all 0.3s ease;
+}
+
+.learnMoreText {
+  font-family: var(--font-body);
+  font-size: 0.84rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.circleArrow {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.35s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.circleArrow svg {
+  width: 12px;
+  height: 12px;
+  transition: transform 0.3s ease;
+}
+
+/* Card 1: Outline Gold circle */
+.brainCard .circleArrow {
+  border: 1.5px solid rgba(200, 149, 74, 0.75);
+  color: var(--gold-accent, #C8954A);
+  background: transparent;
+}
+
+.brainCard:hover .circleArrow {
+  background: var(--gold-accent, #C8954A);
+  color: #FFFFFF;
+  border-color: var(--gold-accent, #C8954A);
+  transform: translateX(4px);
+  box-shadow: 0 4px 12px rgba(200, 149, 74, 0.35);
+}
+
+/* Card 2: Solid Gold Circle with White Arrow */
+.vagusCard .circleArrow {
+  background: linear-gradient(135deg, #D4AF37 0%, #B8833B 100%);
+  color: #FFFFFF;
+  border: none;
+  box-shadow: 0 4px 12px rgba(184, 131, 59, 0.35);
+}
+
+.vagusCard:hover .circleArrow {
+  transform: translateX(4px) scale(1.08);
+  box-shadow: 0 6px 16px rgba(184, 131, 59, 0.5);
+}
+
+/* Card 3: Outline Sage Green Circle */
+.cellularCard .circleArrow {
+  border: 1.5px solid rgba(85, 114, 96, 0.7);
+  color: #557260;
+  background: transparent;
+}
+
+.cellularCard:hover .circleArrow {
+  background: #557260;
+  color: #FFFFFF;
+  border-color: #557260;
+  transform: translateX(4px);
+  box-shadow: 0 4px 12px rgba(85, 114, 96, 0.35);
+}
+
+.pointCard:hover .learnMoreBtn .circleArrow svg {
+  transform: translateX(2px);
+}
+
+.pointCard:hover .learnMoreText {
+  color: var(--text-primary);
+}
+
+.ctaRow {
+  display: flex;
+  justify-content: center;
+}
+
+.consultBtn {
+  position: relative;
+  overflow: hidden;
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  background: linear-gradient(135deg, var(--plum-primary) 0%, #3E1639 100%);
+  border: 1px solid rgba(200, 149, 74, 0.35);
+  cursor: pointer;
+  padding: 0.85rem 2.2rem;
+  border-radius: 9999px;
+  box-shadow: 0 6px 20px var(--plum-glow);
+  transition: all 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.consultBtn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -130%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(115deg, transparent 0%, rgba(255, 255, 255, 0.3) 50%, rgba(200, 149, 74, 0.35) 55%, transparent 70%);
+  transform: skewX(-20deg);
+  transition: left 0.75s cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
+}
+
+.consultBtn:hover::before {
+  left: 140%;
+}
+
+.consultBtn:hover {
+  background: linear-gradient(135deg, #60265D 0%, #461941 100%);
+  border-color: rgba(200, 149, 74, 0.7);
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 12px 30px rgba(82, 32, 79, 0.4), 0 0 16px rgba(200, 149, 74, 0.25);
+}
+
+.consultBtn:active {
+  transform: translateY(0) scale(0.98);
+}
+
+@media (max-width: 1024px) {
+  .pointsGrid {
+    grid-template-columns: 1fr;
+    max-width: 34rem;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 1.5rem;
+  }
+
+  .pointTitle,
+  .pointDesc {
+    max-width: 65%;
+  }
+}
+
+@media (max-width: 640px) {
+  .pointCard {
+    padding: 1.4rem 1.25rem;
+    min-height: auto;
+  }
+
+  .brainArt,
+  .vagusArt,
+  .cellularArt {
+    width: 110px;
+    height: 110px;
+    top: auto;
+    bottom: 0;
+    right: 0;
+  }
+
+  .pointTitle {
+    font-size: 1.25rem;
+    max-width: 70%;
+  }
+
+  .pointDesc {
+    max-width: 100%;
+    font-size: 0.82rem;
+  }
+
+  .consultBtn {
+    width: 100%;
+    max-width: 24rem;
+    padding: 1rem 1.5rem;
+    font-size: 0.92rem;
+    text-align: center;
+    justify-content: center;
+  }
+}
+

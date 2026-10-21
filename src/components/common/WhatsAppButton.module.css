@@ -1,0 +1,86 @@
+.overlayContainer {
+  position: fixed;
+  bottom: max(20px, env(safe-area-inset-bottom, 20px));
+  right: max(20px, env(safe-area-inset-right, 20px));
+  z-index: 995;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: auto;
+}
+
+.fabWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pulseRing {
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(37, 211, 102, 0.45) 0%, rgba(37, 211, 102, 0.15) 55%, transparent 75%);
+  animation: pulseAura 2.8s infinite cubic-bezier(0.4, 0, 0.2, 1);
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes pulseAura {
+  0% {
+    transform: scale(0.9);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.22);
+    opacity: 0.2;
+  }
+  100% {
+    transform: scale(0.9);
+    opacity: 0.8;
+  }
+}
+
+.fabButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none !important;
+  border: none;
+  background: transparent;
+  padding: 0;
+  border-radius: 50%;
+  transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), filter 0.35s ease;
+  filter: drop-shadow(0 8px 18px rgba(37, 211, 102, 0.4)) drop-shadow(0 4px 10px rgba(0, 0, 0, 0.25));
+}
+
+.fabButton:hover {
+  transform: translateY(-3px) scale(1.08);
+  filter: drop-shadow(0 12px 24px rgba(37, 211, 102, 0.6)) drop-shadow(0 6px 14px rgba(0, 0, 0, 0.35));
+}
+
+.fabButton:active {
+  transform: translateY(0) scale(0.95);
+}
+
+.whatsappImg {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+@media (max-width: 640px) {
+  .overlayContainer {
+    bottom: max(16px, env(safe-area-inset-bottom, 16px));
+    right: max(16px, env(safe-area-inset-right, 16px));
+  }
+
+  .whatsappImg {
+    width: 52px;
+    height: 52px;
+  }
+}

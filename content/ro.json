@@ -1,0 +1,2067 @@
+{
+  "lang": "ro",
+  "meta": {
+    "title": "Dr. Mayank Ahooja | Doctor în Medicină și Maestru de Meditație",
+    "description": "Doctor în Medicină, Maestru de Meditație, Ghid Spiritual și Vorbitor Motivațional. Practici personalizate de wellness, gestionarea stresului și echilibrarea chakrelor.",
+    "ogTitle": "Dr. Mayank Ahooja — Doctor în Medicină | Maestru de Meditație | Ghid Spiritual",
+    "ogDescription": "Explorează ghidarea personalizată în meditație, atenție conștientă, respirație, echilibru emoțional și practici energetice cu Dr. Mayank Ahooja."
+  },
+  "brand": {
+    "name": "Dr. Mayank Ahooja",
+    "credentials": "Doctor în Medicină",
+    "title": "Doctor în Medicină | Maestru de Meditație | Ghid Spiritual | Vorbitor Motivațional",
+    "shortTitle": "Maestru de Meditație și Ghid Spiritual",
+    "tagline": "Un sanctuar senin pentru transformare interioară",
+    "location": "Chișinău, Moldova și sanctuar virtual global",
+    "email": "contact@drmayankahooja.com",
+    "phone": "+373 60 123 456",
+    "profileImage": "/images/profile/1791092487681_20190710_082214.jpg"
+  },
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre",
+    "services": "Servicii",
+    "gallery": "Galerie",
+    "programs": "Programe",
+    "articles": "Articole",
+    "contact": "Contact",
+    "cta": "Programează o Sesiune",
+    "chooseLanguage": "Limbă",
+    "wellness": "Stare de Bine",
+    "modalitiesTag": "Modalități ale Sanctuarului",
+    "viewAll": "Vezi tot",
+    "ctaNav": "Programează",
+    "faq": "Întrebări Frecvente",
+    "testimonials": "Mărturii",
+    "terms": "Termeni"
+  },
+  "hero": {
+    "eyebrow": "Doctor în Medicină și Maestru de Meditație",
+    "headlineLine1": "Reîntoarce-te",
+    "headlineLine2": "La Tine Însuți",
+    "description": "Un spațiu calm pentru vindecare, echilibru interior, claritate și o conexiune mai profundă cu esența ta.",
+    "primaryCTA": "Începe Călătoria",
+    "secondaryCTA": "Descoperă Abordarea",
+    "keywords": [
+      "MEDITAȚIE",
+      "ENERGIE & CHAKRE",
+      "GESTIONAREA STRESULUI",
+      "GHIDARE SPIRITUALĂ"
+    ],
+    "scroll": "Derulează pentru a explora",
+    "floatingMedicalTitle": "Doctor în Medicină",
+    "floatingMedicalSubtitle": "Știință & Mindfulness",
+    "floatingMasteryTitle": "15+ Ani de Măiestrie",
+    "floatingMasterySubtitle": "10.000+ Ore de Meditație",
+    "authorityTag": "Sanctuar Minte-Corp"
+  },
+  "philosophy": {
+    "tag": "FILOZOFIA PRACTICII",
+    "headline": "Transformarea Începe din Interior.",
+    "text": "O călătorie autentică spre echilibru începe cu conștientizarea gândurilor, a emoțiilor, a corpului și a sinelui interior. Prin meditație, atenție conștientă, respirație și practici complementare de bunăstare, fiecare persoană poate crea spațiu pentru mai mult calm, claritate și armonie în viața de zi cu zi."
+  },
+  "about": {
+    "tag": "DESPRE DR. MAYANK AHOOJA",
+    "headline": "Doctor în Medicină | Maestru de Meditație | Ghid Spiritual | Vorbitor Motivațional",
+    "lead": "Dedicat sprijinirii oamenilor în explorarea unei stări profunde de calm, echilibru, conștientizare de sine și armonie interioară.",
+    "bio1": "Dr. Mayank Ahooja este Doctor în Medicină, Maestru de Meditație, Ghid Spiritual și Vorbitor Motivațional, dedicat sprijinirii oamenilor în explorarea unei stări profunde de calm, echilibru, conștientizare de sine și armonie interioară.",
+    "bio2": "Cu peste 5 ani de experiență în practici energetice și axate pe chakre, Dr. Ahooja combină meditația, tehnicile de respirație, practicile sonore și vibraționale, vizualizarea prin culori și abordările energetice pentru a crea experiențe personalizate de bunăstare.",
+    "bio3": "Viziunea sa se bazează pe înțelegerea faptului că transformarea autentică începe cu conștientizarea minții, a emoțiilor, a corpului și a sinelui interior.",
+    "personalQuote": "Adevărata vindecare începe acolo unde știința fiziologică clinică întâlnește liniștea profundă a propriului spirit.",
+    "experienceYears": "15+",
+    "experienceLabel": "Ani de Practică Dedicată",
+    "stats": [
+      {
+        "num": "15+",
+        "label": "Ani în Meditație și Practici Energetice"
+      },
+      {
+        "num": "8",
+        "label": "Modalități Principale de Sanctuar"
+      },
+      {
+        "num": "100%",
+        "label": "Ghidare Personalizată 1:1"
+      }
+    ],
+    "medicalBackground": {
+      "tag": "FUNDAȚIE ACADEMICĂ ȘI CLINICĂ",
+      "title": "Doctor în Medicină (M.D.)",
+      "subtitle": "Înțelegere clinică a minții, creierului și fiziologiei",
+      "text": "Format cu rigoare ca Doctor în Medicină, Dr. Mayank abordează starea de bine pe o fundație științifică solidă de anatomie umană, neurobiologie clinică și fiziologie. El înțelege impactul biologic profund pe care supraîncărcarea cronică a sistemului nervos simpatic, dereglarea nervului vag și epuizarea emoțională îl au asupra sănătății cardiovasculare, endocrine și celulare. Ancorând fiecare practică în realitatea biologică, el ghidează sistemul nervos spre siguranță, echilibru parasimpatic și homeostazie naturală.",
+      "highlights": [
+        "Educație academică de Doctor în Medicină (M.D.) și pregătire clinică",
+        "Înțelegere profundă a sistemului nervos autonom și a nervului vag",
+        "Abordare fiziologică a eliberării stresului, tensiunilor somatice și burnout-ului",
+        "Integrare sigură, bazată pe dovezi, ce completează îngrijirea medicală clasică"
+      ]
+    },
+    "spiritualJourney": {
+      "tag": "15+ ANI DE SADHANA ȘI MEDITAȚIE",
+      "title": "Meditație și Călătorie Spirituală",
+      "subtitle": "De la observația clinică la realizarea interioară",
+      "text": "Călătoria interioară a Dr. Mayank a început acum peste 15 ani, când a înțeles că, deși medicina poate trata corpul fizic, pacea durabilă și împlinirea emoțională necesită o trezire a sinelui profund. Dedicându-se practicii personale (sadhana), el a aprofundat tradițiile meditative orientale, sistemele de chakre, pranayama (controlul respirației) și rezonanța vibrațională a sunetului. Peste un deceniu și jumătate de experiență i-au rafinat capacitatea de a oferi un spațiu sigur și de a ghida oamenii din agitație spre claritate și liniște profundă.",
+      "highlights": [
+        "Peste 15 ani de practică meditativă zilnică și auto-cercetare",
+        "Măiestrie practică în alinierea chakrelor, pranayama și sunete vibraționale",
+        "Ghidare în tranziții de viață, epuizare profesională și regăsire spirituală",
+        "O prezență empatică și ancorată, formată de-a lungul a sute de sesiuni individuale"
+      ]
+    },
+    "philosophyDetailed": {
+      "tag": "FILOZOFIA CENTRALĂ",
+      "headline": "Transformarea începe din interior — Întoarce-te la tine",
+      "quote": "Nu trebuie să fii «reparat»; trebuie doar să-ți amintești cine ești, să te realiniezi și să revii în centrul tău.",
+      "text": "O călătorie autentică spre echilibru începe cu conștientizarea gândurilor, emoțiilor, corpului și a sinelui interior. Prin meditație, respirație și practici holistice, se creează spațiul necesar pentru calm, claritate și armonie zilnică.",
+      "pillars": [
+        {
+          "title": "Inteligența înnăscută de auto-vindecare",
+          "desc": "Organismul uman deține o capacitate naturală de refacere și armonie atunci când zgomotul mental și tensiunile somatice sunt liniștite."
+        },
+        {
+          "title": "Conștientizare blândă în loc de forțare",
+          "desc": "Transformarea durabilă nu provine din rigiditate sau asprime, ci din atenție conștientă, lipsită de judecată și siguranță interioară."
+        },
+        {
+          "title": "Integritatea ființei",
+          "desc": "Adevărata sănătate unește corpul fizic, eliberarea emoțională, claritatea minții și esența spirituală într-un flux armonios."
+        }
+      ]
+    },
+    "differentiators": {
+      "tag": "DE CE SĂ ALEGI DR. MAYANK",
+      "title": "Ce face această abordare diferită",
+      "subtitle": "O punte armonioasă și rară între știința medicală riguroasă și măiestria spirituală autentică.",
+      "items": [
+        {
+          "num": "01",
+          "icon": "",
+          "title": "Perspectiva dublă: Medic și Maestru în Meditație",
+          "desc": "Nu mai trebuie să alegi între logica medicală și profunzimea spirituală. Dr. Mayank unește precizia clinică a unui medic cu prezența plină de compasiune a unui maestru în meditație."
+        },
+        {
+          "num": "02",
+          "icon": "",
+          "title": "100% Ancorat, Sigur și Fără Dogme",
+          "desc": "Fără convingeri impuse, confuzii ezoterice sau iluzii. Fiecare practică este clară, blândă, accesibilă și ancorată în beneficii fiziologice reale."
+        },
+        {
+          "num": "03",
+          "icon": "",
+          "title": "Calibrare individuală 1:1 a sistemului nervos",
+          "desc": "Fiecare persoană poartă un istoric unic de stres și tensiuni. Sesiunea este personalizată atent în funcție de constituția ta fizică și starea energetică actuală."
+        },
+        {
+          "num": "04",
+          "icon": "",
+          "title": "Autonomie și instrumente pentru toată viața",
+          "desc": "Scopul nu este o dependență continuă. Pleci din fiecare sesiune cu tehnici clare și practice pe care le poți folosi singur oricând ai nevoie de calm."
+        }
+      ]
+    },
+    "goal": {
+      "heading": "Scopul Nostru",
+      "keywords": "Calm • Bunăstare • Echilibru • Armonie • Fericire",
+      "text": "Abordarea generală este centrată pe a ajuta oamenii să încetinească ritmul, să se reconecteze cu sinele, să dezvolte conștientizarea și să cultive o stare profundă de calm, echilibru, armonie și bunăstare."
+    },
+    "disclaimer": "Declinare de responsabilitate.\n\nMetodele holistice, cum ar fi vindecarea energetică, spirituală și emoțională, sunt destinate să ofere un sprijin suplimentar pentru starea dumneavoastră de bine.\nAcestea nu își propun să înlocuiască serviciile medicale, psihologice sau alte servicii profesionale tradiționale de asistență medicală. Nu ar trebui să fie considerate un substitut pentru o consultație medicală sau profesională.\n\nAm utilizat metode care vă pot susține starea de bine, însă este important de reținut că fiecare persoană este unică, iar rezultatele pot varia.\nVă recomandăm întotdeauna să aveți încredere în propria judecată și, dacă aveți îndoieli, să consultați un profesionist din domeniul sănătății. Intenția noastră este de a oferi o abordare cuprinzătoare pentru îmbunătățirea sănătății, dar nu putem garanta rezultate specifice, deoarece acestea depind de mulți factori personali.\n\nCONSIMȚĂMÂNT INFORMAT\nPrin participarea la acest program de wellness, sunteți de acord că ați citit și ați înțeles termenii acestei declinări de responsabilitate. Vă apreciem participarea și vă încurajăm să aplicați cunoștințele dobândite în mod responsabil și cu respect față de dumneavoastră și față de ceilalți.",
+    "areasOfPracticeTitle": "Domenii de Practică",
+    "areasOfPracticeSubtitle": "Dimensiuni fundamentale ale echilibrului holistic și dezvoltării personale",
+    "areas": [
+      {
+        "id": "meditation-mindfulness",
+        "title": "Meditație și Mindfulness",
+        "desc": "Practici de meditație și ghidare personală concepute pentru a stimula conștientizarea, liniștea și concentrarea interioară."
+      },
+      {
+        "id": "stress-management",
+        "title": "Gestionarea Stresului",
+        "desc": "Abordări orientate spre bunăstare pentru relaxare profundă, gestionarea stresului și echilibru emoțional."
+      },
+      {
+        "id": "energy-practices",
+        "title": "Practici Energetice",
+        "desc": "Practici orientate energetic ce susțin conștientizarea, vitalitatea și sentimentul de echilibru."
+      },
+      {
+        "id": "chakra-practices",
+        "title": "Practici pentru Chakre",
+        "desc": "Meditație centrată pe chakre și practici vibraționale de armonizare."
+      },
+      {
+        "id": "sound-vibrational",
+        "title": "Practici Sonore și Vibraționale",
+        "desc": "Explorarea sunetului și a vibrațiilor ca metode complementare de bunăstare."
+      },
+      {
+        "id": "color-visualization",
+        "title": "Vizualizarea Culorilor",
+        "desc": "Practici de vizualizare cromatică utilizate în cadrul experienței de armonie interioară."
+      },
+      {
+        "id": "breathing-practices",
+        "title": "Practici de Respirație",
+        "desc": "Tehnici de respirație ce susțin relaxarea profundă, conștientizarea și conexiunea minte-corp."
+      },
+      {
+        "id": "spiritual-coaching",
+        "title": "Ghidare Spirituală",
+        "desc": "Consiliere personalizată axată pe creștere interioară, autocunoaștere, perspectivă de viață și armonie."
+      }
+    ],
+    "approachesTitle": "Cum Putem Lucra Împreună",
+    "approachesSubtitle": "Formate structurate de sesiuni adaptate obiectivelor dumneavoastră personale",
+    "approaches": [
+      {
+        "id": "individual-consultation",
+        "num": "01",
+        "title": "Consultație Individuală",
+        "desc": "Ghidare personalizată unu-la-unu orientată spre obiectivele de bunăstare, gestionarea stresului, echilibru emoțional și evoluție personală."
+      },
+      {
+        "id": "individual-meditation",
+        "num": "02",
+        "title": "Meditație Individuală",
+        "desc": "Învățarea tehnicilor de meditație prin îndrumare directă și practică structurată."
+      },
+      {
+        "id": "energy-session",
+        "num": "03",
+        "title": "Sesiune Energetică",
+        "desc": "Explorarea practicilor energetice pentru dezvoltarea conștientizării și menținerea unui echilibru stabil."
+      },
+      {
+        "id": "stress-relief-session",
+        "num": "04",
+        "title": "Sesiune de Eliberare a Stresului",
+        "desc": "Practici meditative și de relaxare menite să sprijine calmul, armonia, echilibrul și starea de bine."
+      },
+      {
+        "id": "comprehensive-session",
+        "num": "05",
+        "title": "Sesiune Cuprinzătoare",
+        "desc": "O abordare integrată ce reunește practici energetice, vizualizare prin culori, vibrația chakrelor, tehnici de respirație și meditație."
+      }
+    ],
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Prag & Poveste"
+      },
+      {
+        "id": "chapter-pillars",
+        "title": "Știință × Meditație × Spirit"
+      },
+      {
+        "id": "chapter-2",
+        "title": "Dubla Perspectivă"
+      },
+      {
+        "id": "chapter-3",
+        "title": "Navigator de Stare Interioară"
+      },
+      {
+        "id": "chapter-benefits",
+        "title": "Beneficii Reale & Profunde"
+      },
+      {
+        "id": "chapter-4",
+        "title": "Diferențiatori Cheie"
+      },
+      {
+        "id": "chapter-5",
+        "title": "Liniște Cinematografică"
+      },
+      {
+        "id": "chapter-6",
+        "title": "Căi spre Echilibru Interior"
+      },
+      {
+        "id": "chapter-7",
+        "title": "Formate de Sesiuni"
+      },
+      {
+        "id": "chapter-8",
+        "title": "Întoarcerea la Tine"
+      }
+    ],
+    "dualLens": {
+      "tag": "CAPITOLUL II • ȘTIINȚĂ & MĂIESTRIE CONTEMPLATIVĂ",
+      "title": "Dubla Perspectivă: Știința Întâlnește Liniștea",
+      "subtitle": "O fundație rară ce unește înțelegerea medicală solidă cu peste 15 ani de măiestrie contemplativă autentică.",
+      "badgeDoctor": "ȘTIINȚĂ PRACTICĂ",
+      "card1Title": "Doctor în Medicină (M.D.)",
+      "card1Desc": "Bază științifică ce elucidează tiparele de stres, respirația și modul în care corpul răspunde la presiunea zilnică.",
+      "card1Chips": [
+        "Conexiune Minte-Corp",
+        "Reflex Natural de Calmare",
+        "Odihnă Profundă & Ritm de Somn"
+      ],
+      "card1Expand": "Înțelege răspunsul corpului",
+      "card1Collapse": "Ascunde răspunsul corpului",
+      "card1Insight1Title": "Înțelegere Personală:",
+      "card1Insight1Desc": "Observarea atentă a modului în care stresul cotidian, oboseala și tensiunea musculară se acumulează.",
+      "card1Insight2Title": "Resetare Naturală:",
+      "card1Insight2Desc": "Calmarea reacțiilor exagerate de stres și sprijinirea capacității naturale a corpului de a se reface.",
+      "card1FooterFormat": "Cadru fundamentat științific",
+      "badgeMaster": "15+ ANI DE MĂIESTRIE",
+      "card2Title": "Maestru de Meditație & Călătorie Interioară",
+      "card2Desc": "Peste 15 ani dedicați tradițiilor contemplative străvechi, stăpânind respirația pranayama, rezonanța acustică și alinierea energetică.",
+      "card2Chips": [
+        "Respirație Pranayama",
+        "Frecvența celor 7 Chakre",
+        "Rezonanță Sonoră Vibratorie"
+      ],
+      "card2Expand": "Explorează tradițiile",
+      "card2Collapse": "Ascunde tradițiile",
+      "card2Insight1Title": "Trezirea Energiei Subtile:",
+      "card2Insight1Desc": "Curățarea blocajelor de la rădăcină la creștet prin sunet sacru, vizualizare și respirație conștientă.",
+      "card2Insight2Title": "Prezență Conștientă:",
+      "card2Insight2Desc": "Liniștirea agitației mentale pentru a accesa tăcerea directă, echilibrul emoțional și pacea profundă.",
+      "card2FooterFormat": "Practică directă și tradiție autentică",
+      "card3Badge": "SANCTUAR PERSONALIZAT 1:1",
+      "card3Title": "Cum se Întâlnesc Știința și Liniștea în Sesiunea Ta",
+      "card3Desc": "În sesiunea ta cu Dr. Mayank, nu separi niciodată corpul fizic de spirit. Identificăm unde este reținută tensiunea și aplicăm practici blânde pentru armonie totală.",
+      "card3Steps": [
+        {
+          "heading": "Ascultare Atentă",
+          "body": "Ascultare cu căldură și claritate, înțelegând unde s-a acumulat tensiunea în minte, emoții sau corp."
+        },
+        {
+          "heading": "Practici Personalizate",
+          "body": "Ghidare prin exerciții blânde de respirație, sunet terapeutic și echilibrare energetică adaptată nevoilor tale."
+        },
+        {
+          "heading": "Obiceiuri pentru Viața de Zi cu Zi",
+          "body": "Crearea de mici obiceiuri de 5 minute, astfel încât pacea trăită să rămână cu tine mereu."
+        }
+      ],
+      "card3FooterFormat": "Ghidare 1:1 complet personalizată",
+      "card3Cta": "Rezervă o Sesiune Privată 1:1",
+      "experienceSession": "Experimentează în Sesiune 1:1"
+    },
+    "protocolPresets": {
+      "stress": {
+        "id": "stress",
+        "num": "01",
+        "duration": "RESET DE CALMARE",
+        "icon": "",
+        "label": "Stres & Gânduri Agitate",
+        "focusName": "Liniștirea minții & regăsirea păcii",
+        "target": "Stres cotidian & copleșire",
+        "shortDesc": "Când presiunea constantă menține mintea într-o goană continuă, este greu să te destinzi și să te liniștești.",
+        "beforeState": "Copleșit & Neliniștit",
+        "afterState": "Calm Profund & Odihnă Senină",
+        "format": "Calmare Rapidă & Relaxare",
+        "medicalInsight": "Stresul cronic epuizează concentrarea, învârte gândurile în cerc și blochează relaxarea naturală.",
+        "spiritualApproach": "Respirație ritmică blândă și tăcere ghidată care te ancorează firesc într-o stare de liniște lăuntrică.",
+        "transformation": "Relaxare reconfortantă, oprirea agitației mentale și o senzație liniștitoare de siguranță și odihnă."
+      },
+      "fatigue": {
+        "id": "fatigue",
+        "num": "02",
+        "duration": "REÎNCĂRCARE NATURALĂ",
+        "icon": "",
+        "label": "Oboseală & Epuizare",
+        "focusName": "Reînnoirea vitalității & a clarității",
+        "target": "Energie epuizată & suprasolicitare",
+        "shortDesc": "Zilele lungi cu sarcini nesfârșite îți consumă energia, lăsându-te sleit de puteri și fără elan.",
+        "beforeState": "Epuizat & Încețoșat",
+        "afterState": "Calm Înviorat & Minte Clară",
+        "format": "Reîncărcare Energetică Profundă",
+        "medicalInsight": "Tensiunea prelungită golește resursele energetice celulare, provocând lipsă de concentrare și slăbiciune.",
+        "spiritualApproach": "Echilibrare energetică blândă, relaxare profundă ghidată și armonii sonore pentru reînnoirea forțelor.",
+        "transformation": "Claritate mentală proaspătă, o senzație de ușurință și entuziasm senin pentru viața de zi cu zi."
+      },
+      "blocks": {
+        "id": "blocks",
+        "num": "03",
+        "duration": "ELIBERARE BLÂNDĂ",
+        "icon": "",
+        "label": "Emoții Reținute & Tensiuni",
+        "focusName": "Relaxare Blândă & Detașare",
+        "target": "Stres emoțional neeliberat",
+        "shortDesc": "Sentimentele neexprimate și presiunea zilnică se acumulează ca stres mut, lăsând o senzație de apăsare.",
+        "beforeState": "Împovărat & Încordat",
+        "afterState": "Ușor, Liber & Împăcat",
+        "format": "Eliberare Emoțională Blândă",
+        "medicalInsight": "Emoțiile captive creează rigiditate corporală, oboseală cronică și o neliniște apăsătoare.",
+        "spiritualApproach": "Vizualizare calmantă, tonuri sonore fine și îndrumare empatică pentru a lăsa în urmă vechile poveri.",
+        "transformation": "Eliberarea apăsării, libertate emoțională, claritate sufletească și o stare firească de ușurință."
+      },
+      "growth": {
+        "id": "growth",
+        "num": "04",
+        "duration": "PACE LĂUNTRICĂ",
+        "icon": "",
+        "label": "Sens Interior & Chemare Profundă",
+        "focusName": "Tăcere Liniștită & Autocunoaștere",
+        "target": "Pace Interioară & Direcție Clară",
+        "shortDesc": "Dorința de liniște durabilă, o minte eliberată de griji și o legătură directă cu ceea ce contează cu adevărat.",
+        "beforeState": "Rătăcit & Deconectat",
+        "afterState": "Perspectivă Clară & Tăcere Senină",
+        "format": "Mentorare Privată 1:1",
+        "medicalInsight": "Liniștirea dialogului interior permite creierului să acceseze o stare rară de prezență și atenție neforțată.",
+        "spiritualApproach": "Ghidare 1:1 în meditație profundă pentru a reveni la sinele tău autentic, dincolo de stresul lumii.",
+        "transformation": "Direcție clară ca lumina zilei, liniște adâncă, împăcare cu sine și o conexiune solidă cu cine ești."
+      }
+    },
+    "ui": {
+      "pathsInSessionLabel": "Îndrumare Privată 1:1:",
+      "pathsRequestInSession": "Solicitați aceasta în sesiunea dumneavoastră",
+      "pathsExpandPrompt": "Îndrumare pentru practica în sesiune",
+      "pathsHidePrompt": "Ascundeți îndrumarea de sesiune",
+      "pathsTechniqueLabel": "Tehnică",
+      "pathsShiftLabel": "Efect Principal",
+      "pathsExplore8": "Explorați cele 8 practici",
+      "pathsCollapse8": "Restrângeți cele 8 practici",
+      "scrollExplore": "Derulați pentru a descoperi călătoria",
+      "bookSessionWithDr": "Programați o sesiune privată 1:1 cu Dr. Mayank",
+      "rootFocus": "Focalizare Cheie:",
+      "exploreProtocol": "Explorează protocolul în 3 etape",
+      "hideProtocol": "Ascunde protocolul",
+      "step1Title": "1. Ce se întâmplă",
+      "step2Title": "2. Resetarea Dr. Mayank",
+      "step3Title": "3. Ce experimentezi",
+      "experienceInSession": "Experimentează în Sesiune 1:1",
+      "navigatorTag": "CAPITOLUL III • NAVIGATOR DE STARE INTERACTIV",
+      "navigatorTitle": "Ce Simți Chiar Acum?",
+      "navigatorSubtitle": "Alegeți orice stare pentru a descoperi cum îmbinarea unică dintre știința limpede și meditația profundă a Dr. Mayank vă readuce la un echilibru trainic:",
+      "badgeDoctor": "Doctor în Medicină (M.D.)",
+      "badgeMaster": "Maestru în Meditație 15+ Ani",
+      "badgePrivate": "Ghidare Privată 1:1",
+      "dimensionAll": "Toate Nivelurile",
+      "dimensionPhysical": "Nivel Fizic",
+      "dimensionEmotional": "Nivel Emoțional",
+      "dimensionMental": "Nivel Mental",
+      "dimensionSpiritual": "Nivel Spiritual",
+      "benefitDrawerTag": "Cum aplică Dr. Mayank această practică:",
+      "benefitDrawerCta": "Experimentați aceasta în sesiunea dumneavoastră",
+      "benefitsBannerShift": "Transformare vizibilă și firească:",
+      "benefitsBannerText": "Încă din prima ședință, deblocarea se face simțită, iar vitalitatea naturală reîncepe să curgă liber.",
+      "benefitsBannerCta": "Descoperiți alinarea multidimensională",
+      "diffShowLess": "Arată mai puțin",
+      "diffDiscoverWhy": "Descoperiți de ce contează",
+      "diffInsights": [
+        "În loc să luptați cu stresul la suprafață, înțelegeți exact cum lucrează mintea, trupul și suflarea în armonie deplină.",
+        "Fără dogme rigide sau reguli complicate. Fiecare practică dă roade pentru că organismul este programat firesc spre liniștire.",
+        "Fără înregistrări generale sau sabloane. Dr. Mayank personalizează ședința exact pe tensiunile pe care le purtați astăzi.",
+        "Deveniți stăpânul propriei tihne, dobândind mici exerciții de 5 minute pe care le puteți folosi toată viața."
+      ],
+      "pathsFilterAll": "Toate cele 9 Căi Meditative",
+      "pathsFilterStillness": "Liniște & Concentrare",
+      "pathsFilterBreath": "Respirație & Prana Elementală",
+      "pathsFilterHeart": "Inimă, Compasiune & Eliberare"
+    },
+    "deepBenefits": {
+      "tag": "ALINARE MULTIDIMENSIONALĂ",
+      "title": "Beneficii Reale și Profunde",
+      "subtitle": "Acționând blând pe planurile fizic, emoțional, mental și spiritual pentru a-ți reda întregirea.",
+      "quote": "Aceste practici de bunăstare acționează asupra întregii tale ființe – minte, emoții, corp și spirit – oferind alinare, echilibru și energie reînnoită.",
+      "items": [
+        {
+          "id": "anxiety",
+          "dimension": "mental",
+          "levelBadge": "Minte & Calm Interior",
+          "icon": "",
+          "title": "Stres, Îngrijorare & Stări Apsate",
+          "desc": "Ajută la liniștirea gândurilor agitate și readuce echilibrul emoțional, domolind îngrijorarea continuă.",
+          "target": "Ușurarea supraîncărcării mentale & a grijilor",
+          "quote": "Liniștește gândurile accelerate și redă echilibrul senin.",
+          "clinicalShift": "Calmează agitația minții și dizolvă stresul cronic, permițându-ți să te așezi într-o stare de profundă siguranță."
+        },
+        {
+          "id": "vitality",
+          "dimension": "physical",
+          "levelBadge": "Energie & Vitalitate",
+          "icon": "",
+          "title": "Energie Scăzută, Somn Agitat & Epuizare",
+          "desc": "Ameliorează insomnia și oboseala cronică, încurajând un somn profund și refăcând rezervele naturale de vitalitate.",
+          "target": "Restabilirea energiei & a ritmului natural de somn",
+          "quote": "Reîncărcare profundă și naturală pentru treziri pline de viață.",
+          "clinicalShift": "Sprijină ritmul natural de somn, stimulează fazele de odihnă profundă și reîmprospătează rezervele celulare."
+        },
+        {
+          "id": "pain",
+          "dimension": "physical",
+          "levelBadge": "Corp & Confort Fizic",
+          "icon": "",
+          "title": "Tensiuni Corporale Cotidiene",
+          "desc": "Ajută la eliberarea blândă a tensiunilor musculare cauzate de orele lungi de lucru și de stresul acumulat.",
+          "target": "Eliberarea tensiunilor fizice acumulate",
+          "quote": "Relaxare blândă a încordărilor și stare de destindere.",
+          "clinicalShift": "Relaxează mușchii încordați prin destindere profundă, liniștind reflexul automat de alertă."
+        },
+        {
+          "id": "digestive",
+          "dimension": "physical",
+          "levelBadge": "Confort Interior & Echilibru",
+          "icon": "",
+          "title": "Confort Lăuntric & Echilibru Natural",
+          "desc": "Susține starea generală de bine și vitalitatea prin calmarea agitației nervoase cauzate de presiunea cotidiană.",
+          "target": "Calmarea neliniștii asociate stresului",
+          "quote": "Aduce alinare reconfortantă și o stare firească de ușurință.",
+          "clinicalShift": "Ajută sistemul să treacă în starea regenerativă de repaus, liniștind tensiunea nervoasă internă."
+        },
+        {
+          "id": "chakras",
+          "dimension": "spiritual",
+          "levelBadge": "Energie Lăuntrică & Bucurie",
+          "icon": "",
+          "title": "Armonizarea celor 7 Centre Energetice",
+          "desc": "Încă de la prima sesiune se simte o eliberare a apăsării, iar energia curge din nou fluid. O undă de lumină și bucurie se întoarce.",
+          "target": "Restabilirea fluxului energetic natural",
+          "quote": "Se simte ca un duș cald și reconfortant de lumină pentru suflet.",
+          "clinicalShift": "Îndepărtează oboseala emoțională apăsătoare, reîmprospătând câmpul energetic și trezind bucuria curată de a trăi."
+        },
+        {
+          "id": "emotional",
+          "dimension": "emotional",
+          "levelBadge": "Pace Emoțională & Eliberare",
+          "icon": "",
+          "title": "Eliberarea Blândă a Poverilor Emoționale",
+          "desc": "Te ajută să eliberezi sentimente vechi și apăsări fără a fi nevoie să retrăiești suferințele din trecut.",
+          "target": "Eliberarea greutății emoționale din trecut",
+          "quote": "O abordare empatică ce atinge zone profunde pe care alte practici le omit.",
+          "clinicalShift": "Permite desprinderea de stresul acumulat prin respirație calmă și prezență conștientă primitoare."
+        }
+      ]
+    },
+    "meditationPaths": {
+      "tag": "ABORDAREA MEA",
+      "title": "Căi spre Echilibrul Tău Interior Natural",
+      "subtitle": "O combinație atent structurată între înțelepciunea meditației străvechi și stilul de viață modern pentru armonie trupească și sufletească.",
+      "items": [
+        {
+          "num": "01",
+          "category": "stillness",
+          "icon": "",
+          "name": "Concentrare Simplă pentru Începători",
+          "technique": "Trataka & Respirație Într-un Singur Punct",
+          "outcome": "Claritate Mentală & Liniște Interioară",
+          "desc": "O introducere temeinică în liniște pentru a aduna gândurile împrăștiate și a stabili un obicei zilnic fără efort.",
+          "inSession": "Dr. Mayank îți ancorează treptat atenția, înlăturând zbuciumul de a încerca să forțezi mintea să tacă."
+        },
+        {
+          "num": "02",
+          "category": "stillness",
+          "icon": "",
+          "name": "Meditație cu Mantre",
+          "technique": "Rezonanță Acustică Sacră & Japa",
+          "outcome": "Oprirea Gândurilor & Rezonanță Lăuntrică",
+          "desc": "Repetarea unor sunete sacre liniștitoare ce ocolesc rezistența minții, liniștind dialogul intern într-o tăcere plină de vibrație.",
+          "inSession": "Ești ghidat prin tipare fonetice acustice acordate la structura ta energetică, domolind agitația mentală."
+        },
+        {
+          "num": "03",
+          "category": "stillness",
+          "icon": "",
+          "name": "Atenție Conștientă (Mindfulness)",
+          "technique": "Observarea Corpului & a Respirației",
+          "outcome": "Prezență Calmă & Perspectivă Senină",
+          "desc": "Ancorarea în clipa prezentă prin observarea senzațiilor și emoțiilor fără judecată sau reacții automate.",
+          "inSession": "Înveți să observi stresul și încordarea corporală în timp real, fără a aluneca în griji automate."
+        },
+        {
+          "num": "04",
+          "category": "breath",
+          "icon": "",
+          "name": "Respirație Conștientă (Breathwork)",
+          "technique": "Respirație Profundă & Echilibrare Nazală Alternată",
+          "outcome": "Calm Imediat & Respirație Armonioasă",
+          "desc": "Exerciții respiratorii blânde pentru a liniști rapid sistemul nervos și a readuce corpul într-o stare de siguranță.",
+          "inSession": "Respirații personalizate (precum ritmul 4-7-8 și respirația coerentă) concepute pentru a aduce pace stabilă."
+        },
+        {
+          "num": "05",
+          "category": "breath",
+          "icon": "",
+          "name": "Meditația Chakrelor",
+          "technique": "Sunete Bija & Frecvențe Luminoase ale celor 7 Centre",
+          "outcome": "Flux Liber de Energie & Vitalitate",
+          "desc": "Armonizarea celor șapte centri energetici majori prin atenție concentrată, respirație și culori luminoase.",
+          "inSession": "Aliniere energetică de jos în sus, eliberând stările persistente de greutate și oboseală."
+        },
+        {
+          "num": "06",
+          "category": "breath",
+          "icon": "",
+          "name": "Alinierea celor Cinci Elemente",
+          "technique": "Echilibrarea Elementelor Pământ, Apă, Foc, Aer, Spațiu",
+          "outcome": "Stare Împământată, Centrată & Reînnoită",
+          "desc": "Armonizarea elementelor în viața ta pentru a răcori epuizarea, a liniști mintea împrăștiată și a reînnoi forța vitală.",
+          "inSession": "Ajută la temperarea burnout-ului și a gândurilor agitate, restabilind o senzație sănătoasă de siguranță."
+        },
+        {
+          "num": "07",
+          "category": "heart",
+          "icon": "",
+          "name": "Iubire & Compasiune",
+          "technique": "Metta Bhavana & Coerență a Inimii",
+          "outcome": "Dizolvarea Autocriticii & Căldură Sufletească",
+          "desc": "Îndulcirea criticii interioare, cultivarea blândeții autentice față de sine și redescoperirea căldurii emoționale.",
+          "inSession": "Dizolvă cu delicatețe tensiunile sufletești, creând un spațiu sigur de pace compasivă."
+        },
+        {
+          "num": "08",
+          "category": "heart",
+          "icon": "",
+          "name": "Vizualizare Ghidată",
+          "technique": "Imagini Liniștitoare & Scanare Corporală",
+          "outcome": "Viziune Limpede & Pace Profundă",
+          "desc": "Imagini mentale calde și înălțătoare care orientează mintea departe de îngrijorare, spre siguranță și claritate.",
+          "inSession": "Îți ajută mintea să înlocuiască gândurile de îngrijorare cu o relaxare profundă și un sentiment de adăpost."
+        },
+        {
+          "num": "09",
+          "category": "heart",
+          "icon": "",
+          "name": "Recunoștință & Iertare",
+          "technique": "Ho'oponopono & Despovărare Emoțională",
+          "outcome": "Libertate Profundă & Claritate Senină",
+          "desc": "O eliberare profundă a resentimentelor și a poverilor emoționale vechi pentru reînnoirea spiritului interior.",
+          "inSession": "Îți permite să lași jos poverile grele și să renunți la supărări fără a retrăi amintiri dureroase."
+        }
+      ]
+    }
+  },
+  "pillars": [
+    {
+      "id": "all",
+      "name": "Toate Sesiunile",
+      "icon": "✦",
+      "tagline": "Toate Practicile Sanctuarului",
+      "subcategories": [
+        "Consultanță Individuală",
+        "Sesiune de Meditație",
+        "Sesiune Anti-Stres",
+        "Echilibrare Energetică",
+        "Ghidare Spirituală",
+        "Echilibru Emoțional",
+        "Respirație & Relaxare",
+        "Retrageri & Programe de Grup"
+      ]
+    },
+    {
+      "id": "meditation",
+      "name": "Meditație",
+      "icon": "",
+      "tagline": "Mindfulness & Liniște Nobilă",
+      "subcategories": [
+        "Meditație Ghidată",
+        "Respirație Conștientă",
+        "Prezență în Acum",
+        "Liniște Lăuntrică"
+      ]
+    },
+    {
+      "id": "calm",
+      "name": "Relaxare",
+      "icon": "",
+      "tagline": "Calm & Tihnă Profundă",
+      "subcategories": [
+        "Eliberarea Tensiunii",
+        "Respirație Calmantă",
+        "Liniștire de Seară",
+        "Somn Odihnitor"
+      ]
+    },
+    {
+      "id": "balance",
+      "name": "Energie & Echilibru",
+      "icon": "",
+      "tagline": "Centrare & Flux Vital",
+      "subcategories": [
+        "Practică de Centrare",
+        "Rezonanță Sonoră",
+        "Fluiditate Energetică",
+        "Vitalitate Reînnoită"
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Creștere Interioară",
+      "icon": "",
+      "tagline": "Autocunoaștere & Rost",
+      "subcategories": [
+        "Autocunoaștere",
+        "Orientare în Viață",
+        "Împământare Zilnică",
+        "Maturitate Emoțională"
+      ]
+    }
+  ],
+  "services": {
+    "tag": "SERVICES & WELLNESS OFFERINGS",
+    "headline": "Paths to Stillness, Balance & Growth",
+    "subhead": "Mindful sessions combining meditation, calming relaxation, and thoughtful personal guidance for everyday balance.",
+    "filterAll": "All Sessions",
+    "items": [
+      {
+        "id": "individual-consultation",
+        "num": "01",
+        "tag": "GHIDARE 1:1",
+        "badge": "GHIDARE 1:1",
+        "title": "Consultanță Individuală",
+        "subtitle": "Viață Conștientă & Echilibru Personal",
+        "shortDesc": "O sesiune personalizată pentru a analiza ritmul tău zilnic, factorii de stres și obiectivele de bine. Crearea unui ritm armonios de viață.",
+        "fullDesc": "Un spațiu confidențial și cald pentru a elibera presiunea zilnică, a aduce claritate și a construi o rutină durabilă de calm.",
+        "pillars": [
+          "BALANCE",
+          "GROWTH",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Ritm Zilnic",
+          "Trăire Conștientă",
+          "Rutine de Calm",
+          "Conștiință de Sine"
+        ],
+        "duration": "60 minute",
+        "format": "În Sanctuar sau Online Global",
+        "image": "/images/services/service-personal-consultation.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "meditation",
+        "num": "02",
+        "tag": "MINDFULNESS",
+        "badge": "MINDFULNESS",
+        "title": "Sesiune de Meditație",
+        "subtitle": "Liniște & Prezență în Acum",
+        "shortDesc": "Meditație ghidată și conștientizarea respirației pentru a domoli o minte agitată și a cultiva o stare de prezență limpede.",
+        "fullDesc": "Învață tehnici sigure de atenție conștientă și observare a respirației pentru a dizolva zgomotul gândurilor.",
+        "pillars": [
+          "MEDITATION",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Meditație Ghidată",
+          "Respirație Conștientă",
+          "Prezență în Acum",
+          "Liniște Lăuntrică"
+        ],
+        "duration": "60 minute",
+        "format": "Practică & Ghidare 1:1",
+        "image": "/images/services/service-meditation-session.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "stress-mental-wellness",
+        "num": "03",
+        "tag": "RELAXARE",
+        "badge": "RELAXARE",
+        "title": "Sesiune Anti-Stres & Decompresie",
+        "subtitle": "Regăsirea Spațiului Mental & Tihnei",
+        "shortDesc": "Practici blânde de relaxare somatică și tehnici de mindfulness pentru a elibera epuizarea cotidiană și a reinstaura calmul natural.",
+        "fullDesc": "Exerciții concepute special pentru a regla sistemul nervos, a curăța agitația mentală și a reda pacea lăuntrică.",
+        "pillars": [
+          "CALM",
+          "MEDITATION"
+        ],
+        "focusAreas": [
+          "Eliberarea Tensiunii",
+          "Liniște Mentală",
+          "Echilibru Muncă-Viață",
+          "Concentrare Calină"
+        ],
+        "duration": "60 minute",
+        "format": "Sesiune de Resetare Nervoasă",
+        "image": "/images/services/service-stress-relief.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "energy-chakra-wellness",
+        "num": "04",
+        "tag": "ARMONIE",
+        "badge": "ARMONIE",
+        "title": "Echilibrare Energetică & Chakre",
+        "subtitle": "Vitalitate Subtilă & Flux Firesc",
+        "shortDesc": "Conștientizare energetică, boluri sonore terapeutice și vizualizare ghidată pentru a te simți centrat, revitalizat și în armonie profundă.",
+        "fullDesc": "Armonizează cei șapte centri subtili prin rezonanță acustică și focalizare intenționată pentru a reactiva energia vitală.",
+        "pillars": [
+          "BALANCE",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Practică de Centrare",
+          "Rezonanță Sonoră",
+          "Flux Energetic Liber",
+          "Vitalitate Reînnoită"
+        ],
+        "duration": "60 minute",
+        "format": "Practică Energetică & Sonoră",
+        "image": "/images/services/service-energy-balancing.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "spiritual-coaching",
+        "num": "05",
+        "tag": "CREȘTERE INTERIOARĂ",
+        "badge": "CREȘTERE INTERIOARĂ",
+        "title": "Ghidare Spirituală & Orientare",
+        "subtitle": "Claritate, Direcție & Rost",
+        "shortDesc": "Dialoguri profunde 1:1 dedicate autocunoașterii, clarificării valorilor de viață și regăsirii unei direcții luminoase de viitor.",
+        "fullDesc": "Mentorat empatic pentru a lua decizii din spațiul înțelepciunii interioare și a trăi în aliniere autentică cu sine.",
+        "pillars": [
+          "GROWTH",
+          "BALANCE"
+        ],
+        "focusAreas": [
+          "Autocunoaștere",
+          "Direcție de Viață",
+          "Alegeri Conștiente",
+          "Echilibru Cotidian"
+        ],
+        "duration": "60 minute",
+        "format": "Dialog Individual & Mentorat",
+        "image": "/images/services/service-life-guidance.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "positive-mindset-emotional-balance",
+        "num": "06",
+        "tag": "CONȘTIINȚĂ",
+        "badge": "CONȘTIINȚĂ",
+        "title": "Echilibru Emoțional",
+        "subtitle": "Pace Lăuntrică & Stabilitate Durabilă",
+        "shortDesc": "Dezvoltă obiceiuri sănătoase și conștientizare corporală pentru a traversa suișurile și coborâșurile vieții cu răbdare și libertate interioară.",
+        "fullDesc": "Învață să eliberezi contracturile emoționale vechi și să cultivi martorul interior senin în fața oricărei încercări.",
+        "pillars": [
+          "GROWTH",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Conștiință Emoțională",
+          "Împământare Zilnică",
+          "Răbdare & Blândețe",
+          "Echilibru Profund"
+        ],
+        "duration": "60 minute",
+        "format": "Practică de Mindset & Obiceiuri",
+        "image": "/images/services/service-emotional-wellbeing.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 6
+      },
+      {
+        "id": "breathing-relaxation",
+        "num": "07",
+        "tag": "RESPIRAȚIE & ODIHNĂ",
+        "badge": "RESPIRAȚIE & ODIHNĂ",
+        "title": "Respirație & Relaxare Profundă",
+        "subtitle": "Seri Liniștite & Somn Odihnitor",
+        "shortDesc": "Tehnici ritmice de pranayama și relaxare de seară pentru a deconecta mintea de la griji și a pregăti un somn adânc și vindecător.",
+        "fullDesc": "Exerciții de respirație profundă combinate cu Yoga Nidra pentru a elibera corpul de tensiuni și a readuce odihna sănătoasă.",
+        "pillars": [
+          "CALM",
+          "MEDITATION"
+        ],
+        "focusAreas": [
+          "Liniștire de Seară",
+          "Respirație Calmantă",
+          "Ritualuri de Tăcere",
+          "Somn Regenerator"
+        ],
+        "duration": "45–60 minute",
+        "format": "Ghidare prin Respirație & Repaus",
+        "image": "/images/services/service-breathwork-relaxation.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 7
+      },
+      {
+        "id": "programs-workshops",
+        "num": "08",
+        "tag": "SESIUNI DE GRUP",
+        "badge": "SESIUNI DE GRUP",
+        "title": "Retrageri & Programe de Grup",
+        "subtitle": "Liniște Împărtășită & Creștere Comună",
+        "shortDesc": "Meditații de grup, ateliere tematice și retrageri rezidențiale pentru a susține calmul colectiv, reflecția profundă și reînnoirea sufletească.",
+        "fullDesc": "Programe pentru comunități și echipe corporative axate pe mindfulness, colaborare armonioasă și reziliență la stres.",
+        "pillars": [
+          "GROWTH",
+          "MEDITATION",
+          "BALANCE"
+        ],
+        "focusAreas": [
+          "Meditație de Grup",
+          "Colaborare Conștientă",
+          "Ateliere de Sanctuar",
+          "Practică Comună"
+        ],
+        "duration": "Jumătate de Zi / Serii",
+        "format": "Ateliere & Retrageri de Sanctuar",
+        "image": "/images/services/service-retreats-group.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 8
+      }
+    ],
+    "viewAll": "Prezentare generală a tuturor serviciilor",
+    "exploreAll": "Explorează toate serviciile",
+    "learnMore": "Află mai multe",
+    "bookSession": "Programează o sesiune"
+  },
+  "healing": {
+    "tag": "ȘTIINȚA BUNĂSTĂRII",
+    "quote": "Transformarea Începe din Interior.",
+    "supporting": "Când atenția conștientă și respirația calmă recalibrează răspunsurile fiziologice, sistemul nervos revine în mod natural la echilibru.",
+    "points": [
+      {
+        "id": "brain",
+        "num": "01",
+        "title": "Echilibrul Neurotransmițătorilor",
+        "titleLine1": "Echilibrul",
+        "titleLine2": "Neurotransmițătorilor",
+        "desc": "Meditația stimulează echilibrul emoțional, claritatea cognitivă și o stare mentală senină.",
+        "image": "/healing-brain.jpg"
+      },
+      {
+        "id": "vagus",
+        "num": "02",
+        "title": "Activarea Nervului Vag",
+        "titleLine1": "Activarea",
+        "titleLine2": "Nervului Vag",
+        "desc": "Respirația conștientă ritmică activează răspunsul parasimpatic, disipând tensiunea și restabilind liniștea.",
+        "image": "/healing-vagus.jpg"
+      },
+      {
+        "id": "cellular",
+        "num": "03",
+        "title": "Restaurare Celulară",
+        "titleLine1": "Restaurare",
+        "titleLine2": "Celulară",
+        "desc": "Perioadele prelungite de relaxare profundă eliberează tensiunile stresului cronic, revitalizând energia corpului.",
+        "image": "/healing-cellular.jpg"
+      }
+    ]
+  },
+  "stillness": {
+    "tag": "PAUZĂ • RESPIRĂ • FII PREZENT",
+    "headline": "Urmați cercul blând de respirație 4-4-4",
+    "subhead": "pentru a recăpăta instantaneu prezența, calmul și echilibrul.",
+    "threeKeysHeading": "Cele Trei Chei de Aur",
+    "threeKeys": [
+      {
+        "id": "want",
+        "sutra": "Nu doresc nimic",
+        "desc": "Lăsați deoparte așteptările și dorințele pentru aceste câteva minute.",
+        "theme": "peach"
+      },
+      {
+        "id": "do",
+        "sutra": "Nu fac nimic",
+        "desc": "Renunțați la efort, lăsând respirația să curgă liber și natural.",
+        "theme": "mint"
+      },
+      {
+        "id": "am",
+        "sutra": "Nu sunt nimic",
+        "desc": "Odihniți-vă dincolo de etichete, roluri și griji în prezență pură.",
+        "theme": "lavender"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "mind",
+        "title": "Calmează mintea",
+        "desc": "Doar câteva respirații conștiente aduc claritate, concentrare și pace."
+      },
+      {
+        "id": "stress",
+        "title": "Reduce stresul",
+        "desc": "Ajută la dizolvarea anxietății și aduce atenția în clipa prezentă."
+      },
+      {
+        "id": "reset",
+        "title": "Reinițializează ziua",
+        "desc": "O practică simplă la care poți reveni oricând simți nevoia de echilibru."
+      }
+    ],
+    "quoteCard": {
+      "quote": "O minte mai calmă reflectă o lumină mai caldă.",
+      "quoteLine1": "O minte calmă",
+      "quoteLine2": "reflectă lumina.",
+      "tagline": "RESPIRĂ • RESETEAZĂ • REPETĂ"
+    },
+    "phases": {
+      "in": "Inspiră",
+      "holdIn": "Menține",
+      "out": "Expiră",
+      "holdOut": "Menține"
+    },
+    "pressToBegin": "Apasă pentru a începe",
+    "restartCircle": "Reîncepe ciclul"
+  },
+  "gallery": {
+    "tag": "MOMENTE DIN SANCTUAR",
+    "headline": "Călătorie Vizuală Spre Liniște",
+    "subhead": "O privire în sesiunile individuale, practicile de meditație și atmosfera liniștită a sanctuarului.",
+    "all": "Toate Imaginile",
+    "categories": [
+      {
+        "id": "cat_meditation",
+        "name": "Sanctuar de Meditație",
+        "slug": "sanctuar-meditatie",
+        "description": "Momente de liniște, respirație conștientă și practică contemplativă profundă.",
+        "order": 1,
+        "visible": true,
+        "showOnHomepage": true,
+        "images": [
+          {
+            "id": "img_1788640274869",
+            "url": "/images/gallery/1788640274831_20190706_111832.jpg",
+            "title": "Atmosferă Sacră de Sanctuar",
+            "reflection": "Liniștea începe atunci când mintea analitică se așază în calmul inimii.",
+            "order": 1,
+            "visible": true,
+            "aspectRatio": "4:3"
+          }
+        ]
+      },
+      {
+        "id": "cat_retreats",
+        "name": "Experiențe de Retragere",
+        "slug": "experiente-retragere",
+        "description": "Atmosfere imersive de sanctuar care cultivă claritatea interioară, reînnoirea energetică și seninătatea.",
+        "order": 2,
+        "visible": true,
+        "showOnHomepage": true,
+        "images": [
+          {
+            "id": "img_r1",
+            "url": "/meditation-hero.png",
+            "title": "Atmosferă Sacră de Sanctuar",
+            "reflection": "O împământare veritabilă restabilește echilibrul natural între minte, corp și spirit.",
+            "order": 1,
+            "visible": true,
+            "aspectRatio": "4:3"
+          },
+          {
+            "id": "img_r2",
+            "url": "/meditation-hero.png",
+            "title": "Tăcere de Seară & Împământare",
+            "reflection": "Intrarea într-un calm profund facilitează refacerea celulară naturală.",
+            "order": 2,
+            "visible": true,
+            "aspectRatio": "4:3"
+          }
+        ]
+      }
+    ],
+    "items": [],
+    "viewMoment": "Vezi momentul",
+    "empty": "Nicio fotografie disponibilă momentan în această colecție."
+  },
+  "programs": {
+    "tag": "ATELIERE ȘI IMERSIUNI",
+    "headline": "Programe Ghidate și Ateliere",
+    "subhead": "Călătorii aprofundate de grup în meditație, tehnici de respirație și armonizarea chakrelor.",
+    "inquire": "Solicită detalii despre următoarea grupă",
+    "filterAll": "Toate Programele",
+    "filterCohort": "Module Intensive",
+    "filterSanctuary": "Imersiuni în Sanctuar",
+    "filterCorporate": "Companii și Echipe",
+    "filterEnergy": "Energie și Corp",
+    "whyTag": "EXPERIENȚA DE GRUP",
+    "whyHeadline": "De Ce Să Urmezi un Program Ghidat?",
+    "whySubhead": "Imersiunea într-un grup restrâns îmbină rigoarea științifică cu liniștea profundă și susținerea reciprocă.",
+    "whyItems": [
+      {
+        "title": "Grupuri Restrânse (12-16 Locuri)",
+        "desc": "Locuri limitate deliberat pentru atenție personalizată, întrebări aprofundate și un spațiu sigur de practică."
+      },
+      {
+        "title": "Ghidare Directă Dr. Mayank",
+        "desc": "Sesiuni săptămânale live ghidate personal de Dr. Mayank Ahooja, conectând fiziologia medicală cu meditația profundă."
+      },
+      {
+        "title": "Protocoale Somatice Zilnice",
+        "desc": "Manuale de lucru descărcabile, înregistrări audio de înaltă fidelitate și micro-practici adaptate vieții de zi cu zi."
+      },
+      {
+        "title": "Comunitate de Sanctuar",
+        "desc": "Conexiune continuă prin cercuri de practică și întâlniri de liniște pentru absolvenți."
+      }
+    ],
+    "corporateBanner": {
+      "tag": "SĂNĂTATE ÎN ORGANIZAȚII",
+      "title": "Programe Personalizate pentru Echipe și Lideri",
+      "desc": "Oferiți echipelor dumneavoastră instrumente validate științific pentru reglarea sistemului nervos, prevenirea epuizării și claritate decizională.",
+      "cta": "Solicită Ofertă Pentru Echipa Ta"
+    },
+    "faqTag": "ÎNTREBĂRI FRECVENTE",
+    "faqHeadline": "Întrebări Despre Programele Noastre",
+    "faqSubhead": "Informații esențiale despre înscriere, orar și desfășurarea sesiunilor.",
+    "faqs": [
+      {
+        "q": "Ce se întâmplă dacă lipsesc de la o sesiune live?",
+        "a": "Toate sesiunile online sunt înregistrate audio în înaltă fidelitate și încărcate în portalul participanților în maxim 12 ore."
+      },
+      {
+        "q": "Este necesară experiență anterioară în meditație?",
+        "a": "Nu este necesară nicio experiență. Îndrumarea este treptată și accesibilă pentru începători, oferind în același timp profunzime practicanților avansați."
+      },
+      {
+        "q": "Cum funcționează procesul de înscriere?",
+        "a": "După trimiterea solicitării, echipa noastră va programa o scurtă discuție de 10 minute pentru a vă cunoaște intențiile și a confirma locul."
+      },
+      {
+        "q": "Pot fi aceste programe adaptate pentru evenimente corporate?",
+        "a": "Da, oferim formate flexibile de jumătate de zi, o zi întreagă sau programe de 4 săptămâni pentru echipe corporative."
+      }
+    ],
+    "items": [
+      {
+        "id": "chakra-mastery-4w",
+        "title": "Trezirea Chakrelor și a Energiei",
+        "type": "Modul Intensiv",
+        "schedule": "Începe luna viitoare • Online și în Sanctuar",
+        "desc": "O călătorie completă prin cei șapte centri energetici principali, folosind vibrația sunetului, vizualizarea prin culori și meditația.",
+        "pillar": "ENERGY",
+        "duration": "4 Săptămâni",
+        "format": "Grup Live + Practică Ghidată",
+        "highlights": [
+          "7 Module de Chakre",
+          "Frecvențe Sonore Vindecătoare",
+          "Caiet de Lucru Energetic",
+          "Sesiuni Live Q&A"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/service-chakras.jpg"
+      },
+      {
+        "id": "mindful-living-retreat",
+        "title": "Retragere de Mindfulness și Liniște",
+        "type": "Imersiune de Sanctuar",
+        "schedule": "Eveniment Trimestrial",
+        "desc": "O experiență intimă dedicată resetării sistemului nervos prin liniște, contemplare ghidată și respirație regeneratoare.",
+        "pillar": "MIND",
+        "duration": "3 Zile / 2 Nopți",
+        "format": "În Sanctuar la Fața Locului",
+        "highlights": [
+          "Liniște Nobilă",
+          "Respirație Regeneratoare",
+          "Decompresie Nervoasă",
+          "Nutriție Conștientă"
+        ],
+        "featured": true,
+        "visible": true,
+        "image": "/pause-zen-bg.jpg"
+      },
+      {
+        "id": "workplace-calm-corporate-workshop",
+        "title": "Calm la Locul de Muncă și Gestionarea Stresului",
+        "type": "Companii și Echipe",
+        "schedule": "Seminar de o Jumătate de Zi sau Modul 4 Săptămâni • Hibrid",
+        "desc": "Gestionarea practică a stresului concepută pentru echipe și profesioniști, vizând prevenirea burnout-ului și claritatea zilnică.",
+        "pillar": "MIND",
+        "duration": "Jumătate de Zi sau 4 Săptămâni",
+        "format": "La Sediu sau Online",
+        "highlights": [
+          "Arhitectura Pauzelor Scurte",
+          "Reziliență Cognitivă",
+          "Prevenire Burnout",
+          "Detensionare în Echipă"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/symptom-corporate-stress.jpg"
+      },
+      {
+        "id": "vagus-nerve-reset",
+        "title": "Nervul Vag și Resetarea Sistemului Autonom",
+        "type": "Modul Intensiv",
+        "schedule": "Modul de 6 Săptămâni • Online Global",
+        "desc": "Imersiune somatică și neuro-energetică dedicată tonifierii nervului vag, autoreglării autonome și eliberării tensiunii viscerale.",
+        "pillar": "BODY",
+        "duration": "6 Săptămâni",
+        "format": "Laboratoare Live + Ghiduri Audio",
+        "highlights": [
+          "Protocoale Nerv Vag",
+          "Practici Somatice Polivagale",
+          "Variabilitate Cardiacă",
+          "Detensionare Viscerală"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-vagus.jpg"
+      },
+      {
+        "id": "emotional-equilibrium-breathwork",
+        "title": "Echilibru Emoțional și Respirație Conștientă",
+        "type": "Modul Intensiv",
+        "schedule": "Imersiune de Seară 3 Săptămâni • Virtual Live",
+        "desc": "Eliberează contracțiile emoționale vechi și tiparele reactive prin pranayama ritmică, coerență cardiacă și conștientizare profundă.",
+        "pillar": "EMOTIONS",
+        "duration": "3 Săptămâni",
+        "format": "Transmisiuni Interactive de Seară",
+        "highlights": [
+          "Protocoale Pranayama",
+          "Coerență Inimă-Creier",
+          "Decondiționare Emoțională",
+          "Martorul Interior"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/images/services/pure-emotional-wellbeing.jpg"
+      },
+      {
+        "id": "executive-presence-leadership",
+        "title": "Prezență Executivă și Leadership Conștient",
+        "type": "Companii și Echipe",
+        "schedule": "Mastermind 8 Săptămâni • Limitat la 12 Lideri",
+        "desc": "Dedicat fondatorilor și profesioniștilor pentru cultivarea stabilității interioare, intuiției clare și energiei regeneratoare sub presiune.",
+        "pillar": "INNER GROWTH",
+        "duration": "8 Săptămâni",
+        "format": "Mastermind + Ghidare 1:1",
+        "highlights": [
+          "Reziliență sub Presiune",
+          "Decizii Intuitive",
+          "Conservarea Energiei",
+          "Consiliere Medicală 1:1"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-brain.jpg"
+      },
+      {
+        "id": "circadian-sleep-architecture",
+        "title": "Arhitectura Somnului și Realinierea Circadiană",
+        "type": "Modul Intensiv",
+        "schedule": "Masterclass de Weekend + 21 Zile de Urmărire • Hibrid",
+        "desc": "Redobândește somnul profund la nivel celular prin sincronizarea ritmului circadian, calmarea glandei pineale și yoga nidra.",
+        "pillar": "BODY",
+        "duration": "Weekend + 21 Zile",
+        "format": "Masterclass + Protocoale Zilnice",
+        "highlights": [
+          "Yoga Nidra (Somn Conștient)",
+          "Optimizare Circadiană",
+          "Tranziție Parasimpatică",
+          "Plan Personalizat de Somn"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/symptom-insomnia.jpg"
+      },
+      {
+        "id": "silent-inquiry-retreat",
+        "title": "Sanctuar de Liniște și Autocunoaștere Profundă",
+        "type": "Imersiune de Sanctuar",
+        "schedule": "Retragere Rezidențială 5 Zile • Domeniul Sanctuarului",
+        "desc": "Un spațiu de nobilă tăcere și contemplare, eliberând mintea de zgomotul exterior pentru a rămâne în prezență luminoasă.",
+        "pillar": "INNER GROWTH",
+        "duration": "5 Zile / 4 Nopți",
+        "format": "Rezidențial în Sanctuar",
+        "highlights": [
+          "Tăcere Nobilă Continuă",
+          "Meditație în Mișcare și Șezut",
+          "Transmisiuni de Ghidare",
+          "Întâlniri Individuale"
+        ],
+        "featured": true,
+        "visible": true,
+        "image": "/service-sky.jpg"
+      },
+      {
+        "id": "sacred-sound-cellular-harmony",
+        "title": "Vibrație Sonoră Sacră și Armonie Celulară",
+        "type": "Modul Intensiv",
+        "schedule": "Serie de 4 Săptămâni • În Studio și Live Stream",
+        "desc": "Utilizarea frecvențelor bolurilor terapeutice tibetane și mantrelor fundamentale pentru deblocarea energiei și revitalizarea celulară.",
+        "pillar": "ENERGY",
+        "duration": "4 Săptămâni",
+        "format": "Băi Sonore Acustice Live",
+        "highlights": [
+          "Terapie prin Rezonanță",
+          "Știința Mantrelor",
+          "Curățare Energetică",
+          "Acces Audio de Înaltă Calitate"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-cellular.jpg"
+      }
+    ],
+    "signature": "★ Semnătură"
+  },
+  "articles": {
+    "tag": "ARTICOLE ȘI REFLECȚII",
+    "headline": "Înțelepciune Pentru Armonie Interioară",
+    "subhead": "Reflecții asupra științei meditației, echilibrului energetic și vieții conștiente.",
+    "readMore": "Citește Articolul",
+    "filterAll": "Toate Articolele",
+    "filterBreathing": "Respirație & Minte",
+    "filterSomatic": "Știință Somatică",
+    "filterEnergy": "Energie & Chakre",
+    "filterEmotions": "Echilibru Emoțional",
+    "filterStillness": "Liniște & Creștere Interioară",
+    "newsletterTag": "REFLECȚIILE SANCTUARULUI",
+    "newsletterTitle": "Primește Lunar Eseurile Noastre Contemplative",
+    "newsletterSubhead": "Îndrumare dedicată reglării sistemului nervos, științei meditației și vieții conștiente trimisă direct pe email.",
+    "items": [
+      {
+        "id": "demo",
+        "title": "demo",
+        "category": "Breathing & Mind",
+        "date": "October 2026",
+        "readTime": "5 min read",
+        "excerpt": "demo",
+        "content": "demo para",
+        "image": "",
+        "author": "Dr. Mayank Ahooja",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "art-of-conscious-breathing",
+        "title": "Arta Respirației Conștiente: Restabilirea Liniștii Sistemului Nervos",
+        "date": "Septembrie 2026",
+        "category": "Respirație & Minte",
+        "excerpt": "Cum respirația ritmică activează nervul vag și comută fiziologia dintr-o stare reactivă într-una de pace profundă.",
+        "readTime": "4 min lectură",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "transformation-within",
+        "title": "Transformarea Începe din Interior: Înțelegerea Energiilor Subtile",
+        "date": "August 2026",
+        "category": "Liniște & Creștere Interioară",
+        "excerpt": "De ce adevărata armonie este o trezire lăuntrică și nu o realizare exterioară.",
+        "readTime": "6 min lectură",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "vagus-nerve-science",
+        "title": "Nervul Vag și Resetarea Sistemului Nervos: Perspectiva Medicului",
+        "date": "Octombrie 2026",
+        "category": "Știință Somatică",
+        "excerpt": "Cum activarea ramurii parasimpatice prin expirație prelungită elimină stresul cronic și aduce siguranță celulară.",
+        "readTime": "5 min lectură",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "circadian-sleep-architecture-article",
+        "title": "Arhitectura Somnului Circadian: Liniștirea Minții Agitate",
+        "date": "Octombrie 2026",
+        "category": "Știință Somatică",
+        "excerpt": "De ce suprastimularea cognitivă de seară blochează regenerarea celulară și cum protocoalele de amurg redau somnul profund.",
+        "readTime": "5 min lectură",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "chakras-and-physiology",
+        "title": "Cei Șapte Centri Energetici: Conectarea Chakrelor cu Neuro-Endocrinologia",
+        "date": "Noiembrie 2026",
+        "category": "Energie & Chakre",
+        "excerpt": "Înțelegerea modului în care chakrele clasice corespund plexurilor nervoase și glandelor endocrine pentru reglarea vitalității biologice.",
+        "readTime": "7 min lectură",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "emotional-deconditioning",
+        "title": "Decondiționarea Emoțională: Dizolvarea Tiparelor de Stres",
+        "date": "Noiembrie 2026",
+        "category": "Echilibru Emoțional",
+        "excerpt": "Cultivarea martorului interior pentru eliberarea tensiunilor emoționale vechi fără reprimare sau consum inutil de energie.",
+        "readTime": "6 min lectură",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "silence-as-medicine",
+        "title": "Tăcerea Nobilă ca Medicament: De Ce Mintea Modernă Tânjește După Liniște",
+        "date": "Decembrie 2026",
+        "category": "Liniște & Creștere Interioară",
+        "excerpt": "Cum perioadele deliberate de tăcere resetează rețeaua cerebrală implicită și redau claritatea intuitivă.",
+        "readTime": "5 min lectură",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "workplace-burnout-executive-vitality",
+        "title": "Prezență Executivă și Prevenirea Burnout-ului: Păstrarea Energiei sub Presiune",
+        "date": "Decembrie 2026",
+        "category": "Respirație & Minte",
+        "excerpt": "Micro-pauze somatice practice și delimitări mentale pentru susținerea unei energii calme în medii profesionale solicitante.",
+        "readTime": "6 min lectură",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "newsletterCta": "Rezervă o Sesiune în Sanctuar",
+    "detailCta": "Descoperă ghidarea personalizată în meditație, respirație și aliniere energetică.",
+    "authorTitle": "Doctor în Medicină | Maestru în Meditație | Coach Spiritual | Vorbitor Motivațional",
+    "keyTakeaways": "Perspective Clinice & Contemplative Esențiale",
+    "exploreMore": "Explorează Mai Multe Eseuri"
+  },
+  "testimonials": {
+    "tag": "REFLECȚIILE CLIENȚILOR",
+    "headline": "Gânduri de la Cei Care au Găsit Armonia",
+    "items": [
+      {
+        "quote": "Colaborarea cu Dr. Mayank Ahooja mi-a oferit o relație complet nouă cu stresul. Prezența sa calmă și respirația ghidată au dizolvat ani de tensiune.",
+        "author": "Marcus V.",
+        "context": "Consultație 1:1 și Meditație"
+      },
+      {
+        "quote": "Sesiunile pentru chakre și energie au fost profund armonizante. Sinteza Dr. Ahooja între pregătirea medicală și percepția energetică este remarcabilă.",
+        "author": "Sophia L.",
+        "context": "Bunăstare Energetică și a Chakrelor"
+      },
+      {
+        "quote": "Ghidarea sa m-a învățat că liniștea nu este o absență, ci un sanctuar viu la care pot reveni oricând viața devine copleșitoare.",
+        "author": "Elena R.",
+        "context": "Ghidare Spirituală"
+      }
+    ]
+  },
+  "faq": {
+    "tag": "ÎNTREBĂRI FRECVENTE",
+    "headline": "Tot Ce Trebuie Să Știi",
+    "items": [
+      {
+        "q": "Ce implică o consultație cu Dr. Mayank Ahooja?",
+        "a": "O consultație este un dialog individual și confidențial în care explorăm obiectivele de bunăstare, echilibrul emoțional, factorii de stres și stabilim un parcurs personalizat de meditație și respirație."
+      },
+      {
+        "q": "Este necesară experiența anterioară în meditație?",
+        "a": "Deloc. Dr. Ahooja ghidează cu aceeași deschidere atât începătorii, cât și practicanții avansați, adaptând tehnicile la ritmul fiecăruia."
+      },
+      {
+        "q": "Sesiunile se desfășoară în persoană sau online?",
+        "a": "Ambele. Sesiunile au loc în sanctuarul nostru primitor din Chișinău, Moldova, precum și online prin conexiune video securizată pentru persoane din întreaga lume."
+      },
+      {
+        "q": "Aceste practici înlocuiesc tratamentul medical?",
+        "a": "Nu. Practicile oferite sunt discipline complementare de bunăstare, relaxare și autocunoaștere. Ele nu diagnostichează, nu tratează și nu înlocuiesc îngrijirea medicală."
+      }
+    ],
+    "reachOut": "Ai o întrebare personală care nu este inclusă aici? Contactează-mă direct."
+  },
+  "contact": {
+    "tag": "REZERVĂRI ȘI CONTACT",
+    "headline": "Fă Primul Pas Către Armonia Interioară",
+    "subhead": "Rezervă o consultație personalizată sau contactează-ne pentru orice întrebări despre sesiuni și ateliere.",
+    "cta": "Programează o Sesiune",
+    "directEmail": "contact@drmayankahooja.com",
+    "phone": "+373 60 123 456",
+    "location": "Chișinău, Republica Moldova și Sanctuar Online",
+    "hours": "Doar cu programare prealabilă • Luni – Sâmbătă",
+    "detailsTitle": "Detalii Sanctuar",
+    "detailsDesc": "Fie că vizitezi sanctuarul nostru în persoană sau participi online, îți punem la dispoziție un spațiu senin pentru transformarea ta.",
+    "locationLabel": "Locația Sanctuarului",
+    "hoursLabel": "Ore de Consultație",
+    "emailLabel": "Email Direct",
+    "phoneLabel": "Telefon / WhatsApp",
+    "orEmail": "Sau trimiteți un e-mail la"
+  },
+  "footer": {
+    "brand": "Dr. Mayank Ahooja",
+    "title": "Doctor în Medicină | Maestru de Meditație | Ghid Spiritual | Vorbitor Motivațional",
+    "location": "Chișinău, Moldova și sanctuar virtual global",
+    "email": "contact@drmayankahooja.com",
+    "links": [
+      {
+        "label": "Despre",
+        "href": "#about"
+      },
+      {
+        "label": "Servicii",
+        "href": "#services"
+      },
+      {
+        "label": "Confidențialitate",
+        "href": "#privacy"
+      },
+      {
+        "label": "Termeni",
+        "href": "#terms"
+      }
+    ],
+    "disclaimer": "Declinare de responsabilitate.\n\nMetodele holistice, cum ar fi vindecarea energetică, spirituală și emoțională, sunt destinate să ofere un sprijin suplimentar pentru starea dumneavoastră de bine.\nAcestea nu își propun să înlocuiască serviciile medicale, psihologice sau alte servicii profesionale tradiționale de asistență medicală. Nu ar trebui să fie considerate un substitut pentru o consultație medicală sau profesională.\n\nAm utilizat metode care vă pot susține starea de bine, însă este important de reținut că fiecare persoană este unică, iar rezultatele pot varia.\nVă recomandăm întotdeauna să aveți încredere în propria judecată și, dacă aveți îndoieli, să consultați un profesionist din domeniul sănătății. Intenția noastră este de a oferi o abordare cuprinzătoare pentru îmbunătățirea sănătății, dar nu putem garanta rezultate specifice, deoarece acestea depind de mulți factori personali.\n\nCONSIMȚĂMÂNT INFORMAT\nPrin participarea la acest program de wellness, sunteți de acord că ați citit și ați înțeles termenii acestei declinări de responsabilitate. Vă apreciem participarea și vă încurajăm să aplicați cunoștințele dobândite în mod responsabil și cu respect față de dumneavoastră și față de ceilalți.",
+    "copyright": "Toate drepturile rezervate."
+  },
+  "languageModal": {
+    "title": "Alegeți Limba Preferată",
+    "subtitle": "Selectați limba în care doriți să experimentați sanctuarul nostru",
+    "confirm": "Continuă",
+    "languages": {
+      "en": {
+        "name": "English",
+        "native": "English",
+        "flag": "🇬🇧"
+      },
+      "ru": {
+        "name": "Russian",
+        "native": "Русский",
+        "flag": "🇷🇺"
+      },
+      "ro": {
+        "name": "Romanian",
+        "native": "Română",
+        "flag": "🇷🇴"
+      },
+      "fr": {
+        "name": "French",
+        "native": "Français",
+        "flag": "🇫🇷"
+      },
+      "de": {
+        "name": "German",
+        "native": "Deutsch",
+        "flag": "🇩🇪"
+      },
+      "it": {
+        "name": "Italian",
+        "native": "Italiano",
+        "flag": "🇮🇹"
+      },
+      "es": {
+        "name": "Spanish",
+        "native": "Español",
+        "flag": "🇪🇸"
+      }
+    }
+  },
+  "modal": {
+    "title": "Rezervă o Sesiune de Sanctuar",
+    "subtitle": "O întâlnire caldă și confidențială adaptată parcursului tău.",
+    "fullName": "Nume și Prenume",
+    "fullNamePlaceholder": "Numele dumneavoastră",
+    "email": "Adresă de Email",
+    "emailPlaceholder": "adresa@exemplu.com",
+    "phone": "Telefon / WhatsApp",
+    "phonePlaceholder": "+373 ...",
+    "service": "Modalitatea Dorită",
+    "selectService": "Selectați un serviciu",
+    "message": "Intenții și Mențiuni Personale",
+    "messagePlaceholder": "Împărtășiți ce vă aduce către această practică...",
+    "submit": "Trimite Solicitarea de Rezervare",
+    "submitting": "Se trimite solicitarea...",
+    "successTitle": "Solicitarea Dumneavoastră a Fost Înregistrată",
+    "successMsg": "Dr. Mayank Ahooja va analiza mesajul cu atenție. Vă vom contacta în termen de 24 de ore.",
+    "close": "Închide",
+    "languageNoticeBadge": "NOTIFICARE IMPORTANTĂ",
+    "languageNoticeTitle": "Limba de Desfășurare",
+    "languageNoticeText": "All the sessions will be held in English and Russian language.",
+    "languageNoticeSubtext": "Vă rugăm să confirmați că puteți desfășura sesiunea în limba engleză sau rusă înainte de a continua rezervarea.",
+    "languageAcceptBtn": "Am înțeles și accept",
+    "languageCancelBtn": "Anulare",
+    "optgroupServices": "Servicii de Sanctuar & Sesiuni",
+    "optgroupPrograms": "Programe & Ateliere Ghidate",
+    "tag": "PROGRAMARE ÎN SANCTUAR",
+    "trustText": "Cerință obligatorie • Acceptul este necesar pentru a continua",
+    "age": "Vârstă",
+    "agePlaceholder": "ex. 34",
+    "gender": "Gen",
+    "genderSelect": "Selectează genul",
+    "genderFemale": "Feminin",
+    "genderMale": "Masculin",
+    "genderOther": "Non-binar / Altul",
+    "genderPreferNot": "Prefer să nu specific",
+    "country": "Țară",
+    "countryPlaceholder": "ex. Moldova, România, Italia...",
+    "city": "OraÈ™",
+    "cityPlaceholder": "ex. Chișinău, București, Iași...",
+    "symptoms": "Simptome & Preocupări",
+    "symptomsSubtitle": "Alegeți sugestii de mai jos sau scrieți cu propriile cuvinte:",
+    "symptomsPlaceholder": "Descrieți simptomele resimțite, stresul, calitatea somnului, tensiunile din corp...",
+    "symptomSuggestions": [
+      "Supraîncărcare mentală și stres",
+      "Energie scăzută și oboseală cronică",
+      "Insomnie și somn agitat",
+      "Tensiuni fizice la gât și spate",
+      "Anxietate și neliniște interioară",
+      "Greutate emoțională și epuizare",
+      "Ceață mentală și lipsă de claritate",
+      "Dezechilibru al chakrelor și energiei"
+    ],
+    "countrySelect": "Selectați țara",
+    "citySelect": "Selectați orașul",
+    "selectCountryFirst": "Selectați țara mai întâi",
+    "cityOther": "Altul / Introduceți orașul...",
+    "optgroupPopular": "Populare / Regionale",
+    "optgroupAllCountries": "Toate țările (A-Z)",
+    "successResponse": "Răspuns în termen de 24 de ore",
+    "termsCheckboxLabel": "Am citit și sunt de acord cu",
+    "termsCheckboxLink": "Termenii și Condițiile"
+  },
+  "service": {
+    "keyFocusAreas": "Dimensiuni & Practici Esențiale",
+    "journey": "Călătorie Structurată în 3 Etape",
+    "step1Title": "Sosire & Centrare",
+    "step1Desc": "Așază-te într-un spațiu liniștit. Discutăm despre starea ta actuală, intenții și aducem o relaxare firească.",
+    "step2Title": "Practică Ghidată",
+    "step2Desc": "Ghidare atentă prin meditație profundă, armonie sonoră, respirație conștientă sau dialog suportiv.",
+    "step3Title": "Integrare & Liniște Durabilă",
+    "step3Desc": "Reflecții de împământare și obiceiuri practice simple pentru a menține pacea lăuntrică în viața de zi cu zi.",
+    "readyTitle": "Începe Practica Ta cu Dr. Mayank",
+    "readyDesc": "Programările sunt oferite online la nivel global și în sanctuarul nostru primitor. Rezervă-ți dialogul privat.",
+    "relatedTitle": "Practici Complementare",
+    "exploreModality": "Explorează"
+  },
+  "pause": {
+    "eyebrow": "O PAUZĂ. O RESPIRAȚIE. O ÎNTOARCERE.",
+    "quoteLine1": "Uneori, primul pas",
+    "quoteLine2": "înainte",
+    "quoteLine3": "este pur și simplu să înveți să fii",
+    "quoteGold": "în liniște.",
+    "scrollText": "DERULAȚI PENTRU A RESPIRA"
+  },
+  "wellness": {
+    "tag": "FILOSOFIE FUNDAMENTALĂ",
+    "headline": "Cei 5 Piloni ai Întregirii",
+    "subtitle": "O abordare completă de sanctuar care armonizează mintea, gândirea clară, liniștea emoțională și evoluția interioară.",
+    "alignedServices": "Practici Conexe"
+  },
+  "notFound": {
+    "tag": "404 • DEVIERE LINIȘTITĂ",
+    "title": "Întoarcere în Centru",
+    "subtitle": "Calea căutată s-a dizolvat lin, dar sanctuarul rămâne deschis. Oprește-te, respiră conștient și revino la început.",
+    "cta": "Înapoi la Pagina Principală"
+  },
+  "threePillars": {
+    "tag": "FUNDAȚIA CONCEPTUALĂ",
+    "mainHeading": "Trei perspective. O ființă completă.",
+    "formulaHeadline": "Meditație × Știință × Bunăstare Holistică",
+    "subHeading": "Meditația oferă practica. Știința oferă înțelegerea. Bunăstarea holistică oferă conexiune profundă și sens. Împreună, creează o armonie desăvârșită.",
+    "completeJourney": "Călătoria Completă",
+    "pillars": [
+      {
+        "id": "meditation",
+        "num": "01",
+        "label": "MEDITAȚIE",
+        "tag": "PRACTICA CONȘTIENTĂ",
+        "action": "Experimentează-te pe tine.",
+        "principle": "Meditația oferă practica trăită.",
+        "quote": "Conștientizarea transformă înțelegerea într-o practică vie.",
+        "details": "Exerciții simple de respirație, momente ghidate de liniște și arta pauzei. Înțelegerea intelectuală se transformă în pace autentică și relaxare profundă.",
+        "pills": [
+          "Respirație Conștientă",
+          "Relaxare Naturală",
+          "Prezență",
+          "Spațiu de Liniște"
+        ]
+      },
+      {
+        "id": "science",
+        "num": "02",
+        "label": "ȘTIINȚĂ",
+        "tag": "ÎNȚELEGEREA FUNDAMENTATĂ",
+        "action": "Înțelege-te pe tine.",
+        "principle": "Știința oferă înțelegerea clară.",
+        "quote": "Înțelegerea sistemului uman ne oferă fundamentul pentru o transformare reală.",
+        "details": "O privire clară asupra modului în care stresul, respirația și obiceiurile zilnice influențează corpul și mintea, pentru a înțelege exact starea ta.",
+        "pills": [
+          "Conexiune Minte-Corp",
+          "Eliberare de Stres",
+          "Respirație Calmă",
+          "Ghidare Blândă"
+        ]
+      },
+      {
+        "id": "spirituality",
+        "num": "03",
+        "label": "BUNĂSTARE HOLISTICĂ",
+        "tag": "ARMONIE INTERIOARĂ & SENS",
+        "action": "Conectează-te cu tine.",
+        "principle": "Bunăstarea holistică aduce conexiune profundă și sens.",
+        "quote": "Conexiunea interioară aduce sens, echilibru și o stare profundă de bine.",
+        "details": "Armonizare energetică blândă, rezonanță sonoră liniștitoare și claritate interioară. Reconectarea cu cine ești dincolo de roluri și așteptări cotidiene.",
+        "pills": [
+          "Aliniere Energetică",
+          "Sunet Liniștitor",
+          "Claritate Interioară",
+          "Întregirea Ființei"
+        ]
+      }
+    ]
+  },
+  "aboutPreview": {
+    "tabs": {
+      "clinical": "Fundamente Științifice",
+      "meditation": "Practică Conștientă",
+      "symbiosis": "Planul Armonie"
+    },
+    "programTabs": {
+      "clinical": {
+        "tag": "ȘTIINȚĂ PRACTICĂ & ÎNȚELEGERE",
+        "title": "Doctor în Medicină (M.D.)",
+        "subtitle": "Înțelegere Clară a Minții, Creierului și Corpului",
+        "body": "Dr. Mayank aduce o bază științifică solidă, ajutându-vă să înțelegeți cum gândurile, stresul și stilul de viață afectează direct corpul. Fiecare sesiune este ancorată în siguranță, claritate și cunoaștere practică.",
+        "features": [
+          {
+            "title": "Ghidare bazată pe dovezi",
+            "subtitle": "Ancorată în știință reală și echilibru minte-corp"
+          },
+          {
+            "title": "Conexiunea minte-corp",
+            "subtitle": "Unirea clarității mentale cu relaxarea fizică naturală"
+          },
+          {
+            "title": "În ritmul tău",
+            "subtitle": "Ghidare personalizată adaptată programului tău zilnic"
+          }
+        ],
+        "buttonText": "Descoperă abordarea mea →",
+        "floatingBadge": "Înțelegere clară. Creștere autentică."
+      },
+      "meditation": {
+        "tag": "MEDITAȚIE & MINDFULNESS",
+        "title": "Maestru de Meditație & Mentor",
+        "subtitle": "15+ Ani de Antrenament al Minții",
+        "body": "Dincolo de soluții de moment: tehnici atemporale de meditație, respirație conștientă și liniște interioară dobândite în peste 15 ani de practică dedicată.",
+        "features": [
+          {
+            "title": "Meditație Autentică",
+            "subtitle": "Tehnici validate de respirație, atenție și contemplare"
+          },
+          {
+            "title": "Reflexul Natural de Calmare",
+            "subtitle": "Stimularea răspunsului natural de relaxare al corpului"
+          },
+          {
+            "title": "Liniște Mentală Profundă",
+            "subtitle": "Calmarea blândă a stresului repetitiv și a gândurilor agitate"
+          }
+        ],
+        "buttonText": "Explorează sesiunile de meditație →",
+        "floatingBadge": "Trezește conștiența. Liniștește mintea."
+      },
+      "symbiosis": {
+        "tag": "BUNĂSTARE INTEGRATIVĂ",
+        "title": "Planul Armonie",
+        "subtitle": "Armonizarea Minții, Corpului și Energiei",
+        "body": "Sinteza dintre înțelegerea științifică clară și practicile energetice blânde. O călătorie 1:1 personalizată care ameliorează oboseala fizică, tensiunea emoțională și epuizarea.",
+        "features": [
+          {
+            "title": "Harta Personală de Bunăstare",
+            "subtitle": "Înțelegerea tiparelor unice de stres și a fluxului energetic"
+          },
+          {
+            "title": "Eliberarea Tensiunilor",
+            "subtitle": "Renunțarea la presiunea acumulată și rigiditatea fizică"
+          },
+          {
+            "title": "Independență Durabilă",
+            "subtitle": "Autonomie emoțională de lungă durată ancorată în rutina zilnică"
+          }
+        ],
+        "buttonText": "Descoperă Planul Armonie →",
+        "floatingBadge": "Reînnoiește energia. Experimentează armonia."
+      }
+    },
+    "explorer": {
+      "tag": "EXPLORATOR INTERACTIV DE EXPERIENȚE",
+      "title": "Ce Simți Chiar Acum?",
+      "subtitle": "Selectează starea pe care o experimentezi pentru a vedea cum înțelegerea practică și mindfulness-ul se unesc pentru a readuce echilibrul.",
+      "calloutTitle": "Nu știi de unde să începi?",
+      "calloutDesc": "Alege ce simți pentru a vedea cum cunoașterea clară și practicile blânde te ajută să te simți mai bine.",
+      "commonExperiences": "EXPERIENȚE FRECVENTE",
+      "ourApproach": "ABORDAREA NOASTRĂ",
+      "explorePath": "Explorează această cale →"
+    },
+    "symptoms": {
+      "insomnia": {
+        "label": "Somn Odihnitor",
+        "title": "Somn Odihnitor & Seri Liniștite",
+        "italicPremise": "Obiceiuri mai bune de somn. Relaxare naturală. Energie zilnică reînnoită.",
+        "paragraph": "Zilele aglomerate, ecranele până târziu și gândurile fără oprire pot tulbura odihna de noapte. Ghidăm mintea și corpul spre un repaus blând prin rutine liniștitoare de seară și respirație calmă.",
+        "checkmarks": [
+          "Favorizează un somn odihnitor, profund și neîntrerupt",
+          "Calmează gândurile agitate dinainte de culcare și neliniștea fizică",
+          "Construiește ritualuri plăcute și durabile înainte de somn",
+          "Restabilește ritmurile naturale de somn pentru o trezire plină de energie"
+        ],
+        "experiences": [
+          "Nopți agitate",
+          "Dificultate în a adormi",
+          "Gânduri obsesive în pat",
+          "Epuizare dimineața",
+          "Somn fragmentat",
+          "Căderi de energie în timpul zilei"
+        ],
+        "approaches": [
+          {
+            "title": "Ritmul de Seară",
+            "desc": "Protocoale liniștitoare care pregătesc mintea și corpul pentru somn."
+          },
+          {
+            "title": "Pranayama Blândă",
+            "desc": "Respirație liniștitoare pentru calmarea naturală a sistemului nervos."
+          },
+          {
+            "title": "Liniște Regenerativă",
+            "desc": "Relaxare ghidată pentru detensionarea mușchilor înainte de culcare."
+          }
+        ]
+      },
+      "female": {
+        "label": "Sănătatea Femeii",
+        "title": "Grijă de Sine, Echilibru & Încredere Radiantă",
+        "italicPremise": "Hrănește-ți ritmul. Redobândește încrederea. Radiază echilibru.",
+        "paragraph": "O abordare empatică și holistică pentru susținerea vitalității feminine, armoniei emoționale și a unor rutine împământate pentru sănătate de durată.",
+        "checkmarks": [
+          "Cultivă echilibrul emoțional și puterea interioară",
+          "Hrănește obiceiurile zilnice de grijă de sine și vitalitate",
+          "Susține ritmurile naturale sănătoase și relaxarea emoțională",
+          "Redobândește încrederea senină și starea de bine de zi cu zi"
+        ],
+        "experiences": [
+          "Oboseală emoțională",
+          "Împărțirea între roluri",
+          "Stres hormonal subtil",
+          "Timp redus pentru sine",
+          "Sursă de copleșire",
+          "Pierderea vitalității"
+        ],
+        "approaches": [
+          {
+            "title": "Grijă Conștientă",
+            "desc": "Rutine zilnice personalizate ce onorează ritmurile naturale și limitele."
+          },
+          {
+            "title": "Echilibru Emoțional",
+            "desc": "Practici blânde de atenție pentru un calm interior durabil."
+          },
+          {
+            "title": "Armonie Vibrantă",
+            "desc": "Practici holistice hrănitoare pentru menținerea energiei zilnice."
+          }
+        ]
+      },
+      "teen": {
+        "label": "Tineri & Școală",
+        "title": "Gestionarea Presiunii Școlare & a Suprasolicitării Digitale",
+        "italicPremise": "Ușurează stresul examenelor. Deconectează excesul. Construiește încredere reală.",
+        "paragraph": "Ghidarea adolescenților în fața așteptărilor școlare, suprasolicitării ecranelor și stresului emoțional prin pauze conștiente și rutine echilibrate.",
+        "checkmarks": [
+          "Ameliorează stresul legat de note și presiunea performanței",
+          "Restabilește limite sănătoase cu ecranele și rețelele sociale",
+          "Construiește o stimă de sine autentică și reziliență emoțională",
+          "Protejează somnul odihnitor și echilibrul social"
+        ],
+        "experiences": [
+          "Stresul examenelor",
+          "Oboseala ecranelor",
+          "Copleșire emoțională",
+          "Lipsă de motivație",
+          "Epuizare cronică",
+          "Îngrijorare pentru viitor"
+        ],
+        "approaches": [
+          {
+            "title": "Eliberarea Presiunii",
+            "desc": "Instrumente practice pentru a gestiona cerințele de studiu fără epuizare."
+          },
+          {
+            "title": "Reset Digital",
+            "desc": "Pauze sănătoase de la ecrane pentru claritate mentală."
+          },
+          {
+            "title": "Împământare Interioară",
+            "desc": "Dezvoltarea valorii de sine și a calmului emoțional."
+          }
+        ]
+      },
+      "corporate": {
+        "label": "Mediu Profesional",
+        "title": "Calm la Locul de Muncă & Stres Corporativ",
+        "italicPremise": "O versiune mai calmă a ta. Zile de muncă mai ușoare. Echilibru la birou.",
+        "paragraph": "Ghidarea profesioniștilor și liderilor prin zile de lucru solicitante, oboseală decizională și cerințe mari prin resetări de 5 minute, limite clare și atenție concentrată.",
+        "checkmarks": [
+          "Reduce presiunea termenelor limită, oboseala de ecran și supraîncărcarea",
+          "Construiește micro-obiceiuri de 5 minute pentru a rămâne calm în momente critice",
+          "Creează limite sănătoase, fără vinovăție, între carieră și viața personală",
+          "Protejează concentrarea mentală zilnică și serile liniștite"
+        ],
+        "experiences": [
+          "Ședințe consecutive",
+          "Oboseală decizională",
+          "Timp continuu la ecran",
+          "Presiunea termenelor",
+          "Dificultate în deconectare",
+          "Neliniștea de duminică seară"
+        ],
+        "approaches": [
+          {
+            "title": "Resetări la Birou",
+            "desc": "Exerciții simple de 5 minute de respirație și pauză între sarcini solicitante."
+          },
+          {
+            "title": "Focalizare Calmă",
+            "desc": "Obiceiuri de împământare pentru a elibera agitația și a lua decizii sigure."
+          },
+          {
+            "title": "Limita de Seară",
+            "desc": "Obiceiuri blânde de deconectare pentru a te bucura cu adevărat de serile libere."
+          }
+        ]
+      },
+      "subtle": {
+        "label": "Echilibru Interior",
+        "title": "Flux Energetic & Pace Interioară",
+        "italicPremise": "Echilibrează nadi-urile. Aliniază chakrele. Trezește liniștea lăuntrică.",
+        "paragraph": "Conectarea cu fluxul tău natural de energie – echilibrarea energiilor active și pasive și armonizarea celor 7 chakre pentru o liniște profundă.",
+        "checkmarks": [
+          "Echilibrează fluxul intern de energie activă și regenerativă",
+          "Restabilește alinierea energetică prin cele 7 chakre",
+          "Eliberează blocajele subtile pentru o meditație firească",
+          "Integrează durabil vitalitatea fizică cu pacea sufletească"
+        ],
+        "experiences": [
+          "Dorință de liniște adâncă",
+          "Plafonare în meditație",
+          "Dezechilibru energetic",
+          "Agitație mentală continuă",
+          "Căutarea alinierii interioare",
+          "Curiozitate spirituală"
+        ],
+        "approaches": [
+          {
+            "title": "Alinierea Chakrelor",
+            "desc": "Contemplare ghidată pentru echilibrarea celor 7 centri energetici."
+          },
+          {
+            "title": "Armonizarea Nadi-urilor",
+            "desc": "Echilibrarea energiei solare active cu cea lunară calmantă."
+          },
+          {
+            "title": "Realizare Interioară",
+            "desc": "Ancorarea unei prezențe de neclintit în viața modernă."
+          }
+        ]
+      }
+    },
+    "differentiators": {
+      "tag": "DE CE SĂ LUCREZI CU DR. MAYANK",
+      "title": "Abordarea Multidisciplinară",
+      "subtitle": "Puntea rară între știința clară, înțelegerea empatică și meditația autentică.",
+      "learnMore": "Află de ce contează →",
+      "showLess": "Arată mai puțin ↑",
+      "items": [
+        {
+          "tag": "Știință + Meditație",
+          "title": "Dubla Perspectivă",
+          "body": "Unirea științei medicale cu meditația pentru o înțelegere profundă a stării tale de bine.",
+          "detail": "Rar găsești un medic instruit care onorează profund pacea spirituală, sau un ghid de meditație care înțelege fiziologia corpului."
+        },
+        {
+          "tag": "Simplu & Împământat",
+          "title": "Simplu & Clar",
+          "body": "Fără teorii complicate. Doar îndrumare practică și ușor de aplicat în viața de zi cu zi.",
+          "detail": "Îți respectăm convingerile fără dogme. Totul este blând, practic și orientat spre beneficii reale pe care le poți simți."
+        },
+        {
+          "tag": "Îndrumare Personalizată",
+          "title": "Grijă Concepută Pentru Tine",
+          "body": "Călătoria ta este unică. Primești îndrumare adaptată nevoilor, sentimentelor și obiectivelor tale.",
+          "detail": "Fie că ai nevoie de respirație liniștitoare, eliberare emoțională sau concentrare clară, fiecare practică este adaptată ție."
+        },
+        {
+          "tag": "Independență Durabilă",
+          "title": "Autonomie pe Viață",
+          "body": "Înveți instrumente simple și obiceiuri pe care le poți folosi cu încredere pe cont propriu.",
+          "detail": "Vei finaliza sesiunile cu propriul ghid de calm și obiceiuri zilnice care te mențin centrat indiferent de agitația exterioară."
+        }
+      ]
+    }
+  },
+  "whatsapp": {
+    "enabled": true,
+    "number": "+373 60 123 456",
+    "message": "Bună ziua Dr. Mayank, aș dori să aflu detalii despre o consultație privată 1:1.",
+    "label": "Vorbiți cu Dr. Mayank"
+  },
+  "terms": {
+    "tag": "NOTIFICARE JURIDICĂ",
+    "title": "Termeni și Condiții",
+    "subtitle": "Vă rugăm să citiți cu atenție acești termeni înainte de a rezerva o ședință sau de a participa la orice program de wellness oferit de Dr. Mayank Ahooja.",
+    "lastUpdated": "Ultima actualizare: octombrie 2026",
+    "acceptanceNote": "Prin rezervarea unei ședințe cu Dr. Mayank Ahooja, confirmați că ați citit, înțeles și sunteți de acord cu toți termenii și condițiile de mai sus.",
+    "sections": [
+      {
+        "title": "Natura serviciilor holistice",
+        "points": [
+          "Sesiunile holistice (meditație, respirație, echilibru energetic) sunt practici complementare de wellness.",
+          "Sesiunile nu sunt consultații clinice și nu creează o relație medic-pacient.",
+          "Aceste servicii nu diagnostichează, nu tratează și nu înlocuiesc asistența medicală autorizată."
+        ]
+      },
+      {
+        "title": "Rezultate individuale și lipsa garanțiilor",
+        "points": [
+          "Rezultatele variază în mod natural de la o persoană la alta.",
+          "Nu oferim garanții privind rezultate medicale sau terapeutice specifice.",
+          "Progresul este rezultatul efortului colaborativ dintre practician și participant."
+        ]
+      },
+      {
+        "title": "Nu înlocuiește sfatul medical",
+        "points": [
+          "Consultați întotdeauna un medic licențiat pentru orice problemă de sănătate fizică sau psihică.",
+          "Nu întrerupeți și nu amânați tratamentul medical prescris în favoarea practicilor holistice.",
+          "Informațiile împărtășite au scop exclusiv educațional și de susținere a stării de bine."
+        ]
+      },
+      {
+        "title": "Responsabilitatea participantului",
+        "points": [
+          "Participarea la toate sesiunile și practicile este complet voluntară.",
+          "Vă asumați întreaga responsabilitate personală pentru alegerile și acțiunile dumneavoastră.",
+          "Sunteți de acord să participați cu prezență conștientă, onestitate și respect reciproc."
+        ]
+      },
+      {
+        "title": "Confidențialitate și intimitate",
+        "points": [
+          "Toate informațiile personale discutate în timpul sesiunilor sunt strict confidențiale.",
+          "Datele colectate la rezervare sunt utilizate exclusiv pentru organizarea sesiunilor dumneavoastră.",
+          "Nu vindem și nu transmitem datele dumneavoastră personale către terți."
+        ]
+      },
+      {
+        "title": "Limba ședinței",
+        "points": [
+          "Toate sesiunile individuale și de grup se desfășoară exclusiv în limbile engleză și rusă.",
+          "Confirmați că puteți comunica confortabil în engleză sau rusă.",
+          "Sesiunile live în alte limbi nu sunt disponibile în prezent."
+        ]
+      },
+      {
+        "title": "Consimțământ informat",
+        "points": [
+          "Rezervarea unei sesiuni confirmă că ați citit și acceptat pe deplin acești termeni.",
+          "Consimțiți voluntar să primiți îndrumare holistică și de meditație.",
+          "Apreciem angajamentul dumneavoastră pentru o participare responsabilă și respectuoasă."
+        ]
+      },
+      {
+        "title": "Modificări ale acestor termeni",
+        "points": [
+          "Acești termeni pot fi actualizați periodic pentru a reflecta evoluția serviciilor noastre.",
+          "Continuarea participării constituie acceptarea termenilor revizuiți.",
+          "Modificările importante vor fi comunicate în procesul de rezervare."
+        ]
+      }
+    ]
+  }
+}

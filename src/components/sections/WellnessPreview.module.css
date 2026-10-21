@@ -1,0 +1,113 @@
+.section {
+  padding: clamp(4.5rem, 7.5vw, 6.5rem) 0;
+  background: linear-gradient(180deg, var(--bg-canvas) 0%, var(--bg-surface) 50%, var(--bg-canvas) 100%);
+  position: relative;
+}
+
+.container {
+  max-width: var(--max-w, 1200px);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.header {
+  text-align: center;
+  max-width: 750px;
+  margin: 0 auto 2.5rem;
+}
+
+.headline {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 3.2vw, 3rem);
+  font-weight: 700;
+  color: var(--text-primary, #181124);
+  line-height: 1.15;
+  margin-bottom: 1rem;
+}
+
+.subhead {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--text-muted, #483F57);
+  line-height: 1.65;
+  margin-bottom: 1.25rem;
+}
+
+.pillarsKeywords {
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  color: var(--gold-dark, #9E702D);
+  text-transform: uppercase;
+}
+
+.pillarsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+  margin-top: 2rem;
+}
+
+.pillarMiniCard {
+  position: relative;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(200, 149, 74, 0.25);
+  border-radius: 20px;
+  padding: 1.75rem 1.4rem;
+  box-shadow: 0 10px 30px -8px rgba(24, 17, 36, 0.06), 0 0 1px 1px rgba(200, 149, 74, 0.1);
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.pillarMiniCard::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--gold-metallic, linear-gradient(135deg, #EED596 0%, #C8954A 50%, #9E702D 100%));
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.pillarMiniCard:hover {
+  transform: translateY(-4px);
+  background: rgba(255, 255, 255, 0.96);
+  border-color: rgba(200, 149, 74, 0.55);
+  box-shadow: 0 18px 42px -10px rgba(24, 17, 36, 0.12), 0 0 16px rgba(212, 175, 55, 0.15);
+}
+
+.pillarMiniCard:hover::before {
+  opacity: 1;
+}
+
+.pillarNumber {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  background: var(--gold-metallic, linear-gradient(135deg, #EED596 0%, #C8954A 50%, #9E702D 100%));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 0.35rem;
+}
+
+.pillarTitle {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary, #181124);
+  margin-bottom: 0.5rem;
+}
+
+.pillarSummary {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--text-muted, #483F57);
+  line-height: 1.55;
+}

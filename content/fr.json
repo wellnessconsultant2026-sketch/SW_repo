@@ -1,0 +1,2067 @@
+{
+  "lang": "fr",
+  "meta": {
+    "title": "Dr Mayank Ahooja | Docteur en Médecine & Maître de Méditation",
+    "description": "Docteur en Médecine, Maître de Méditation, Coach Spirituel et Conférencier Motivateur. Parcours personnalisés de bien-être, gestion du stress et harmonisation des chakras.",
+    "ogTitle": "Dr Mayank Ahooja — Docteur en Médecine | Maître de Méditation | Coach Spirituel",
+    "ogDescription": "Découvrez un accompagnement sur mesure en méditation, pleine conscience, respiration, équilibre émotionnel et pratiques énergétiques avec le Dr Mayank Ahooja."
+  },
+  "brand": {
+    "name": "Dr Mayank Ahooja",
+    "credentials": "Docteur en Médecine",
+    "title": "Docteur en Médecine | Maître de Méditation | Coach Spirituel | Conférencier Motivateur",
+    "shortTitle": "Maître de Méditation & Coach Spirituel",
+    "tagline": "Un sanctuaire serein pour la transformation intérieure",
+    "location": "Chișinău, Moldavie & Sanctuaire Virtuel Mondial",
+    "email": "contact@drmayankahooja.com",
+    "phone": "+373 60 123 456",
+    "profileImage": "/images/profile/1791092487681_20190710_082214.jpg"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "gallery": "Galerie",
+    "programs": "Programmes",
+    "articles": "Articles",
+    "contact": "Contact",
+    "cta": "Réserver une Séance",
+    "chooseLanguage": "Langue",
+    "wellness": "Bien-être",
+    "modalitiesTag": "Modalités du Sanctuaire",
+    "viewAll": "Voir tout",
+    "ctaNav": "Réserver",
+    "faq": "FAQ",
+    "testimonials": "Témoignages",
+    "terms": "Conditions"
+  },
+  "hero": {
+    "eyebrow": "Docteur en Médecine & Maître de Méditation",
+    "headlineLine1": "Revenez",
+    "headlineLine2": "À Vous-Même",
+    "description": "Un espace paisible pour la guérison, l'équilibre intérieur, la clarté et une connexion profonde avec votre essence.",
+    "primaryCTA": "Commencer le Voyage",
+    "secondaryCTA": "Découvrir la Démarche",
+    "keywords": [
+      "MÉDITATION",
+      "ÉNERGIE & CHAKRAS",
+      "GESTION DU STRESS",
+      "COACHING SPIRITUEL"
+    ],
+    "scroll": "Faites défiler pour explorer",
+    "floatingMedicalTitle": "Docteur en Médecine",
+    "floatingMedicalSubtitle": "Science & Pleine Conscience",
+    "floatingMasteryTitle": "15+ Ans de Maîtrise",
+    "floatingMasterySubtitle": "10 000+ Heures de Méditation",
+    "authorityTag": "Sanctuaire Corps-Esprit"
+  },
+  "philosophy": {
+    "tag": "PHILOSOPHIE FONDATRICE",
+    "headline": "La Transformation Commence de l'Intérieur.",
+    "text": "Un voyage authentique vers l'équilibre commence par la conscience de nos pensées, de nos émotions, de notre corps et de notre être intérieur. Grâce à la méditation, à la pleine conscience, à la respiration et aux pratiques de bien-être complémentaires, chacun peut ouvrir un espace propice au calme, à la lucidité et à l'harmonie quotidienne."
+  },
+  "about": {
+    "tag": "À PROPOS DU DR MAYANK AHOOJA",
+    "headline": "Docteur en Médecine | Maître de Méditation | Coach Spirituel | Conférencier Motivateur",
+    "lead": "Dédié à aider les personnes à cultiver plus de calme, d'équilibre, de conscience de soi et d'harmonie intérieure.",
+    "bio1": "Le Dr Mayank Ahooja est docteur en médecine, maître de méditation, coach spirituel et conférencier motivateur, dédié à aider les personnes à cultiver plus de calme, d'équilibre, de conscience de soi et d'harmonie intérieure.",
+    "bio2": "Fort de plus de 5 ans d'expérience dans les pratiques axées sur l'énergie et les chakras, le Dr Ahooja allie méditation, techniques de respiration, pratiques sonores et vibratoires, visualisation par les couleurs et approches énergétiques pour créer des parcours de bien-être personnalisés.",
+    "bio3": "Sa démarche repose sur la conviction qu'un changement significatif commence par la conscience de l'esprit, des émotions, du corps et du soi intérieur.",
+    "personalQuote": "La véritable guérison commence lorsque la science physiologique clinique rencontre la paix profonde de votre propre esprit.",
+    "experienceYears": "15+",
+    "experienceLabel": "Années de Pratique Dévouée",
+    "stats": [
+      {
+        "num": "15+",
+        "label": "Années en Méditation & Pratiques Énergétiques"
+      },
+      {
+        "num": "8",
+        "label": "Modalités Majeures du Sanctuaire"
+      },
+      {
+        "num": "100%",
+        "label": "Accompagnement 1:1 Sur Mesure"
+      }
+    ],
+    "medicalBackground": {
+      "tag": "FONDEMENT ACADÉMIQUE & CLINIQUE",
+      "title": "Docteur en Médecine (M.D.)",
+      "subtitle": "Compréhension clinique du corps, du cerveau et de la physiologie",
+      "text": "Rigoureusement formé en tant que Docteur en Médecine, le Dr Mayank aborde le bien-être avec une base solide en anatomie, neurobiologie clinique et physiologie humaine. Il saisit le coût biologique réel que la surcharge du système nerveux sympathique, le dérèglement vagal et le surmenage émotionnel infligent au corps. En ancrant chaque pratique dans la réalité biologique, il guide le système nerveux vers la sécurité, la dominance parasympathique et l'homéostasie réparatrice.",
+      "highlights": [
+        "Formation universitaire de Docteur en Médecine (M.D.) et cursus clinique",
+        "Compréhension approfondie du système nerveux autonome et du nerf vague",
+        "Approche physiologique de la libération du stress, des tensions et du burnout",
+        "Intégration bienveillante et scientifique complétant la médecine conventionnelle"
+      ]
+    },
+    "spiritualJourney": {
+      "tag": "15+ ANNÉES DE SADHANA ET MÉDITATION",
+      "title": "Méditation et Parcours Spirituel",
+      "subtitle": "De l'observation clinique à la réalisation intérieure",
+      "text": "Le cheminement intérieur du Dr Mayank a débuté il y a plus de 15 ans lorsqu'il réalisa que, si la médecine guérit le véhicule physique, la paix profonde et la vitalité exigent l'éveil du soi intérieur. Se consacrant à une sadhana personnelle rigoureuse, il a exploré les traditions méditatives orientales, les chakras, le pranayama et la résonance sonore. Plus d'une décennie et demie de pratique continue ont forgé sa capacité à maintenir un espace sacré et à guider les personnes du tumulte vers la clarté et la sérénité.",
+      "highlights": [
+        "Plus de 15 ans de pratique méditative quotidienne et d'introspection",
+        "Maîtrise vécue de l'alignement des chakras, du pranayama et des sons vibratoires",
+        "Accompagnement lors des transitions de vie, du surmenage et de l'éveil spirituel",
+        "Une présence ancrée et compatissante façonnée par des centaines de séances privées"
+      ]
+    },
+    "philosophyDetailed": {
+      "tag": "PHILOSOPHIE MAJEURE",
+      "headline": "La transformation commence de l'intérieur — Retournez à vous-même",
+      "quote": "Vous n'avez pas besoin d'être « réparé » ; il vous suffit de vous rappeler qui vous êtes et de revenir en votre centre.",
+      "text": "Un cheminement authentique vers l'équilibre s'amorce par la conscience de nos pensées, émotions, corps et soi intérieur. Grâce à la méditation et au souffle, nous ouvrons l'espace nécessaire à une harmonie pérenne.",
+      "pillars": [
+        {
+          "title": "Intelligence innée d'auto-guérison",
+          "desc": "L'organisme humain recèle une capacité naturelle de renouveau et d'équilibre dès lors que le vacarme mental et les tensions somatiques s'apaisent."
+        },
+        {
+          "title": "Conscience bienveillante plutôt que contrainte",
+          "desc": "La véritable transformation ne naît pas d'une discipline sévère, mais d'une observation douce, lucide et dénuée de tout jugement."
+        },
+        {
+          "title": "Intégrité de l'être",
+          "desc": "La véritable santé unit le corps physique, la libération émotionnelle, la clarté mentale et l'esprit en un même mouvement harmonieux."
+        }
+      ]
+    },
+    "differentiators": {
+      "tag": "POURQUOI CHOISIR LE DR. MAYANK",
+      "title": "Ce qui rend cette approche unique",
+      "subtitle": "Une passerelle d'exception entre la rigueur médicale scientifique et l'authentique maîtrise spirituelle.",
+      "items": [
+        {
+          "num": "01",
+          "icon": "",
+          "title": "Le double regard : Médecin et Maître de Méditation",
+          "desc": "Vous n'avez plus à choisir entre la logique clinique et la profondeur spirituelle. Le Dr Mayank allie la précision d'un médecin à la présence attentive d'un maître en méditation."
+        },
+        {
+          "num": "02",
+          "icon": "",
+          "title": "100% Ancré, Sûr et Sans Dogme",
+          "desc": "Aucune croyance imposée, aucun flou mystique. Chaque pratique est limpide, douce, accessible et ancrée dans de réels bienfaits physiologiques."
+        },
+        {
+          "num": "03",
+          "icon": "",
+          "title": "Calibration sur mesure 1:1 du système nerveux",
+          "desc": "Chaque individu porte une histoire singulière de stress et de blocages. La séance est personnalisée avec soin selon votre état corporel et énergétique."
+        },
+        {
+          "num": "04",
+          "icon": "",
+          "title": "Autonomie et outils pour toute la vie",
+          "desc": "L'objectif n'est pas de créer une dépendance. Vous repartez avec des exercices pratiques que vous pouvez mobiliser en toute autonomie au quotidien."
+        }
+      ]
+    },
+    "goal": {
+      "heading": "Notre But",
+      "keywords": "Calme • Bien-être • Équilibre • Harmonie • Bonheur",
+      "text": "La démarche globale vise à aider chacun à ralentir, se reconnecter à son être profond, développer son attention et cultiver une paix intérieure durable."
+    },
+    "disclaimer": "Avertissement.\n\nLes méthodes holistiques, telles que les soins énergétiques, spirituels et émotionnels, sont destinées à apporter un soutien complémentaire à votre bien-être.\nElles ne visent pas à remplacer les services médicaux, psychologiques ou d'autres professionnels de santé traditionnels. Elles ne doivent pas être considérées comme un substitut à une consultation médicale ou professionnelle.\n\nNous utilisons des méthodes pouvant soutenir votre bien-être, mais il est important de rappeler que chaque personne est unique et que les résultats peuvent varier.\nNous vous recommandons toujours de faire confiance à votre propre jugement et, en cas de doute, de consulter un professionnel de la santé. Notre intention est d'offrir une approche globale de l'amélioration de la santé, mais nous ne pouvons garantir des résultats spécifiques, car ils dépendent de nombreux facteurs personnels.\n\nCONSENTEMENT ÉCLAIRÉ\nEn participant à ce programme de bien-être, vous reconnaissez avoir lu et compris les termes de cet avertissement. Nous vous remercions de votre participation et vous encourageons à appliquer les connaissances acquises de manière responsable et dans le respect de vous-même et d'autrui.",
+    "areasOfPracticeTitle": "Domaines de Pratique",
+    "areasOfPracticeSubtitle": "Les dimensions fondamentales de l'équilibre holistique et de l'évolution de soi",
+    "areas": [
+      {
+        "id": "meditation-mindfulness",
+        "title": "Méditation & Pleine Conscience",
+        "desc": "Pratiques de méditation et guidance personnelle conçues pour stimuler la conscience, le calme et la clarté intérieure."
+      },
+      {
+        "id": "stress-management",
+        "title": "Gestion du Stress",
+        "desc": "Approches dédiées à la relaxation profonde, à la libération des tensions et à l'équilibre émotionnel."
+      },
+      {
+        "id": "energy-practices",
+        "title": "Pratiques Énergétiques",
+        "desc": "Pratiques axées sur l'énergie favorisant la vitalité, la présence et le sentiment d'harmonie."
+      },
+      {
+        "id": "chakra-practices",
+        "title": "Pratiques des Chakras",
+        "desc": "Méditations centrées sur les centres énergétiques et harmonisation par fréquences vibratoires."
+      },
+      {
+        "id": "sound-vibrational",
+        "title": "Pratiques Sonores & Vibratoires",
+        "desc": "Exploration du son et des vibrations comme disciplines complémentaires de ressourcement."
+      },
+      {
+        "id": "color-visualization",
+        "title": "Visualisation des Couleurs",
+        "desc": "Pratiques de visualisation chromatique au service de l'alignement et de la détente intérieure."
+      },
+      {
+        "id": "breathing-practices",
+        "title": "Pratiques Respiratoires",
+        "desc": "Techniques de respiration favorisant la détente du système nerveux et la connexion corps-esprit."
+      },
+      {
+        "id": "spiritual-coaching",
+        "title": "Coaching Spirituel",
+        "desc": "Accompagnement personnel orienté vers l'éveil intérieur, la perspective de vie et l'harmonie globale."
+      }
+    ],
+    "approachesTitle": "Comment Nous Pouvons Travailler Ensemble",
+    "approachesSubtitle": "Des formats de séances adaptés à votre cheminement personnel",
+    "approaches": [
+      {
+        "id": "individual-consultation",
+        "num": "01",
+        "title": "Consultation Individuelle",
+        "desc": "Accompagnement personnalisé en tête-à-tête ciblant vos objectifs de bien-être, la gestion du stress, l'écoute émotionnelle et la croissance personnelle."
+      },
+      {
+        "id": "individual-meditation",
+        "num": "02",
+        "title": "Méditation Individuelle",
+        "desc": "Apprentissage approfondi des techniques de méditation par un enseignement direct et structuré."
+      },
+      {
+        "id": "energy-session",
+        "num": "03",
+        "title": "Séance Énergétique",
+        "desc": "Exploration des pratiques énergétiques pour développer votre présence subtile et préserver votre équilibre."
+      },
+      {
+        "id": "stress-relief-session",
+        "num": "04",
+        "title": "Séance Anti-Stress & Sérénité",
+        "desc": "Pratiques méditatives et de relaxation orientées vers le retour au calme, à la quiétude et à la vitalité."
+      },
+      {
+        "id": "comprehensive-session",
+        "num": "05",
+        "title": "Séance Intégrative Complète",
+        "desc": "Une approche globale unissant pratiques énergétiques, visualisation des couleurs, harmonisation vibratoire des chakras, respiration et méditation."
+      }
+    ],
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Seuil & Histoire"
+      },
+      {
+        "id": "chapter-pillars",
+        "title": "Science × Méditation × Esprit"
+      },
+      {
+        "id": "chapter-2",
+        "title": "Le Double Prisme"
+      },
+      {
+        "id": "chapter-3",
+        "title": "Navigateur d'État Intérieur"
+      },
+      {
+        "id": "chapter-benefits",
+        "title": "Bienfaits Réels & Profonds"
+      },
+      {
+        "id": "chapter-4",
+        "title": "Différenciateurs Clés"
+      },
+      {
+        "id": "chapter-5",
+        "title": "Tranquillité Cinématique"
+      },
+      {
+        "id": "chapter-6",
+        "title": "Voies vers l'Équilibre"
+      },
+      {
+        "id": "chapter-7",
+        "title": "Formats de Séances"
+      },
+      {
+        "id": "chapter-8",
+        "title": "Retour à Soi"
+      }
+    ],
+    "dualLens": {
+      "tag": "CHAPITRE II • SCIENCE & MAÎTRISE CONTEMPLATIVE",
+      "title": "Le Double Prisme : Quand la Science Rencontre le Silence",
+      "subtitle": "Une alliance rare unissant une compréhension médicale rigoureuse à plus de 15 ans de pratique contemplative authentique.",
+      "badgeDoctor": "SCIENCE PRATIQUE",
+      "card1Title": "Docteur en Médecine (M.D.)",
+      "card1Desc": "Compréhension scientifique des mécanismes du stress, de la respiration et des réponses physiologiques du corps.",
+      "card1Chips": [
+        "Connexion Esprit-Corps",
+        "Réflexe Naturel de Détente",
+        "Repos Profond & Rythmes de Sommeil"
+      ],
+      "card1Expand": "Comprendre la réponse du corps",
+      "card1Collapse": "Masquer la réponse du corps",
+      "card1Insight1Title": "Compréhension Personnelle :",
+      "card1Insight1Desc": "Observer précisément comment le stress quotidien, la fatigue et les tensions musculaires s'accumulent.",
+      "card1Insight2Title": "Réinitialisation Naturelle :",
+      "card1Insight2Desc": "Apaiser les réactions de stress excessives et stimuler la capacité naturelle du corps à se régénérer.",
+      "card1FooterFormat": "Cadre rigoureux et fondé sur les faits",
+      "badgeMaster": "15+ ANS DE MAÎTRISE",
+      "card2Title": "Maître de Méditation & Chemin Intérieur",
+      "card2Desc": "Plus de 15 ans d'immersion dans les traditions contemplatives, maîtrisant le souffle pranayama, la résonance acoustique et l'énergie subtile.",
+      "card2Chips": [
+        "Souffle Pranayama",
+        "Harmonie des 7 Chakras",
+        "Résonance Sonore Vibratoire"
+      ],
+      "card2Expand": "Explorer les traditions",
+      "card2Collapse": "Masquer les traditions",
+      "card2Insight1Title": "Éveil Énergétique Subtil :",
+      "card2Insight1Desc": "Libérer les blocages de la racine au sommet par la résonance acoustique, la visualisation et le souffle.",
+      "card2Insight2Title": "Présence Témoin Pure :",
+      "card2Insight2Desc": "Apaiser le flux mental pour accéder au silence direct, à la paix intérieure et à l'équilibre.",
+      "card2FooterFormat": "Lignée authentique et pratique directe",
+      "card3Badge": "SANCTUAIRE SUR MESURE 1:1",
+      "card3Title": "Comment Science et Sérénité se Rencontrent en Séance",
+      "card3Desc": "Dans votre séance privée avec le Dr Mayank, le corps et l'esprit ne sont jamais séparés. Nous identifions vos tensions et appliquons des pratiques douces pour retrouver l'harmonie.",
+      "card3Steps": [
+        {
+          "heading": "Écoute Attentive",
+          "body": "Comprendre avec bienveillance où se logent les tensions dans votre esprit, vos émotions ou votre corps."
+        },
+        {
+          "heading": "Pratiques Personnalisées",
+          "body": "Guidance à travers des respirations douces, des sons apaisants et un rééquilibrage énergétique sur mesure."
+        },
+        {
+          "heading": "Habitudes Quotidiennes",
+          "body": "Créer de petits rituels de 5 minutes pour que la paix ressentie vous accompagne dans votre vie."
+        }
+      ],
+      "card3FooterFormat": "Accompagnement 1:1 entièrement sur mesure",
+      "card3Cta": "Réserver une Séance 1:1",
+      "experienceSession": "Vivre en Séance 1:1"
+    },
+    "protocolPresets": {
+      "stress": {
+        "id": "stress",
+        "num": "01",
+        "duration": "RESET APAISANT",
+        "icon": "",
+        "label": "Stress & Pensées Envahissantes",
+        "focusName": "Apaiser l'esprit & retrouver la paix",
+        "target": "Stress quotidien & surcharge",
+        "shortDesc": "Quand la pression permanente fait tourner l'esprit à plein régime, il devient difficile de décompresser.",
+        "beforeState": "Submergé & Agité",
+        "afterState": "Calme Profond & Repos Serein",
+        "format": "Apaisement Rapide & Relaxation",
+        "medicalInsight": "Le stress chronique épuise la concentration, génère des boucles de pensées et bloque la détente naturelle.",
+        "spiritualApproach": "Respiration rythmée et calme guidé permettant de s'ancrer naturellement dans la paix intérieure.",
+        "transformation": "Détente réparatrice, fin du tourbillon des pensées et sensation rassurante de sécurité et de repos."
+      },
+      "fatigue": {
+        "id": "fatigue",
+        "num": "02",
+        "duration": "RECHARGE NATURELLE",
+        "icon": "",
+        "label": "Épuisement & Burnout",
+        "focusName": "Renouveler l'énergie & le focus",
+        "target": "Énergie épuisée & surcharge",
+        "shortDesc": "Des journées sans fin et une course constante vident vos réserves et vous laissent las et vulnérable.",
+        "beforeState": "Épuisé & Brouillé",
+        "afterState": "Calme Rafraîchi & Esprit Clair",
+        "format": "Recharge Énergétique Profonde",
+        "medicalInsight": "La tension continue épuise les réserves cellulaires, altère la clarté mentale et diminue l'endurance.",
+        "spiritualApproach": "Harmonisation énergétique douce, relaxation guidée et sons harmonieux pour renouveler votre vitalité.",
+        "transformation": "Clarté d'esprit retrouvée, sensation d'allègement et enthousiasme paisible pour votre quotidien."
+      },
+      "blocks": {
+        "id": "blocks",
+        "num": "03",
+        "duration": "LIBÉRATION DOUCE",
+        "icon": "",
+        "label": "Émotions Retenues & Tensions",
+        "focusName": "Relaxation Douce & Lâcher-Prise",
+        "target": "Tensions émotionnelles accumulées",
+        "shortDesc": "Les ressentis non exprimés et la pression s'accumulent en stress silencieux, créant une sensation de lourdeur.",
+        "beforeState": "Alourdi & Tendu",
+        "afterState": "Léger, Libre & En Paix",
+        "format": "Libération Émotionnelle Douce",
+        "medicalInsight": "Les émotions enfouies créent des tensions musculaires chroniques, de la fatigue et un inconfort diffus.",
+        "spiritualApproach": "Visualisation apaisante, sons harmonisants et accompagnement bienveillant pour déposer les fardeaux.",
+        "transformation": "Allègement immédiat, liberté émotionnelle, clarté d'esprit et sentiment d'aisance naturelle."
+      },
+      "growth": {
+        "id": "growth",
+        "num": "04",
+        "duration": "PAIX PROFONDE",
+        "icon": "",
+        "label": "Sens Intérieur & Vocation",
+        "focusName": "Silence Paisible & Découverte de Soi",
+        "target": "Paix Intérieure & Orientation",
+        "shortDesc": "L'aspiration à un calme durable, un esprit libéré des soucis et une connexion directe à ce qui compte vraiment.",
+        "beforeState": "Perdu & Déconnecté",
+        "afterState": "Vision Claire & Silence Paisible",
+        "format": "Mentorat Privé 1:1",
+        "medicalInsight": "Apaiser le bavardage mental permet au cerveau d'accéder à un état rare de présence et de focus serein.",
+        "spiritualApproach": "Accompagnement 1:1 dans la méditation profonde pour revenir à votre être authentique au-delà du stress.",
+        "transformation": "Direction limpide, grande sérénité, résolution des conflits internes et lien solide avec vous-même."
+      }
+    },
+    "ui": {
+      "pathsInSessionLabel": "Accompagnement Privé 1:1 :",
+      "pathsRequestInSession": "Demander ceci lors de votre séance",
+      "pathsExpandPrompt": "Guide de pratique en séance",
+      "pathsHidePrompt": "Masquer les détails de la séance",
+      "pathsTechniqueLabel": "Approche",
+      "pathsShiftLabel": "Effet Principal",
+      "pathsExplore8": "Explorer les 8 pratiques",
+      "pathsCollapse8": "Masquer les 8 pratiques",
+      "scrollExplore": "Faites défiler pour explorer le voyage",
+      "bookSessionWithDr": "Réserver une séance privée 1:1 avec le Dr Mayank",
+      "rootFocus": "Focus Clé :",
+      "exploreProtocol": "Explorer le protocole en 3 phases",
+      "hideProtocol": "Masquer le protocole",
+      "step1Title": "1. Ce qui se passe",
+      "step2Title": "2. Le Reset du Dr Mayank",
+      "step3Title": "3. Ce que vous ressentez",
+      "experienceInSession": "Vivre en Séance 1:1",
+      "navigatorTag": "CHAPITRE III • NAVIGATEUR D'ÉTAT INTERACTIF",
+      "navigatorTitle": "Que Ressentez-Vous en ce Moment ?",
+      "navigatorSubtitle": "Sélectionnez un état pour découvrir comment l'alliance unique de rigueur scientifique et de méditation paisible du Dr Mayank vous ramène à un équilibre serein :",
+      "badgeDoctor": "Docteur en Médecine (M.D.)",
+      "badgeMaster": "Maître de Méditation 15+ Ans",
+      "badgePrivate": "Accompagnement Privé 1:1",
+      "dimensionAll": "Tous les Niveaux",
+      "dimensionPhysical": "Niveau Physique",
+      "dimensionEmotional": "Niveau Émotionnel",
+      "dimensionMental": "Niveau Mental",
+      "dimensionSpiritual": "Niveau Spirituel",
+      "benefitDrawerTag": "Comment le Dr Mayank l'applique :",
+      "benefitDrawerCta": "Vivre cette expérience en séance",
+      "benefitsBannerShift": "Évolution naturelle et tangible :",
+      "benefitsBannerText": "Dès la première séance, le déblocage se fait sentir et la vitalité naturelle recommence à circuler librement.",
+      "benefitsBannerCta": "Découvrir le soulagement multidimensionnel",
+      "diffShowLess": "Afficher moins",
+      "diffDiscoverWhy": "Découvrir pourquoi cela compte",
+      "diffInsights": [
+        "Au lieu de subir le stress en surface, vous comprenez comment esprit, corps et souffle s'accordent en parfaite synergie.",
+        "Aucun dogme rigide ni rituel complexe. Chaque pratique fonctionne car votre système nerveux est biologiquement conçu pour s'apaiser.",
+        "Aucun enregistrement générique. Le Dr Mayank calibre précisément chaque séance selon les tensions que vous portez aujourd'hui.",
+        "Vous devenez le maître de votre propre paix grâce à des rituels de 5 minutes qui vous serviront toute votre vie."
+      ],
+      "pathsFilterAll": "Les 9 Voies Méditatives",
+      "pathsFilterStillness": "Calme & Concentration",
+      "pathsFilterBreath": "Respiration & Prana Élémentaire",
+      "pathsFilterHeart": "Cœur, Compassion & Libération"
+    },
+    "deepBenefits": {
+      "tag": "SOULAGEMENT MULTIDIMENSIONNEL",
+      "title": "Bienfaits Réels et Profonds",
+      "subtitle": "Agissant avec douceur sur les plans physique, émotionnel, mental et spirituel pour restaurer votre plénitude.",
+      "quote": "Ces pratiques de bien-être agissent sur l'ensemble de votre être – esprit, émotions, corps et âme – vous apportant réconfort, équilibre et vitalité.",
+      "items": [
+        {
+          "id": "anxiety",
+          "dimension": "mental",
+          "levelBadge": "Esprit & Calme Intérieur",
+          "icon": "",
+          "title": "Stress, Inquiétude & Baisse de Moral",
+          "desc": "Aide à apaiser le flot des pensées et rétablit l'équilibre émotionnel, calmant les ruminations constantes.",
+          "target": "Alléger la surcharge mentale & les soucis continus",
+          "quote": "Apaise les pensées galopantes et restaure la sérénité.",
+          "clinicalShift": "Calme l'agitation mentale et dissipe le stress continu, permettant de goûter à une paix réconfortante."
+        },
+        {
+          "id": "vitality",
+          "dimension": "physical",
+          "levelBadge": "Énergie & Vitalité",
+          "icon": "",
+          "title": "Baisse d'Énergie, Sommeil Agité & Épuisement",
+          "desc": "Atténue l'insomnie et la fatigue chronique, encourage un sommeil réparateur et recharge vos réserves vitales.",
+          "target": "Restaurer l'énergie épuisée & les rythmes de sommeil",
+          "quote": "Recharge naturelle et profonde pour des réveils revigorés.",
+          "clinicalShift": "Soutient vos cycles naturels de repos et régénère vos réserves d'énergie cellulaire."
+        },
+        {
+          "id": "pain",
+          "dimension": "physical",
+          "levelBadge": "Corps & Confort Physique",
+          "icon": "",
+          "title": "Tensions Corporelles du Quotidien",
+          "desc": "Aide à dénouer en douceur les raideurs physiques provoquées par de longues heures de travail et le stress accumulé.",
+          "target": "Libération des tensions physiques quotidiennes",
+          "quote": "Relâchement délicat des crispations et profonde relaxation.",
+          "clinicalShift": "Détend les zones de crispation corporelle par une relaxation profonde qui désactive les signaux d'alerte."
+        },
+        {
+          "id": "digestive",
+          "dimension": "physical",
+          "levelBadge": "Confort Intérieur & Équilibre Naturel",
+          "icon": "",
+          "title": "Confort Intérieur & Harmonie Naturelle",
+          "desc": "Favorise le bien-être global et la vitalité en calmant la fébrilité nerveuse causée par les tensions quotidiennes.",
+          "target": "Apaisement de la nervosité liée au stress",
+          "quote": "Apporte un soulagement bienfaisant et une aisance naturelle.",
+          "clinicalShift": "Bascule l'organisme en mode parasympathique réparateur, dissolvant l'irritabilité nerveuse."
+        },
+        {
+          "id": "chakras",
+          "dimension": "spiritual",
+          "levelBadge": "Énergie Intérieure & Joie",
+          "icon": "",
+          "title": "Harmonisation des 7 Centres Énergétiques",
+          "desc": "Dès la première séance, la lourdeur se dissipe et l'énergie circule avec fluidité. Une vague de lumière et de joie renaît.",
+          "target": "Restauration de votre flux énergétique naturel",
+          "quote": "Comme une douche de lumière chaude et régénérante pour l'âme.",
+          "clinicalShift": "Dissipe la fatigue émotionnelle accumulée et réveille une joie de vivre authentique."
+        },
+        {
+          "id": "emotional",
+          "dimension": "emotional",
+          "levelBadge": "Paix Émotionnelle & Libération",
+          "icon": "",
+          "title": "Dépôt Bienveillant du Poids Émotionnel",
+          "desc": "Vous aide à vous délester des fardeaux et émotions anciennes sans avoir à revivre les épreuves passées.",
+          "target": "Libération de la lourdeur émotionnelle du passé",
+          "quote": "Une approche délicate touchant des zones profondes souvent ignorées.",
+          "clinicalShift": "Permet de relâcher les tensions accumulées grâce au souffle conscient et à une présence bienveillante."
+        }
+      ]
+    },
+    "meditationPaths": {
+      "tag": "MON APPROCHE",
+      "title": "Voies vers Votre Équilibre Intérieur Naturel",
+      "subtitle": "Une combinaison harmonieuse de sagesse méditative ancienne et de travail respiratoire adaptée au style de vie moderne.",
+      "items": [
+        {
+          "num": "01",
+          "category": "stillness",
+          "icon": "",
+          "name": "Concentration Simple pour Débutants",
+          "technique": "Trataka & Souffle Focalisé à Point Unique",
+          "outcome": "Clarté Mentale & Silence Intérieur",
+          "desc": "Une entrée posée dans le silence pour canaliser les pensées éparpillées et instaurer une habitude quotidienne fluide.",
+          "inSession": "Le Dr Mayank stabilise progressivement votre attention, dissipant l'effort vain de chercher à faire taire l'esprit par la force."
+        },
+        {
+          "num": "02",
+          "category": "stillness",
+          "icon": "",
+          "name": "Méditation par les Mantras",
+          "technique": "Résonance Acoustique Sacrée & Japa",
+          "outcome": "Cessation des Pensées & Résonance Interne",
+          "desc": "La répétition de vibrations sonores apaisantes qui contourne la résistance mentale et dépose l'être dans le silence.",
+          "inSession": "Vous êtes guidé par des phonétiques acoustiques accordées à votre énergie, calmant le flux incessant du bavardage mental."
+        },
+        {
+          "num": "03",
+          "category": "stillness",
+          "icon": "",
+          "name": "Pleine Conscience (Mindfulness)",
+          "technique": "Observation Attentive du Corps & du Souffle",
+          "outcome": "Présence Paisible & Recul Émotionnel",
+          "desc": "S'ancrer dans l'instant présent en observant les sensations et émotions sans jugement ni réaction d'attachement.",
+          "inSession": "Apprenez à observer le stress et les tensions en temps réel sans être emporté dans l'inquiétude automatique."
+        },
+        {
+          "num": "04",
+          "category": "breath",
+          "icon": "",
+          "name": "Méditation par le Souffle (Breathwork)",
+          "technique": "Respiration Profonde & Équilibrage Narinaire",
+          "outcome": "Calme Immédiat & Souffle Naturel",
+          "desc": "Exercices respiratoires apaisants pour détendre le corps en profondeur et rééquilibrer le système nerveux.",
+          "inSession": "Respirations personnalisées (comme le 4-7-8 et le rythme cohérent) conçues pour installer rapidement une paix stable."
+        },
+        {
+          "num": "05",
+          "category": "breath",
+          "icon": "",
+          "name": "Méditation des Chakras",
+          "technique": "Sons Bija & Fréquences Lumineuses des 7 Centres",
+          "outcome": "Flux d'Énergie Libre & Vitalité",
+          "desc": "Harmoniser et libérer les sept centres d'énergie principaux par l'attention concentrée, le souffle et les fréquences de couleur.",
+          "inSession": "Alignement vibratoire du bas vers le haut, dissolvant les lourdeurs et réactivant l'énergie vitale."
+        },
+        {
+          "num": "06",
+          "category": "breath",
+          "icon": "",
+          "name": "Harmonisation des Cinq Éléments",
+          "technique": "Équilibrage Naturel Terre, Eau, Feu, Air, Espace",
+          "outcome": "Ancrage, Plénitude & Sérénité",
+          "desc": "Équilibrer les éléments en soi pour refroidir le surmenage, calmer la dispersion mentale et renouveler l'élan vital.",
+          "inSession": "Aide à apaiser le burnout et les pensées anxieuses, rétablissant une sensation saine et solide d'enracinement."
+        },
+        {
+          "num": "07",
+          "category": "heart",
+          "icon": "",
+          "name": "Amour & Compassion",
+          "technique": "Metta Bhavana & Cohérence Cardiaque",
+          "outcome": "Dissolution de l'Autocritique & Chaleur",
+          "desc": "Adoucir le jugement intérieur, cultiver une bienveillance sincère envers soi et renouer avec la tendresse du cœur.",
+          "inSession": "Dénoue avec délicatesse les nœuds émotionnels pour vous installer dans une paix compatissante et sécurisante."
+        },
+        {
+          "num": "08",
+          "category": "heart",
+          "icon": "",
+          "name": "Visualisation Guidée",
+          "technique": "Imagerie Apaisante & Balayage Corporel",
+          "outcome": "Vision Claire & Paix Intérieure",
+          "desc": "Images mentales inspirantes et lumineuses pour orienter l'esprit vers le réconfort, la sécurité et la sérénité.",
+          "inSession": "Aide votre mental à remplacer l'inquiétude récurrente par une détente régénératrice et une sécurité intérieure."
+        },
+        {
+          "num": "09",
+          "category": "heart",
+          "icon": "",
+          "name": "Gratitude & Pardon",
+          "technique": "Ho'oponopono & Allègement Émotionnel",
+          "outcome": "Grande Liberté & Clarté Paisible",
+          "desc": "Une libération profonde des ressentiments tenaces et des charges pesantes pour régénérer votre esprit.",
+          "inSession": "Vous permet de déposer de lourds fardeaux sans devoir revivre les souvenirs douloureux."
+        }
+      ]
+    }
+  },
+  "pillars": [
+    {
+      "id": "all",
+      "name": "Toutes les Séances",
+      "icon": "✦",
+      "tagline": "Toutes nos Modalités",
+      "subcategories": [
+        "Consultation Personnelle",
+        "Séance de Méditation",
+        "Séance Anti-Stress",
+        "Harmonisation Énergétique",
+        "Accompagnement Spirituel",
+        "Équilibre Émotionnel",
+        "Respiration & Relaxation",
+        "Retraites & Ateliers Collectifs"
+      ]
+    },
+    {
+      "id": "meditation",
+      "name": "Méditation",
+      "icon": "",
+      "tagline": "Pleine Conscience & Silence",
+      "subcategories": [
+        "Méditation Guidée",
+        "Souffle Conscient",
+        "Présence Immédiate",
+        "Silence Intérieur"
+      ]
+    },
+    {
+      "id": "calm",
+      "name": "Relaxation",
+      "icon": "",
+      "tagline": "Calme & Sérénité au Quotidien",
+      "subcategories": [
+        "Dénouement des Tensions",
+        "Souffle Apaisant",
+        "Rituel du Soir",
+        "Sommeil Réparateur"
+      ]
+    },
+    {
+      "id": "balance",
+      "name": "Énergie & Équilibre",
+      "icon": "",
+      "tagline": "Centrage & Flux Naturel",
+      "subcategories": [
+        "Pratique de Centrage",
+        "Résonance Acoustique",
+        "Fluidité Vitale",
+        "Vitalité Renouvelée"
+      ]
+    },
+    {
+      "id": "growth",
+      "name": "Épanouissement Intérieur",
+      "icon": "",
+      "tagline": "Connaissance de Soi & Sens",
+      "subcategories": [
+        "Connaissance de Soi",
+        "Direction de Vie",
+        "Ancrage Quotidien",
+        "Maturité Émotionnelle"
+      ]
+    }
+  ],
+  "services": {
+    "tag": "SERVICES & WELLNESS OFFERINGS",
+    "headline": "Paths to Stillness, Balance & Growth",
+    "subhead": "Mindful sessions combining meditation, calming relaxation, and thoughtful personal guidance for everyday balance.",
+    "filterAll": "All Sessions",
+    "items": [
+      {
+        "id": "individual-consultation",
+        "num": "01",
+        "tag": "GUIDANCE 1:1",
+        "badge": "GUIDANCE 1:1",
+        "title": "Consultation Personnelle",
+        "subtitle": "Vie Consciente & Équilibre Personnel",
+        "shortDesc": "Une séance individuelle approfondie pour explorer vos habitudes, votre rythme de vie et vos besoins de sérénité. Co-création d'un rythme quotidien équilibré.",
+        "fullDesc": "Un espace confidentiel pour apaiser la charge mentale, dénouer les tensions accumulées et bâtir un sanctuaire intérieur au quotidien.",
+        "pillars": [
+          "BALANCE",
+          "GROWTH",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Rythme Quotidien",
+          "Vie Consciente",
+          "Routines Paisibles",
+          "Conscience de Soi"
+        ],
+        "duration": "60 minutes",
+        "format": "En Présentiel au Sanctuaire ou en Ligne",
+        "image": "/images/services/service-personal-consultation.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 1
+      },
+      {
+        "id": "meditation",
+        "num": "02",
+        "tag": "PLEINE CONSCIENCE",
+        "badge": "PLEINE CONSCIENCE",
+        "title": "Séance de Méditation",
+        "subtitle": "Silence & Présence Immédiate",
+        "shortDesc": "Pratiques guidées de méditation et d'attention au souffle conçues pour apaiser un esprit agité et instaurer une paix intérieure durable.",
+        "fullDesc": "Apprenez la présence attentive, l'écoute du souffle et des méthodes simples pour dissoudre le flot incessant des pensées.",
+        "pillars": [
+          "MEDITATION",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Méditation Guidée",
+          "Respiration Consciente",
+          "Présence Immédiate",
+          "Silence Intérieur"
+        ],
+        "duration": "60 minutes",
+        "format": "Pratique & Accompagnement 1:1",
+        "image": "/images/services/service-meditation-session.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 2
+      },
+      {
+        "id": "stress-mental-wellness",
+        "num": "03",
+        "tag": "RELAXATION",
+        "badge": "RELAXATION",
+        "title": "Séance Anti-Stress & Apaisement",
+        "subtitle": "Retrouver Légèreté & Espace Mental",
+        "shortDesc": "Pratiques douces de décompression somatique et outils de pleine conscience pour dissiper la fatigue nerveuse et renouer avec la clarté.",
+        "fullDesc": "Un protocole apaisant conçu pour désactiver le mode alerte de l'organisme et régénérer le système nerveux en douceur.",
+        "pillars": [
+          "CALM",
+          "MEDITATION"
+        ],
+        "focusAreas": [
+          "Relâchement Musculaire",
+          "Silence Mental",
+          "Équilibre Vie Pro-Perso",
+          "Calme Concentré"
+        ],
+        "duration": "60 minutes",
+        "format": "Séance de Réinitialisation Nerveuse",
+        "image": "/images/services/service-stress-relief.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 3
+      },
+      {
+        "id": "energy-chakra-wellness",
+        "num": "04",
+        "tag": "HARMONIE",
+        "badge": "HARMONIE",
+        "title": "Harmonisation Énergétique & Chakras",
+        "subtitle": "Fluidité Vitale & Ancrage Profond",
+        "shortDesc": "Sensibilisation énergétique, résonance acoustique aux bols thérapeutiques et visualisation guidée pour vous sentir ancré et revigoré.",
+        "fullDesc": "Harmonisez vos sept centres énergétiques grâce au son et à l'attention focalisée pour libérer votre vitalité naturelle.",
+        "pillars": [
+          "BALANCE",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Centrage Somatique",
+          "Bains Sonores",
+          "Circulation d'Énergie",
+          "Vitalité Renouvelée"
+        ],
+        "duration": "60 minutes",
+        "format": "Pratique Vibratoire & Énergétique",
+        "image": "/images/services/service-energy-balancing.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 4
+      },
+      {
+        "id": "spiritual-coaching",
+        "num": "05",
+        "tag": "ÉPANOUISSEMENT",
+        "badge": "ÉPANOUISSEMENT",
+        "title": "Accompagnement Spirituel",
+        "subtitle": "Clarté, Sens & Direction de Vie",
+        "shortDesc": "Dialogues personnalisés pour éclairer vos valeurs fondamentales, surmonter les carrefours de vie et trouver une boussole intérieure.",
+        "fullDesc": "Un mentorat bienveillant pour aligner vos choix quotidiens avec votre véritable essence et cultiver la sagesse.",
+        "pillars": [
+          "GROWTH",
+          "BALANCE"
+        ],
+        "focusAreas": [
+          "Connaissance de Soi",
+          "Orientation de Vie",
+          "Choix Conscients",
+          "Équilibre d'Être"
+        ],
+        "duration": "60 minutes",
+        "format": "Dialogue Individuel & Mentorat",
+        "image": "/images/services/service-life-guidance.jpg",
+        "featured": true,
+        "visible": true,
+        "order": 5
+      },
+      {
+        "id": "positive-mindset-emotional-balance",
+        "num": "06",
+        "tag": "LUCIDITÉ",
+        "badge": "LUCIDITÉ",
+        "title": "Équilibre Émotionnel",
+        "subtitle": "Patience, Ancrage & Bienveillance",
+        "shortDesc": "Développez l'art de traverser les vagues émotionnelles avec calme, autonomie et discernement au cœur du quotidien.",
+        "fullDesc": "Libérez-vous des automatismes réactifs et cultivez la présence du témoin compatissant pour vivre en paix avec vos émotions.",
+        "pillars": [
+          "GROWTH",
+          "CALM"
+        ],
+        "focusAreas": [
+          "Conscience Émotionnelle",
+          "Ancrage Quotidien",
+          "Douceur & Patience",
+          "Harmonie Intérieure"
+        ],
+        "duration": "60 minutes",
+        "format": "Séance d'Intégration & Habitudes",
+        "image": "/images/services/service-emotional-wellbeing.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 6
+      },
+      {
+        "id": "breathing-relaxation",
+        "num": "07",
+        "tag": "SOUFFLE & REPOS",
+        "badge": "SOUFFLE & REPOS",
+        "title": "Respiration & Relaxation Profonde",
+        "subtitle": "Soirées Sereines & Sommeil Réparateur",
+        "shortDesc": "Techniques de respiration rythmée et relaxation crépusculaire pour apaiser le flux mental et préparer un sommeil profond.",
+        "fullDesc": "Des exercices respiratoires doux combinés au Yoga Nidra pour relâcher l'organisme et savourer des nuits régénératrices.",
+        "pillars": [
+          "CALM",
+          "MEDITATION"
+        ],
+        "focusAreas": [
+          "Décélération du Soir",
+          "Souffle Apaisant",
+          "Rituels de Silence",
+          "Sommeil Régénérateur"
+        ],
+        "duration": "45–60 minutes",
+        "format": "Pratique Guidée du Souffle",
+        "image": "/images/services/service-breathwork-relaxation.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 7
+      },
+      {
+        "id": "programs-workshops",
+        "num": "08",
+        "tag": "SÉANCES DE GROUPE",
+        "badge": "SÉANCES DE GROUPE",
+        "title": "Retraites & Ateliers Collectifs",
+        "subtitle": "Silence Partagé & Apprentissage Vivant",
+        "shortDesc": "Méditations en groupe, cercles d'immersion et retraites résidentielles pour cultiver la sérénité collective et le renouveau intérieur.",
+        "fullDesc": "Des formats pour petits groupes et entreprises favorisant la cohésion d'équipe, la pleine conscience et la résilience collective.",
+        "pillars": [
+          "GROWTH",
+          "MEDITATION",
+          "BALANCE"
+        ],
+        "focusAreas": [
+          "Méditation Collective",
+          "Cohésion Consciente",
+          "Ateliers Thématiques",
+          "Pratique Partagée"
+        ],
+        "duration": "Demi-Journée / Séries",
+        "format": "Ateliers & Retraites de Sanctuaire",
+        "image": "/images/services/service-retreats-group.jpg",
+        "featured": false,
+        "visible": true,
+        "order": 8
+      }
+    ],
+    "viewAll": "Aperçu de tous les services",
+    "exploreAll": "Explorer tous les services",
+    "learnMore": "En savoir plus",
+    "bookSession": "Réserver une séance"
+  },
+  "healing": {
+    "tag": "LA SCIENCE DU BIEN-ÊTRE",
+    "quote": "La Transformation Commence de l'Intérieur.",
+    "supporting": "Lorsque la présence attentive et le souffle paisible recalibrent nos réponses physiologiques, le système nerveux retrouve naturellement son équilibre.",
+    "points": [
+      {
+        "id": "brain",
+        "num": "01",
+        "title": "Équilibre des Neurotransmetteurs",
+        "titleLine1": "Équilibre des",
+        "titleLine2": "Neurotransmetteurs",
+        "desc": "La méditation stimule la clarté cognitive, l'apaisement des émotions et un équilibre psychique durable.",
+        "image": "/healing-brain.jpg"
+      },
+      {
+        "id": "vagus",
+        "num": "02",
+        "title": "Activation du Nerf Vague",
+        "titleLine1": "Activation du",
+        "titleLine2": "Nerf Vague",
+        "desc": "Une respiration rythmée active la réponse parasympathique, dissipant les tensions et installant une paix profonde.",
+        "image": "/healing-vagus.jpg"
+      },
+      {
+        "id": "cellular",
+        "num": "03",
+        "title": "Régénération Cellulaire",
+        "titleLine1": "Régénération",
+        "titleLine2": "Cellulaire",
+        "desc": "Les temps de repos méditatif soulagent les effets du stress chronique, ravivant la vitalité du corps.",
+        "image": "/healing-cellular.jpg"
+      }
+    ]
+  },
+  "stillness": {
+    "tag": "PAUSE • RESPIRE • SOIS PRÉSENT",
+    "headline": "Suivez le cercle de respiration bienveillant 4-4-4",
+    "subhead": "pour retrouver instantanément présence, paix et équilibre.",
+    "threeKeysHeading": "Les Trois Clés d'Or",
+    "threeKeys": [
+      {
+        "id": "want",
+        "sutra": "Je ne désire rien",
+        "desc": "Mettre de côté attentes et ambitions pendant ces quelques minutes.",
+        "theme": "peach"
+      },
+      {
+        "id": "do",
+        "sutra": "Je ne fais rien",
+        "desc": "Relâcher tout effort, laissant le souffle se poser naturellement.",
+        "theme": "mint"
+      },
+      {
+        "id": "am",
+        "sutra": "Je ne suis rien",
+        "desc": "Reposer au-delà des rôles, étiquettes et soucis dans la pure présence.",
+        "theme": "lavender"
+      }
+    ],
+    "benefits": [
+      {
+        "id": "mind",
+        "title": "Apaise l'esprit",
+        "desc": "Quelques respirations conscientes suffisent pour ramener clarté et paix."
+      },
+      {
+        "id": "stress",
+        "title": "Diminue le stress",
+        "desc": "Aide à dissoudre l'anxiété et ancre l'attention dans l'instant présent."
+      },
+      {
+        "id": "reset",
+        "title": "Régénère la journée",
+        "desc": "Une pratique simple à laquelle revenir dès que le besoin d'équilibre se fait sentir."
+      }
+    ],
+    "quoteCard": {
+      "quote": "Un esprit calme révèle une lumière plus pure.",
+      "quoteLine1": "Un esprit calme",
+      "quoteLine2": "révèle la lumière.",
+      "tagline": "RESPIRE • RÉINITIALISE • RÉPÈTE"
+    },
+    "phases": {
+      "in": "Inspirez",
+      "holdIn": "Retenez",
+      "out": "Expirez",
+      "holdOut": "Retenez"
+    },
+    "pressToBegin": "Appuyer pour commencer",
+    "restartCircle": "Recommencer le cycle"
+  },
+  "gallery": {
+    "tag": "MOMENTS DU SANCTUAIRE",
+    "headline": "Voyage Visuel Vers la Sérénité",
+    "subhead": "Un aperçu des séances individuelles, retraites et espaces de méditation.",
+    "all": "Tous les Moments",
+    "categories": [
+      {
+        "id": "cat_meditation",
+        "name": "Sanctuaire de Méditation",
+        "slug": "sanctuaire-meditation",
+        "description": "Moments de silence, travail du souffle et pratique contemplative profonde.",
+        "order": 1,
+        "visible": true,
+        "showOnHomepage": true,
+        "images": [
+          {
+            "id": "img_1788640274869",
+            "url": "/images/gallery/1788640274831_20190706_111832.jpg",
+            "title": "Atmosphère de Sanctuaire Sacré",
+            "reflection": "Le silence commence lorsque l'esprit analytique s'établit dans la quiétude du cœur.",
+            "order": 1,
+            "visible": true,
+            "aspectRatio": "4:3"
+          }
+        ]
+      },
+      {
+        "id": "cat_retreats",
+        "name": "Expériences de Retraite",
+        "slug": "experiences-retraite",
+        "description": "Immersion bienfaisante cultivant la clarté intérieure, le renouveau énergétique et la sérénité.",
+        "order": 2,
+        "visible": true,
+        "showOnHomepage": true,
+        "images": [
+          {
+            "id": "img_r1",
+            "url": "/meditation-hero.png",
+            "title": "Atmosphère de Sanctuaire Sacré",
+            "reflection": "Un véritable ancrage rétablit l'équilibre naturel entre esprit, corps et âme.",
+            "order": 1,
+            "visible": true,
+            "aspectRatio": "4:3"
+          },
+          {
+            "id": "img_r2",
+            "url": "/meditation-hero.png",
+            "title": "Silence du Soir & Ancrage",
+            "reflection": "Entrer dans un calme réparateur favorise la régénération cellulaire naturelle.",
+            "order": 2,
+            "visible": true,
+            "aspectRatio": "4:3"
+          }
+        ]
+      }
+    ],
+    "items": [],
+    "viewMoment": "Voir le moment",
+    "empty": "Aucune photo actuellement dans cette collection."
+  },
+  "programs": {
+    "tag": "ATELIERS & SÉMINAIRES",
+    "headline": "Programmes Guidés & Ateliers",
+    "subhead": "Cycles immersifs en groupe dédiés à la méditation, la respiration et l'alignement des chakras.",
+    "inquire": "S'inscrire à la prochaine session",
+    "filterAll": "Tous les Programmes",
+    "filterCohort": "Cycles Intensifs",
+    "filterSanctuary": "Immersions Sanctuaire",
+    "filterCorporate": "Entreprises & Équipes",
+    "filterEnergy": "Énergie & Corps",
+    "whyTag": "L'EXPÉRIENCE EN GROUPE",
+    "whyHeadline": "Pourquoi Suivre un Programme Guidé ?",
+    "whySubhead": "L'immersion au sein d'un groupe restreint unit rigueur scientifique, écoute bienveillante et sérénité partagée.",
+    "whyItems": [
+      {
+        "title": "Groupes Intimes (12 à 16 places)",
+        "desc": "Effectifs limités pour garantir une attention personnalisée, des échanges sereins et un accompagnement sur mesure."
+      },
+      {
+        "title": "Guidance Directe du Dr. Mayank",
+        "desc": "Séances interactives hebdomadaires animées directement par le Dr. Mayank Ahooja, alliant physiologie moderne et méditation authentique."
+      },
+      {
+        "title": "Protocoles Somatiques Quotidiens",
+        "desc": "Cahiers d'intégration imprimables, méditations audio haute fidélité et micro-pratiques pour le quotidien."
+      },
+      {
+        "title": "Cercle de Pratique Durable",
+        "desc": "Accès continu aux rencontres d'anciens participants et aux rendez-vous de silence pour ancrer durablement vos acquis."
+      }
+    ],
+    "corporateBanner": {
+      "tag": "BIEN-ÊTRE EN ENTREPRISE",
+      "title": "Programmes Sur Mesure pour Équipes & Dirigeants",
+      "desc": "Offrez à vos collaborateurs des outils concrets de régulation du système nerveux, de clarté mentale et de prévention de l'épuisement.",
+      "cta": "Demander une offre pour votre équipe"
+    },
+    "faqTag": "FOIRE AUX QUESTIONS",
+    "faqHeadline": "Questions Fréquentes sur nos Programmes",
+    "faqSubhead": "Tout ce que vous devez savoir sur le déroulement, les horaires et les inscriptions.",
+    "faqs": [
+      {
+        "q": "Que faire si je manque une session en direct ?",
+        "a": "Chaque session en ligne est enregistrée et mise à disposition sous 12 heures sur votre espace membre sécurisé avec un résumé complet."
+      },
+      {
+        "q": "Une expérience préalable en méditation est-elle requise ?",
+        "a": "Aucune expérience préalable n'est nécessaire. L'enseignement est progressif et accessible aux débutants tout en offrant une profondeur précieuse aux initiés."
+      },
+      {
+        "q": "Comment s'organise l'inscription ?",
+        "a": "Après votre demande, notre équipe planifie un échange téléphonique de 10 minutes pour échanger sur vos intentions et confirmer votre place."
+      },
+      {
+        "q": "Ces programmes sont-ils adaptables pour des séminaires d'entreprise ?",
+        "a": "Oui, nous concevons des formats modulables (demi-journée, journée complète ou cycle de 4 semaines) pour les équipes de direction et collaborateurs."
+      }
+    ],
+    "items": [
+      {
+        "id": "chakra-mastery-4w",
+        "title": "Éveil des Chakras & de l'Énergie",
+        "type": "Cycle Intensif",
+        "schedule": "Départ le Mois Prochain • En Ligne & Sanctuaire",
+        "desc": "Une exploration complète des sept centres d'énergie fondamentaux, conjuguant vibrations sonores, visualisation chromatique et méditation.",
+        "pillar": "ENERGY",
+        "duration": "4 Semaines",
+        "format": "Séance en Ligne + Pratique Quotidienne",
+        "highlights": [
+          "7 Modules Chakras",
+          "Fréquences Sonores",
+          "Cahier d'Énergie",
+          "Questions-Réponses en Direct"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/service-chakras.jpg"
+      },
+      {
+        "id": "mindful-living-retreat",
+        "title": "Retraite Pleine Conscience & Silence",
+        "type": "Immersion Sanctuaire",
+        "schedule": "Événement Trimestriel",
+        "desc": "Une parenthèse intime pour ressourcer le système nerveux par le silence, la contemplation guidée et la respiration consciente.",
+        "pillar": "MIND",
+        "duration": "3 Jours / 2 Nuits",
+        "format": "En Présentiel au Sanctuaire",
+        "highlights": [
+          "Silence Noble",
+          "Respiration Réparatrice",
+          "Décompression Nerveuse",
+          "Alimentation Consciente"
+        ],
+        "featured": true,
+        "visible": true,
+        "image": "/pause-zen-bg.jpg"
+      },
+      {
+        "id": "workplace-calm-corporate-workshop",
+        "title": "Sérénité Professionnelle & Gestion du Stress",
+        "type": "Entreprises & Équipes",
+        "schedule": "Séminaire Demi-Journée ou Cycle 4 Semaines • Hybride",
+        "desc": "Gestion pragmatique du stress pour équipes et dirigeants afin de prévenir le surmenage et retrouver concentration et bien-être au travail.",
+        "pillar": "MIND",
+        "duration": "Demi-Journée ou 4 Semaines",
+        "format": "Sur Site ou En Ligne",
+        "highlights": [
+          "Micro-Pauses Stratégiques",
+          "Résilience Cognitive",
+          "Kit Prévention Burnout",
+          "Désescalade du Stress"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/symptom-corporate-stress.jpg"
+      },
+      {
+        "id": "vagus-nerve-reset",
+        "title": "Le Nerf Vague & Réinitialisation Nerveuse",
+        "type": "Cycle Intensif",
+        "schedule": "Cycle 6 Semaines • En Ligne Global",
+        "desc": "Une immersion somatique et neuro-énergétique dédiée à la tonification du nerf vague, à la régulation autonome et au relâchement des tensions viscérales.",
+        "pillar": "BODY",
+        "duration": "6 Semaines",
+        "format": "Ateliers en Direct + Guides Audio",
+        "highlights": [
+          "Protocoles Nerf Vague",
+          "Somatique Polyvagale",
+          "Variabilité Cardiaque",
+          "Détente Viscérale"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-vagus.jpg"
+      },
+      {
+        "id": "emotional-equilibrium-breathwork",
+        "title": "Équilibre Émotionnel & Souffle Conscient",
+        "type": "Cycle Intensif",
+        "schedule": "Immersion en Soirée 3 Semaines • Virtuel",
+        "desc": "Libérez les contractions émotionnelles profondes et le stress répétitif grâce au pranayama rythmée, à la cohérence cardiaque et au témoin intérieur.",
+        "pillar": "EMOTIONS",
+        "duration": "3 Semaines",
+        "format": "Sessions Interactives en Soirée",
+        "highlights": [
+          "Protocoles de Pranayama",
+          "Cohérence Cœur-Cerveau",
+          "Déconditionnement Émotionnel",
+          "Témoin Silencieux"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/images/services/pure-emotional-wellbeing.jpg"
+      },
+      {
+        "id": "executive-presence-leadership",
+        "title": "Présence Exécutive & Leadership Conscient",
+        "type": "Entreprises & Équipes",
+        "schedule": "Mastermind 8 Semaines • Limité à 12 Dirigeants",
+        "desc": "Destiné aux décideurs, fondateurs et cadres pour développer un ancrage intérieur inébranlable, une lucidité intuitive et une vitalité durable sous pression.",
+        "pillar": "INNER GROWTH",
+        "duration": "8 Semaines",
+        "format": "Mastermind + Entretiens 1:1",
+        "highlights": [
+          "Résilience Haute Pression",
+          "Décision Intuitive",
+          "Conservation d'Énergie",
+          "Conseil Médical 1:1"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-brain.jpg"
+      },
+      {
+        "id": "circadian-sleep-architecture",
+        "title": "Architecture du Sommeil & Réalignement Circadien",
+        "type": "Cycle Intensif",
+        "schedule": "Weekend Intensif + 21 Jours de Suivi • Hybride",
+        "desc": "Retrouvez un sommeil cellulaire profondément réparateur en synchronisant les rythmes biologiques, l'apaisement pinéal et le yoga nidra.",
+        "pillar": "BODY",
+        "duration": "Weekend + 21 Jours",
+        "format": "Masterclass + Protocole Quotidien",
+        "highlights": [
+          "Yoga Nidra Méditatif",
+          "Optimisation Lumière & Biorhythme",
+          "Transition Parasympathique",
+          "Bilan Personnalisé"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/symptom-insomnia.jpg"
+      },
+      {
+        "id": "silent-inquiry-retreat",
+        "title": "Retraite de Silence & Enquête Intérieure Profonde",
+        "type": "Immersion Sanctuaire",
+        "schedule": "Retraite Résidentielle 5 Jours • Domaine du Sanctuaire",
+        "desc": "Un seuil sacré de noble silence et de contemplation non-duelle, dissolvant les bruits extérieurs pour demeurer dans la pure présence lumineuse.",
+        "pillar": "INNER GROWTH",
+        "duration": "5 Jours / 4 Nuits",
+        "format": "Résidentiel en Sanctuaire",
+        "highlights": [
+          "Silence Noble Continu",
+          "Méditation Assise & Marchée",
+          "Transmissions d'Enquête",
+          "Entretiens Individuels"
+        ],
+        "featured": true,
+        "visible": true,
+        "image": "/service-sky.jpg"
+      },
+      {
+        "id": "sacred-sound-cellular-harmony",
+        "title": "Vibrations Sonores Sacrées & Harmonie Cellulaire",
+        "type": "Cycle Intensif",
+        "schedule": "Cycle 4 Semaines • Studio & Retransmission",
+        "desc": "Mobiliser les fréquences de bols tibétains thérapeutiques et de mantras racines pour dissoudre les stagnations énergétiques et revitaliser chaque cellule.",
+        "pillar": "ENERGY",
+        "duration": "4 Semaines",
+        "format": "Bains Sonores Acoustiques en Direct",
+        "highlights": [
+          "Thérapie par Résonance Sonore",
+          "Science des Mantras",
+          "Harmonisation des Chakras",
+          "Audio Haute Résolution"
+        ],
+        "featured": false,
+        "visible": true,
+        "image": "/healing-cellular.jpg"
+      }
+    ],
+    "signature": "★ Signature"
+  },
+  "articles": {
+    "tag": "RÉFLEXIONS & ESSAIS",
+    "headline": "Sagesse Pour l'Harmonie Intérieure",
+    "subhead": "Articles sur la science de la méditation, l'équilibre énergétique et l'art de vivre conscient.",
+    "readMore": "Lire l'Article",
+    "filterAll": "Tous les Essais",
+    "filterBreathing": "Respiration & Esprit",
+    "filterSomatic": "Science Somatique",
+    "filterEnergy": "Énergie & Chakras",
+    "filterEmotions": "Équilibre Émotionnel",
+    "filterStillness": "Silence & Éveil Intérieur",
+    "newsletterTag": "RÉFLEXIONS DU SANCTUAIRE",
+    "newsletterTitle": "Recevoir les Essais Contemplatifs Mensuels",
+    "newsletterSubhead": "Une guidance bienveillante sur la neurophysiologie de la méditation et l'équilibre nerveux directement dans votre boîte mail.",
+    "items": [
+      {
+        "id": "demo",
+        "title": "demo",
+        "category": "Breathing & Mind",
+        "date": "October 2026",
+        "readTime": "5 min read",
+        "excerpt": "demo",
+        "content": "demo para",
+        "image": "",
+        "author": "Dr. Mayank Ahooja",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "art-of-conscious-breathing",
+        "title": "L'Art de la Respiration Consciente : Retrouver la Sérénité Nerveuse",
+        "date": "Septembre 2026",
+        "category": "Respiration & Esprit",
+        "excerpt": "Comment la respiration rythmée active le nerf vague et libère le corps du mode de survie pour l'ancrer dans une paix durable.",
+        "readTime": "4 min de lecture",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "transformation-within",
+        "title": "La Transformation Commence de l'Intérieur : Comprendre l'Énergétique Subtile",
+        "date": "Août 2026",
+        "category": "Silence & Éveil Intérieur",
+        "excerpt": "Pourquoi la véritable harmonie est un éveil intérieur et non une conquête extérieure.",
+        "readTime": "6 min de lecture",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "vagus-nerve-science",
+        "title": "Le Nerf Vague & Réinitialisation du Système Nerveux : La Vision Médicale",
+        "date": "Octobre 2026",
+        "category": "Science Somatique",
+        "excerpt": "Comment l'activation parasympathique par l'expiration prolongée désamorce le stress chronique et restaure la sécurité intérieure.",
+        "readTime": "5 min de lecture",
+        "featured": true,
+        "visible": true
+      },
+      {
+        "id": "circadian-sleep-architecture-article",
+        "title": "Architecture du Sommeil Circadien : Apaiser l'Agitation Mentale",
+        "date": "Octobre 2026",
+        "category": "Science Somatique",
+        "excerpt": "Pourquoi la surcharge cognitive nocturne bloque la régénération cellulaire et comment les rituels du crépuscule rétablissent le sommeil réparateur.",
+        "readTime": "5 min de lecture",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "chakras-and-physiology",
+        "title": "Les Sept Vortex Énergétiques : Relier Chakras Traditionnels et Neuro-Endocrinologie",
+        "date": "Novembre 2026",
+        "category": "Énergie & Chakras",
+        "excerpt": "Comprendre comment les centres subtils correspondent précisément aux plexus nerveux et glandes endocrines pour réguler l'élan vital.",
+        "readTime": "7 min de lecture",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "emotional-deconditioning",
+        "title": "Déconditionnement Émotionnel : Dissoudre les Boucles de Stress Répétitives",
+        "date": "Novembre 2026",
+        "category": "Équilibre Émotionnel",
+        "excerpt": "Cultiver la présence du témoin intérieur pour libérer les mémoires émotionnelles sans lutte, refoulement ni épuisement.",
+        "readTime": "6 min de lecture",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "silence-as-medicine",
+        "title": "Le Silence Noble Comme Médecine : Pourquoi l'Esprit Moderne Aspire au Calme",
+        "date": "Décembre 2026",
+        "category": "Silence & Éveil Intérieur",
+        "excerpt": "Comment des temps de silence volontaire réinitialisent le réseau cérébral par défaut et restaurent la clarté intuitive.",
+        "readTime": "5 min de lecture",
+        "featured": false,
+        "visible": true
+      },
+      {
+        "id": "workplace-burnout-executive-vitality",
+        "title": "Présence Exécutive & Prévention du Burnout : Préserver son Énergie Sous Pression",
+        "date": "Décembre 2026",
+        "category": "Respiration & Esprit",
+        "excerpt": "Micro-pauses somatiques et frontières mentales pragmatiques pour maintenir une énergie calme face aux exigences professionnelles.",
+        "readTime": "6 min de lecture",
+        "featured": false,
+        "visible": true
+      }
+    ],
+    "newsletterCta": "Réserver une Séance au Sanctuaire",
+    "detailCta": "Découvrez un accompagnement personnalisé en méditation, respiration et réalignement énergétique.",
+    "authorTitle": "Docteur en Médecine | Maître de Méditation | Coach Spirituel | Conférencier",
+    "keyTakeaways": "Points Clés Cliniques & Contemplatifs",
+    "exploreMore": "Explorer d'Autres Essais"
+  },
+  "testimonials": {
+    "tag": "TÉMOIGNAGES",
+    "headline": "Les Paroles de Ceux Qui Ont Retrouvé l'Équilibre",
+    "items": [
+      {
+        "quote": "Travailler avec le Dr Mayank Ahooja m'a donné une tout autre relation avec le stress. Sa présence bienveillante et ses techniques respiratoires ont dissipé des années de tension.",
+        "author": "Marcus V.",
+        "context": "Consultation 1:1 & Méditation"
+      },
+      {
+        "quote": "Les séances sur les chakras ont été profondément apaisantes. L'alliance d'une rigueur médicale et d'une sensibilité énergétique chez le Dr Ahooja est exceptionnelle.",
+        "author": "Sophia L.",
+        "context": "Énergie & Harmonie des Chakras"
+      },
+      {
+        "quote": "Son accompagnement m'a appris que le calme n'est pas un vide, mais un refuge intérieur vivifiant auquel je peux revenir chaque jour.",
+        "author": "Elena R.",
+        "context": "Coaching Spirituel"
+      }
+    ]
+  },
+  "faq": {
+    "tag": "FOIRE AUX QUESTIONS",
+    "headline": "Tout Ce Que Vous Devez Savoir",
+    "items": [
+      {
+        "q": "En quoi consiste une consultation avec le Dr Mayank Ahooja ?",
+        "a": "Une consultation est un échange individuel et confidentiel pour explorer vos objectifs de bien-être, vos facteurs de stress et définir un parcours adapté de méditation, respiration et pratiques énergétiques."
+      },
+      {
+        "q": "Faut-il avoir une expérience préalable de la méditation ?",
+        "a": "Pas du tout. Le Dr Ahooja accompagne aussi bien les débutants que les personnes expérimentées en adaptant la pratique au rythme de chacun."
+      },
+      {
+        "q": "Les séances se déroulent-elles en présentiel ou en ligne ?",
+        "a": "Les deux options sont disponibles : dans notre sanctuaire à Chișinău, Moldavie, ou par visioconférence sécurisée pour les personnes du monde entier."
+      },
+      {
+        "q": "Ces pratiques remplacent-elles un traitement médical ?",
+        "a": "Non. Les disciplines proposées relèvent du bien-être, de la relaxation et du développement de soi. Elles ne constituent ni diagnostic ni traitement médical."
+      }
+    ],
+    "reachOut": "Vous avez une question personnelle non traitée ici ? Contactez-moi directement."
+  },
+  "contact": {
+    "tag": "RÉSERVATION & CONTACT",
+    "headline": "Faites le Premier Pas Vers la Paix Intérieure",
+    "subhead": "Réservez votre consultation personnalisée ou contactez-nous pour toute question relative à nos séances et ateliers.",
+    "cta": "Réserver une Séance",
+    "directEmail": "contact@drmayankahooja.com",
+    "phone": "+373 60 123 456",
+    "location": "Chișinău, République de Moldavie & Sanctuaire en Ligne",
+    "hours": "Sur rendez-vous uniquement • Lundi – Samedi",
+    "detailsTitle": "Détails du Sanctuaire",
+    "detailsDesc": "Que vous veniez en personne dans notre sanctuaire ou que vous nous rejoigniez en ligne, nous vous offrons un espace chaleureux et sécurisant.",
+    "locationLabel": "Localisation du Sanctuaire",
+    "hoursLabel": "Heures de Consultation",
+    "emailLabel": "Courriel Direct",
+    "phoneLabel": "Téléphone / WhatsApp",
+    "orEmail": "Ou par e-mail à"
+  },
+  "footer": {
+    "brand": "Dr Mayank Ahooja",
+    "title": "Docteur en Médecine | Maître de Méditation | Coach Spirituel | Conférencier Motivateur",
+    "location": "Chișinău, Moldavie & Sanctuaire Virtuel Mondial",
+    "email": "contact@drmayankahooja.com",
+    "links": [
+      {
+        "label": "À propos",
+        "href": "#about"
+      },
+      {
+        "label": "Services",
+        "href": "#services"
+      },
+      {
+        "label": "Confidentialité",
+        "href": "#privacy"
+      },
+      {
+        "label": "Conditions",
+        "href": "#terms"
+      }
+    ],
+    "disclaimer": "Avertissement.\n\nLes méthodes holistiques, telles que les soins énergétiques, spirituels et émotionnels, sont destinées à apporter un soutien complémentaire à votre bien-être.\nElles ne visent pas à remplacer les services médicaux, psychologiques ou d'autres professionnels de santé traditionnels. Elles ne doivent pas être considérées comme un substitut à une consultation médicale ou professionnelle.\n\nNous utilisons des méthodes pouvant soutenir votre bien-être, mais il est important de rappeler que chaque personne est unique et que les résultats peuvent varier.\nNous vous recommandons toujours de faire confiance à votre propre jugement et, en cas de doute, de consulter un professionnel de la santé. Notre intention est d'offrir une approche globale de l'amélioration de la santé, mais nous ne pouvons garantir des résultats spécifiques, car ils dépendent de nombreux facteurs personnels.\n\nCONSENTEMENT ÉCLAIRÉ\nEn participant à ce programme de bien-être, vous reconnaissez avoir lu et compris les termes de cet avertissement. Nous vous remercions de votre participation et vous encourageons à appliquer les connaissances acquises de manière responsable et dans le respect de vous-même et d'autrui.",
+    "copyright": "Tous droits réservés."
+  },
+  "languageModal": {
+    "title": "Choisissez Votre Langue",
+    "subtitle": "Sélectionnez votre langue de préférence pour explorer notre sanctuaire",
+    "confirm": "Continuer",
+    "languages": {
+      "en": {
+        "name": "English",
+        "native": "English",
+        "flag": "🇬🇧"
+      },
+      "ru": {
+        "name": "Russian",
+        "native": "Русский",
+        "flag": "🇷🇺"
+      },
+      "ro": {
+        "name": "Romanian",
+        "native": "Română",
+        "flag": "🇷🇴"
+      },
+      "fr": {
+        "name": "French",
+        "native": "Français",
+        "flag": "🇫🇷"
+      },
+      "de": {
+        "name": "German",
+        "native": "Deutsch",
+        "flag": "🇩🇪"
+      },
+      "it": {
+        "name": "Italian",
+        "native": "Italiano",
+        "flag": "🇮🇹"
+      },
+      "es": {
+        "name": "Spanish",
+        "native": "Español",
+        "flag": "🇪🇸"
+      }
+    }
+  },
+  "modal": {
+    "title": "Réserver Votre Séance Sanctuaire",
+    "subtitle": "Un dialogue serein et confidentiel adapté à votre parcours de bien-être.",
+    "fullName": "Nom et Prénom",
+    "fullNamePlaceholder": "Votre nom",
+    "email": "Adresse Email",
+    "emailPlaceholder": "vous@exemple.com",
+    "phone": "Téléphone / WhatsApp",
+    "phonePlaceholder": "+373 ...",
+    "service": "Orientation Souhaitée",
+    "selectService": "Sélectionnez une modalité",
+    "message": "Intentions et Remarques Personnelles",
+    "messagePlaceholder": "Partagez ce qui vous amène vers cette pratique...",
+    "submit": "Confirmer la Demande de Réservation",
+    "submitting": "Envoi en cours...",
+    "successTitle": "Votre Demande a Été Transmise",
+    "successMsg": "Le Dr Mayank Ahooja prendra connaissance de votre message avec la plus grande attention. Nous vous répondrons sous 24 heures.",
+    "close": "Fermer",
+    "languageNoticeBadge": "AVIS IMPORTANT",
+    "languageNoticeTitle": "Langue des Séances",
+    "languageNoticeText": "All the sessions will be held in English and Russian language.",
+    "languageNoticeSubtext": "Veuillez confirmer que vous pouvez suivre la séance en anglais ou en russe avant de poursuivre votre réservation.",
+    "languageAcceptBtn": "Je comprends et j'accepte",
+    "languageCancelBtn": "Annuler",
+    "optgroupServices": "Services de Bien-Être & Séances",
+    "optgroupPrograms": "Ateliers & Programmes Guidés",
+    "tag": "RENDEZ-VOUS AU SANCTUAIRE",
+    "trustText": "Condition préalable obligatoire • Acceptation requise pour continuer",
+    "age": "Âge",
+    "agePlaceholder": "ex. 34",
+    "gender": "Genre",
+    "genderSelect": "Sélectionner le genre",
+    "genderFemale": "Femme",
+    "genderMale": "Homme",
+    "genderOther": "Non-binaire / Autre",
+    "genderPreferNot": "Préfère ne pas préciser",
+    "country": "Pays",
+    "countryPlaceholder": "ex. France, Suisse, Belgique...",
+    "city": "Ville",
+    "cityPlaceholder": "ex. Paris, Genève, Bruxelles...",
+    "symptoms": "Symptômes & Préoccupations",
+    "symptomsSubtitle": "Cliquez sur les suggestions ou écrivez les vôtres :",
+    "symptomsPlaceholder": "Décrivez vos symptômes, stress quotidien, sommeil, tensions corporelles ou besoins...",
+    "symptomSuggestions": [
+      "Surcharge mentale & Stress",
+      "Fatigue chronique & Manque d'énergie",
+      "Insomnie & Sommeil agité",
+      "Tensions au cou & au dos",
+      "Anxiété & Agitation intérieure",
+      "Lourdeur émotionnelle & Burnout",
+      "Brouillard mental & Manque de clarté",
+      "Déséquilibre des chakras & de l'énergie"
+    ],
+    "countrySelect": "Sélectionnez le pays",
+    "citySelect": "Sélectionnez la ville",
+    "selectCountryFirst": "Sélectionnez d'abord le pays",
+    "cityOther": "Autre / Saisir la ville...",
+    "optgroupPopular": "Populaire / Régional",
+    "optgroupAllCountries": "Tous les pays (A-Z)",
+    "successResponse": "Réponse sous 24 heures",
+    "termsCheckboxLabel": "J'ai lu et j'accepte les",
+    "termsCheckboxLink": "Conditions Générales"
+  },
+  "service": {
+    "keyFocusAreas": "Dimensions Clés & Pratiques",
+    "journey": "Parcours Structuré en 3 Étapes",
+    "step1Title": "Accueil & Centrage",
+    "step1Desc": "Déposez-vous dans un espace serein. Nous échangeons sur vos ressentis et vos intentions pour installer un calme immédiat.",
+    "step2Title": "Pratique Guidée",
+    "step2Desc": "Accompagnement bienveillant à travers la méditation, la résonance sonore, la respiration consciente ou le dialogue constructif.",
+    "step3Title": "Intégration & Sérénité Durable",
+    "step3Desc": "Ancrage des ressentis et micro-habitudes simples pour préserver cette paix intérieure dans votre vie moderne.",
+    "readyTitle": "Commencez Votre Pratique avec le Dr Mayank",
+    "readyDesc": "Les consultations sont proposées en ligne partout dans le monde et dans notre sanctuaire paisible. Réservez votre entretien.",
+    "relatedTitle": "Pratiques Complémentaires",
+    "exploreModality": "Découvrir"
+  },
+  "pause": {
+    "eyebrow": "UNE PAUSE. UN SOUFFLE. UN RETOUR.",
+    "quoteLine1": "Parfois, le premier pas",
+    "quoteLine2": "en avant",
+    "quoteLine3": "consiste simplement à apprendre à être",
+    "quoteGold": "paisible.",
+    "scrollText": "FAITES DÉFILER POUR RESPIRER"
+  },
+  "wellness": {
+    "tag": "PHILOSOPHIE FONDATRICE",
+    "headline": "Les 5 Piliers de la Plénitude",
+    "subtitle": "Une approche sanctuaire complète harmonisant l'esprit, la clarté mentale, l'aisance émotionnelle et la croissance intérieure.",
+    "alignedServices": "Pratiques Associées"
+  },
+  "notFound": {
+    "tag": "404 • DÉTOUR PAISIBLE",
+    "title": "Retour au Centre",
+    "subtitle": "Le chemin recherché s'est doucement dissipé, mais le sanctuaire demeure ouvert. Faites une pause, respirez consciemment et revenez au départ.",
+    "cta": "Retour à l'Accueil du Sanctuaire"
+  },
+  "threePillars": {
+    "tag": "LE FONDEMENT CONCEPTUEL",
+    "mainHeading": "Trois perspectives. Une personne entière.",
+    "formulaHeadline": "Méditation × Science × Bien-être Holistique",
+    "subHeading": "La méditation offre la pratique. La science apporte la compréhension. Le bien-être holistique offre une connexion profonde et du sens. Ensemble, ils créent une harmonie complète.",
+    "completeJourney": "Le Voyage Complet",
+    "pillars": [
+      {
+        "id": "meditation",
+        "num": "01",
+        "label": "MÉDITATION",
+        "tag": "LA PRATIQUE ATTENTIVE",
+        "action": "Faites l'expérience de vous-même.",
+        "principle": "La méditation offre la pratique vécue.",
+        "quote": "La pleine conscience transforme la compréhension en une pratique vécue.",
+        "details": "Exercices de respiration simples, temps de calme guidé et art de la pause. La compréhension devient paix authentique, détente physique et énergie renouvelée.",
+        "pills": [
+          "Respiration Consciente",
+          "Détente Naturelle",
+          "Présence",
+          "Espace Paisible"
+        ]
+      },
+      {
+        "id": "science",
+        "num": "02",
+        "label": "SCIENCE",
+        "tag": "LA COMPRÉHENSION ANCRÉE",
+        "action": "Comprenez-vous vous-même.",
+        "principle": "La science apporte la compréhension.",
+        "quote": "Comprendre le système humain nous donne le fondement pour un changement durable.",
+        "details": "Un regard clair sur l'impact du stress, de la respiration et du rythme de vie sur le corps et l'esprit, pour comprendre précisément vos sensations.",
+        "pills": [
+          "Connexion Corps-Esprit",
+          "Soulagement du Stress",
+          "Souffle Calme",
+          "Guidance Douce"
+        ]
+      },
+      {
+        "id": "spirituality",
+        "num": "03",
+        "label": "BIEN-ÊTRE HOLISTIQUE",
+        "tag": "HARMONIE INTÉRIEURE & SENS",
+        "action": "Connectez-vous à vous-même.",
+        "principle": "Le bien-être holistique apporte profondeur et sens.",
+        "quote": "La connexion intérieure apporte du sens, de l'équilibre et une plénitude durable.",
+        "details": "Harmonisation énergétique subtile, résonance sonore apaisante et paix intérieure. Retrouvez qui vous êtes au-delà des emplois du temps chargés et des attentes.",
+        "pills": [
+          "Alignement Énergétique",
+          "Sons Apaisants",
+          "Clarté Intérieure",
+          "Plénitude d'Être"
+        ]
+      }
+    ]
+  },
+  "aboutPreview": {
+    "tabs": {
+      "clinical": "Fondations d'Apprentissage",
+      "meditation": "Pratique Attentive",
+      "symbiosis": "Le Plan Harmonie"
+    },
+    "programTabs": {
+      "clinical": {
+        "tag": "SCIENCE PRATIQUE & COMPRÉHENSION",
+        "title": "Docteur en Médecine (M.D.)",
+        "subtitle": "Compréhension Claire de l'Esprit, du Cerveau et du Corps",
+        "body": "Le Dr Mayank apporte une base scientifique solide, vous aidant à comprendre comment les pensées, le stress et les habitudes impactent directement votre physiologie. Chaque séance repose sur la sécurité, la clarté et le savoir pratique.",
+        "features": [
+          {
+            "title": "Approche scientifique",
+            "subtitle": "Ancrée dans la science réelle et le bien-être corps-esprit"
+          },
+          {
+            "title": "Connexion esprit-corps",
+            "subtitle": "Allier clarté mentale et détente physique naturelle"
+          },
+          {
+            "title": "Apprenez à votre rythme",
+            "subtitle": "Guidance sur mesure adaptée à votre emploi du temps"
+          }
+        ],
+        "buttonText": "Découvrir mon approche →",
+        "floatingBadge": "Compréhension claire. Croissance réelle."
+      },
+      "meditation": {
+        "tag": "MÉDITATION & PLEINE CONSCIENCE",
+        "title": "Maître de Méditation & Mentor",
+        "subtitle": "15+ Ans d'Entraînement de l'Esprit",
+        "body": "Au-delà des solutions éphémères : des techniques de méditation intemporelles, la conscience apaisée du souffle et un silence intérieur profond issus de plus de 15 ans de pratique.",
+        "features": [
+          {
+            "title": "Méditation Authentique",
+            "subtitle": "Travail respiratoire éprouvé, pleine conscience et recueillement"
+          },
+          {
+            "title": "Réflexe Naturel de Calme",
+            "subtitle": "Stimule la réponse naturelle de relaxation de votre organisme"
+          },
+          {
+            "title": "Profonde Tranquillité Mentale",
+            "subtitle": "Apaise en douceur le stress répétitif et le flux des pensées"
+          }
+        ],
+        "buttonText": "Explorer les séances de méditation →",
+        "floatingBadge": "Éveiller la conscience. Apaiser l'esprit."
+      },
+      "symbiosis": {
+        "tag": "BIEN-ÊTRE INTÉGRATIF",
+        "title": "Le Plan Harmonie",
+        "subtitle": "Harmonie de l'Esprit, du Corps & de l'Énergie",
+        "body": "L'union d'une compréhension scientifique claire et de pratiques énergétiques subtiles. Un accompagnement 1:1 personnalisé qui soulage l'épuisement physique, le stress et le surmenage.",
+        "features": [
+          {
+            "title": "Carte Personnelle de Bien-être",
+            "subtitle": "Comprendre vos schémas de stress et votre flux d'énergie"
+          },
+          {
+            "title": "Libération des Tensions",
+            "subtitle": "Relâcher la pression accumulée et la rigidité physique"
+          },
+          {
+            "title": "Autonomie Durable",
+            "subtitle": "Indépendance émotionnelle pérenne ancrée dans votre quotidien"
+          }
+        ],
+        "buttonText": "Découvrir Le Plan Harmonie →",
+        "floatingBadge": "Restaurer l'énergie. Vivre l'harmonie."
+      }
+    },
+    "explorer": {
+      "tag": "NAVIGATEUR D'EXPÉRIENCE INTERACTIF",
+      "title": "Que Ressentez-Vous en ce Moment ?",
+      "subtitle": "Sélectionnez votre état pour découvrir comment la science claire et les pratiques attentives s'unissent pour restaurer votre équilibre.",
+      "calloutTitle": "Vous ne savez pas par où commencer ?",
+      "calloutDesc": "Choisissez ce que vous ressentez pour voir comment une compréhension claire et des pratiques douces vous aident à retrouver la paix.",
+      "commonExperiences": "EXPÉRIENCES FRÉQUENTES",
+      "ourApproach": "NOTRE APPROCHE",
+      "explorePath": "Explorer ce chemin →"
+    },
+    "symptoms": {
+      "insomnia": {
+        "label": "Sommeil Réparateur",
+        "title": "Sommeil Réparateur & Soirées Paisibles",
+        "italicPremise": "Meilleur sommeil. Détente naturelle. Énergie quotidienne retrouvée.",
+        "paragraph": "Journées denses, écrans tardifs et pensées incessantes perturbent vos nuits. Nous guidons le corps et l'esprit vers un repos apaisant grâce à des rituels du soir et un souffle relaxant.",
+        "checkmarks": [
+          "Favorise un sommeil réparateur, profond et ininterrompu",
+          "Calme les pensées nocturnes et l'agitation physique",
+          "Construit des rituels pré-sommeil doux et durables",
+          "Restaure les rythmes naturels pour un réveil serein"
+        ],
+        "experiences": [
+          "Nuits agitées",
+          "Difficulté d'endormissement",
+          "Pensées envahissantes au lit",
+          "Épuisement matinal",
+          "Sommeil haché",
+          "Baisse d'énergie en journée"
+        ],
+        "approaches": [
+          {
+            "title": "Rythme du Soir",
+            "desc": "Protocoles d'apaisement préparant le corps et l'esprit au sommeil."
+          },
+          {
+            "title": "Pranayama Doux",
+            "desc": "Respiration apaisante pour détendre le système nerveux naturellement."
+          },
+          {
+            "title": "Silence Régénérateur",
+            "desc": "Relaxation guidée pour dénouer les tensions corporelles."
+          }
+        ]
+      },
+      "female": {
+        "label": "Bien-être Féminin",
+        "title": "Soin de Soi, Équilibre & Confiance Rayonnante",
+        "italicPremise": "Honorer son rythme. Retrouver confiance. Rayonner d'équilibre.",
+        "paragraph": "Une approche bienveillante et holistique pour soutenir la vitalité féminine, l'harmonie émotionnelle et des routines équilibrées pour une santé durable.",
+        "checkmarks": [
+          "Cultive l'équilibre émotionnel et la force intérieure",
+          "Nourrit des habitudes quotidiennes de soin et de vitalité",
+          "Soutient les rythmes naturels et la sérénité émotionnelle",
+          "Restaure une joyeuse confiance et le bien-être au quotidien"
+        ],
+        "experiences": [
+          "Fatigue émotionnelle",
+          "Multiplicité des rôles",
+          "Stress hormonal subtil",
+          "Peu de temps pour soi",
+          "Surcharge sensorielle",
+          "Perte de vitalité"
+        ],
+        "approaches": [
+          {
+            "title": "Soin Conscient",
+            "desc": "Routines sur mesure respectant les rythmes naturels et les limites."
+          },
+          {
+            "title": "Équilibre Émotionnel",
+            "desc": "Pratiques de pleine conscience pour un calme intérieur durable."
+          },
+          {
+            "title": "Harmonie Vibrante",
+            "desc": "Pratiques holistiques nourrissantes pour préserver l'énergie."
+          }
+        ]
+      },
+      "teen": {
+        "label": "Adolescents & Étudiants",
+        "title": "Gérer la Pression Scolaire & la Surcharge Numérique",
+        "italicPremise": "Alléger le stress scolaire. Déconnecter la surcharge. Bâtir une vraie confiance.",
+        "paragraph": "Accompagner les adolescents face aux exigences scolaires, à la fatigue des écrans et au stress émotionnel grâce à des pauses attentives et des routines équilibrées.",
+        "checkmarks": [
+          "Soulage l'anxiété d'évaluation et la pression académique",
+          "Restaure des limites saines avec les écrans et les réseaux",
+          "Développe une authentique confiance et la résilience émotionnelle",
+          "Protège le sommeil et l'équilibre relationnel"
+        ],
+        "experiences": [
+          "Stress des examens",
+          "Fatigue des écrans",
+          "Surcharge émotionnelle",
+          "Baisse de motivation",
+          "Épuisement chronique",
+          "Inquiétude d'avenir"
+        ],
+        "approaches": [
+          {
+            "title": "Allègement de Pression",
+            "desc": "Outils concrets pour étudier sereinement sans s'épuiser."
+          },
+          {
+            "title": "Pause Numérique",
+            "desc": "Coupures saines des écrans pour retrouver la clarté d'esprit."
+          },
+          {
+            "title": "Ancrage Intérieur",
+            "desc": "Consolidation de l'estime de soi et du calme intérieur."
+          }
+        ]
+      },
+      "corporate": {
+        "label": "Monde Professionnel",
+        "title": "Calme au Travail & Stress Professionnel",
+        "italicPremise": "Plus de sérénité. Des journées plus légères. Équilibre au travail.",
+        "paragraph": "Accompagner dirigeants et professionnels à traverser des journées intenses, la fatigue décisionnelle et les fortes exigences grâce à des pauses de 5 minutes et un focus clair.",
+        "checkmarks": [
+          "Atténue la pression des délais, la fatigue oculaire et la surcharge",
+          "Installe des micro-habitudes de 5 min pour rester calme sous la pression",
+          "Établit des frontières saines et déculpabilisantes entre travail et vie privée",
+          "Protège la concentration mentale et des soirées sereines"
+        ],
+        "experiences": [
+          "Réunions continues",
+          "Fatigue décisionnelle",
+          "Temps d'écran excessif",
+          "Pression des délais",
+          "Difficulté à décrocher",
+          "Appréhension du dimanche soir"
+        ],
+        "approaches": [
+          {
+            "title": "Resets au Bureau",
+            "desc": "Exercices de souffle de 5 minutes entre deux tâches exigeantes."
+          },
+          {
+            "title": "Focus Serein",
+            "desc": "Habitudes d'ancrage pour clarifier l'esprit et décider sereinement."
+          },
+          {
+            "title": "Frontière du Soir",
+            "desc": "Rituels doux pour déconnecter réellement du travail le soir."
+          }
+        ]
+      },
+      "subtle": {
+        "label": "Équilibre Intérieur",
+        "title": "Flux Énergétique & Paix Intérieure",
+        "italicPremise": "Équilibrer les nadis. Aligner les chakras. Éveiller le silence intérieur.",
+        "paragraph": "Se relier à son flux d'énergie naturelle – équilibrer les énergies actives et apaisantes, harmoniser les 7 chakras pour une paix enracinée et une conscience de soi.",
+        "checkmarks": [
+          "Équilibre le flux énergétique actif et réparateur",
+          "Restaure l'alignement subtil à travers les 7 centres énergétiques",
+          "Libère les blocages pour une méditation fluide",
+          "Intègre durablement vitalité physique et paix intérieure"
+        ],
+        "experiences": [
+          "Désir de silence profond",
+          "Paliers en méditation",
+          "Déséquilibre énergétique",
+          "Agitation mentale",
+          "Recherche d'alignement",
+          "Curiosité spirituelle"
+        ],
+        "approaches": [
+          {
+            "title": "Harmonisation des Chakras",
+            "desc": "Contemplation guidée pour équilibrer les 7 centres subtils."
+          },
+          {
+            "title": "Équilibre des Nadis",
+            "desc": "Harmonisation de l'activité solaire et du calme lunaire."
+          },
+          {
+            "title": "Réalisation Intérieure",
+            "desc": "Ancrer une présence inébranlable dans la vie quotidienne."
+          }
+        ]
+      }
+    },
+    "differentiators": {
+      "tag": "POURQUOI CHOISIR LE DR. MAYANK",
+      "title": "L'Approche Multidisciplinaire",
+      "subtitle": "La convergence rare entre science rigoureuse, compréhension bienveillante et méditation authentique.",
+      "learnMore": "Découvrir pourquoi c'est essentiel →",
+      "showLess": "Réduire ↑",
+      "items": [
+        {
+          "tag": "Science + Méditation",
+          "title": "Le Double Prisme",
+          "body": "Allier la médecine et la méditation pour une compréhension profonde de votre bien-être.",
+          "detail": "Il est rare de rencontrer un médecin formé qui honore la paix intérieure, ou un guide contemplatif qui maîtrise la physiologie corporelle."
+        },
+        {
+          "tag": "Ancré & Simple",
+          "title": "Simple & Pragmatique",
+          "body": "Aucune théorie complexe. Une guidance accessible et directe pour votre vie de tous les jours.",
+          "detail": "Nous respectons vos convictions sans dogme. Tout est bienveillant, pratique et axé sur des bienfaits tangibles."
+        },
+        {
+          "tag": "Accompagnement Personnalisé",
+          "title": "Un Soin Conçu Pour Vous",
+          "body": "Votre cheminement est unique. Bénéficiez d'un accompagnement pensé pour vos besoins et émotions.",
+          "detail": "Qu'il s'agisse de souffle apaisant, de libération émotionnelle ou de clarté d'esprit, chaque séance est sur mesure."
+        },
+        {
+          "tag": "Autonomie Durable",
+          "title": "Favoriser l'Indépendance",
+          "body": "Apprenez des outils simples que vous pourrez continuer à utiliser en toute confiance par vous-même.",
+          "detail": "Vous repartirez avec votre propre plan de sérénité et des routines vous permettant de rester centré face aux aléas."
+        }
+      ]
+    }
+  },
+  "whatsapp": {
+    "enabled": true,
+    "number": "+373 60 123 456",
+    "message": "Bonjour Dr. Mayank, je souhaite me renseigner sur une consultation personnelle 1:1.",
+    "label": "Discuter avec Dr. Mayank"
+  },
+  "terms": {
+    "tag": "AVIS JURIDIQUE",
+    "title": "Conditions Générales",
+    "subtitle": "Veuillez lire attentivement ces conditions avant de réserver une séance ou de participer à tout programme de bien-être proposé par le Dr Mayank Ahooja.",
+    "lastUpdated": "Dernière mise à jour : octobre 2026",
+    "acceptanceNote": "En réservant une séance avec le Dr Mayank Ahooja, vous confirmez avoir lu, compris et accepté l'ensemble des conditions générales ci-dessus.",
+    "sections": [
+      {
+        "title": "Nature des services holistiques",
+        "points": [
+          "Les séances holistiques (méditation, respiration, équilibre énergétique) sont des pratiques de bien-être complémentaires.",
+          "Les séances ne constituent pas des consultations cliniques et ne créent pas de relation médecin-patient.",
+          "Ces services ne posent aucun diagnostic médical et ne remplacent pas les soins médicaux agréés."
+        ]
+      },
+      {
+        "title": "Résultats individuels et absence de garanties",
+        "points": [
+          "Les résultats varient naturellement d'une personne à l'autre selon chaque individu.",
+          "Nous ne garantissons aucun résultat médical ou thérapeutique spécifique.",
+          "Les progrès accomplis résultent d'une démarche collaborative entre le praticien et le participant."
+        ]
+      },
+      {
+        "title": "Ne remplace pas un avis médical",
+        "points": [
+          "Consultez toujours un médecin qualifié pour tout problème de santé physique ou mentale.",
+          "N'interrompez et ne retardez jamais un traitement médical prescrit au profit de méthodes holistiques.",
+          "Les informations partagées ont une vocation exclusivement éducative et de bien-être."
+        ]
+      },
+      {
+        "title": "Responsabilité du participant",
+        "points": [
+          "La participation à l'ensemble des séances et exercices s'effectue de manière totalement volontaire.",
+          "Vous assumez la pleine responsabilité de vos choix personnels, actes et habitudes de vie.",
+          "Vous vous engagez à participer avec présence attentive, sincérité et respect mutuel."
+        ]
+      },
+      {
+        "title": "Confidentialité et vie privée",
+        "points": [
+          "Tous les échanges et récits partagés durant les séances sont strictement confidentiels.",
+          "Les coordonnées collectées lors de la réservation servent uniquement à organiser vos séances.",
+          "Vos données personnelles ne sont jamais vendues ni cédées à des tiers."
+        ]
+      },
+      {
+        "title": "Langue des séances",
+        "points": [
+          "Toutes les séances individuelles et de groupe se déroulent uniquement en anglais et en russe.",
+          "Vous confirmez maîtriser suffisamment l'anglais ou le russe pour échanger avec aisance.",
+          "Les séances en direct dans d'autres langues ne sont pas proposées actuellement."
+        ]
+      },
+      {
+        "title": "Consentement éclairé",
+        "points": [
+          "La réservation d'une séance confirme que vous avez lu et accepté ces conditions dans leur intégralité.",
+          "Vous consentez librement à recevoir un accompagnement méditatif et holistique.",
+          "Nous vous remercions pour votre engagement responsable et bienveillant dans cette pratique."
+        ]
+      },
+      {
+        "title": "Modifications des présentes conditions",
+        "points": [
+          "Ces conditions générales peuvent être mises à jour périodiquement selon l'évolution de nos services.",
+          "La poursuite de votre participation vaut acceptation des conditions révisées.",
+          "Les changements majeurs vous seront notifiés lors du processus de réservation."
+        ]
+      }
+    ]
+  }
+}

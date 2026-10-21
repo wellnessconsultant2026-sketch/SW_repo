@@ -1,0 +1,150 @@
+.pauseSection {
+  position: relative;
+  width: 100%;
+  min-height: clamp(520px, 60vh, 760px);
+  background-color: var(--bg-canvas, #F7EFE6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 4.5rem 1.5rem 3.5rem;
+}
+
+.bgWrapper {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.bgImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+}
+
+.content {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.eyebrowGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.eyebrow {
+  font-family: var(--font-body, 'Inter', sans-serif);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  letter-spacing: 3.5px;
+  text-transform: uppercase;
+  color: var(--gold-accent, #C8954A);
+  margin-bottom: 0.5rem;
+}
+
+.decorativeLine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  width: 56px;
+  height: 1px;
+  background-color: var(--gold-accent, #C8954A);
+  opacity: 0.7;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto 5.5rem;
+  line-height: 1.25;
+}
+
+.quoteLine1,
+.quoteLine2 {
+  font-family: var(--font-display, 'Cormorant Garamond', Georgia, serif);
+  font-size: clamp(1.75rem, 1.4rem + 2.2vw, 4.2rem);
+  font-weight: 600;
+  color: var(--text-primary, #17132D);
+  letter-spacing: -0.01em;
+}
+
+.quoteLine2 {
+  margin-bottom: 0.5rem;
+}
+
+.quoteLine3 {
+  font-family: var(--font-body, 'Inter', sans-serif);
+  font-size: clamp(1.1rem, 0.95rem + 0.9vw, 2.2rem);
+  font-weight: 300;
+  color: var(--text-primary, #17132D);
+  letter-spacing: -0.01em;
+}
+
+.goldText {
+  font-family: var(--font-display, 'Cormorant Garamond', Georgia, serif);
+  font-weight: 700;
+  color: var(--gold-accent, #C8954A);
+  font-style: italic;
+}
+
+.scrollIndicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+
+.breathIcon {
+  width: 28px;
+  height: 40px;
+  animation: gentlePulse 4s ease-in-out infinite;
+}
+
+.scrollText {
+  font-family: var(--font-body, 'Inter', sans-serif);
+  font-size: 0.72rem;
+  letter-spacing: 3px;
+  font-weight: 500;
+  color: #8C7355;
+  text-transform: uppercase;
+}
+
+@keyframes gentlePulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.85;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .pauseSection {
+    min-height: auto;
+    padding: 3.5rem 1.25rem 2.75rem;
+  }
+  .quote {
+    margin-bottom: 2.5rem;
+  }
+}
+

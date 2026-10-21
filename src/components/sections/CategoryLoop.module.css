@@ -1,0 +1,269 @@
+.loopContainer {
+  position: relative;
+  margin-bottom: 4rem;
+}
+
+.loopContainer:last-child {
+  margin-bottom: 2rem;
+}
+
+.categoryHeader {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.categoryMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.categoryTag {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--gold-dark, #9E702D);
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.categoryTitle {
+  font-family: var(--font-display, serif);
+  font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.2;
+  margin: 0;
+}
+
+.categoryDesc {
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  margin: 0;
+  max-width: 38rem;
+  line-height: 1.55;
+}
+
+.manualNav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.navArrowBtn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(196, 160, 118, 0.35);
+  color: var(--plum-primary, #3B1439);
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: all 0.25s ease;
+}
+
+.navArrowBtn:hover {
+  background: var(--plum-primary, #3B1439);
+  color: #FFFFFF;
+  border-color: var(--plum-primary);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(82, 32, 79, 0.2);
+}
+
+/* Horizontal track showing each uploaded image once */
+.trackWrapper {
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+  padding: 0.75rem 0 1.25rem;
+  mask-image: linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 4%, black 96%, transparent 100%);
+}
+
+.track {
+  display: flex;
+  gap: 1.5rem;
+  width: max-content;
+}
+
+/* Luxury Photo Card in Loop */
+.loopCard {
+  width: 320px;
+  flex-shrink: 0;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(200, 149, 74, 0.24);
+  border-radius: 18px;
+  padding: 0.85rem;
+  box-shadow: 0 6px 20px -4px rgba(24, 17, 36, 0.06);
+  cursor: pointer;
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+}
+
+.loopCard:hover {
+  transform: translateY(-5px);
+  background: rgba(255, 255, 255, 0.98);
+  border-color: rgba(200, 149, 74, 0.6);
+  box-shadow: 0 16px 36px -8px rgba(24, 17, 36, 0.14), 0 0 16px rgba(212, 175, 55, 0.2);
+}
+
+.imageWrap {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4/3;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--plum-light, #FAF5FA);
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.loopCard:hover .photo {
+  transform: scale(1.08);
+}
+
+/* Floating Video Badge */
+.badgeVideo {
+  position: absolute;
+  top: 0.65rem;
+  right: 0.65rem;
+  padding: 0.25rem 0.6rem;
+  background: rgba(204, 0, 0, 0.92);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 9999px;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  letter-spacing: 0.04em;
+  z-index: 2;
+  pointer-events: none;
+  box-shadow: 0 4px 10px rgba(204, 0, 0, 0.35);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: transform 0.25s ease;
+}
+
+.loopCard:hover .badgeVideo {
+  transform: scale(1.06);
+}
+
+/* Overlay & Prompt */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(24, 10, 26, 0.1) 0%, rgba(24, 10, 26, 0.5) 100%);
+  backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.loopCard:hover .overlay {
+  opacity: 1;
+}
+
+.overlayPrompt {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.42rem 1.05rem 0.42rem 0.55rem;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(196, 160, 118, 0.6);
+  border-radius: 9999px;
+  box-shadow: 0 8px 24px rgba(24, 10, 26, 0.25);
+  transform: translateY(6px);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.loopCard:hover .overlayPrompt {
+  transform: translateY(0);
+}
+
+.viewIconBadge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.25) 0%, rgba(196, 160, 118, 0.12) 100%);
+  border: 1px solid rgba(196, 160, 118, 0.45);
+  color: var(--gold-dark, #9E702D);
+}
+
+.viewText {
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  font-weight: 600;
+  color: var(--plum-primary, #3B1439);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Card Caption Row */
+.captionRow {
+  padding: 0.85rem 0.25rem 0.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.cardTitle {
+  font-family: var(--font-display, serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0;
+  line-height: 1.25;
+}
+
+.cardReflection {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.45;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .loopCard {
+    width: 260px;
+    padding: 0.75rem;
+  }
+}

@@ -1,0 +1,130 @@
+.articleContainer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.articleCard {
+  background: #FFFFFF;
+  border: 1px solid rgba(82, 32, 79, 0.1);
+  border-radius: 24px;
+  padding: clamp(2rem, 5vw, 3.5rem);
+  box-shadow: 0 12px 40px rgba(38, 28, 44, 0.05);
+  margin-bottom: 3rem;
+}
+
+.metaRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.categoryBadge {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--gold-accent, #C8954A);
+  background: rgba(200, 149, 74, 0.12);
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+}
+
+.readTime {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--text-muted, #4A4560);
+}
+
+.articleBody {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.85;
+  color: var(--text-primary, #17132D);
+}
+
+.articleBody p {
+  margin-bottom: 1.6rem;
+}
+
+.articleBody h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 2.2vw, 1.8rem);
+  font-weight: 700;
+  color: var(--plum-primary, #52204F);
+  margin: 2.5rem 0 1rem;
+}
+
+.quoteBlock {
+  border-left: 3px solid var(--gold-accent, #C8954A);
+  padding: 1.25rem 1.75rem;
+  margin: 2rem 0;
+  background: rgba(247, 239, 230, 0.6);
+  border-radius: 0 12px 12px 0;
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--text-primary, #17132D);
+  line-height: 1.6;
+}
+
+.authorBox {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  background: rgba(82, 32, 79, 0.04);
+  border: 1px solid rgba(82, 32, 79, 0.08);
+  border-radius: 16px;
+  margin-top: 3rem;
+}
+
+.authorAvatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--gold-accent, #C8954A);
+}
+
+.authorName {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text-primary, #17132D);
+  margin-bottom: 0.25rem;
+}
+
+.authorTitle {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--text-muted, #4A4560);
+}
+
+.featuredImageWrapper {
+  width: 100%;
+  margin-bottom: 2.25rem;
+  border-radius: 18px;
+  overflow: hidden;
+  background: rgba(82, 32, 79, 0.04);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(82, 32, 79, 0.08);
+}
+
+.featuredImage {
+  width: 100%;
+  max-height: 480px;
+  object-fit: cover;
+  display: block;
+}
+
+.subHeading3 {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--plum-primary, #52204F);
+  margin: 2rem 0 0.75rem;
+}
+

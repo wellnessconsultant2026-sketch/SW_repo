@@ -1,0 +1,273 @@
+.contactLayout {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: clamp(2rem, 4vw, 3.5rem);
+  align-items: start;
+  margin-top: 2rem;
+}
+
+.infoCard {
+  background: #FFFFFF;
+  border: 1px solid rgba(82, 32, 79, 0.12);
+  border-radius: 24px;
+  padding: clamp(2rem, 3.5vw, 2.8rem);
+  box-shadow: 0 10px 35px rgba(38, 28, 44, 0.05);
+}
+
+.infoTitle {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--text-primary, #17132D);
+  margin-bottom: 0.75rem;
+}
+
+.infoDesc {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-muted, #4A4560);
+  line-height: 1.65;
+  margin-bottom: 2rem;
+}
+
+.infoList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.infoItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.infoLabel {
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--gold-accent, #C8954A);
+}
+
+.infoValue {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  color: var(--text-primary, #17132D);
+  font-weight: 500;
+}
+
+.infoLink {
+  color: var(--plum-primary, #52204F);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.infoLink:hover {
+  color: var(--gold-accent, #C8954A);
+}
+
+.formCard {
+  background: #FFFFFF;
+  border: 1.5px solid rgba(200, 149, 74, 0.3);
+  border-radius: 24px;
+  padding: clamp(2rem, 4vw, 3rem);
+  box-shadow: 0 12px 40px rgba(82, 32, 79, 0.08);
+}
+
+.formTitle {
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: var(--text-primary, #17132D);
+  margin-bottom: 0.5rem;
+}
+
+.formSubtitle {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-muted, #4A4560);
+  margin-bottom: 1.75rem;
+}
+
+.fieldRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+  .fieldRow {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+}
+
+.symptomsSubhead {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--text-muted, #736C82);
+  margin: -0.1rem 0 0.5rem;
+  line-height: 1.4;
+}
+
+.symptomsChips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-bottom: 0.75rem;
+}
+
+.symptomChip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  background: rgba(247, 239, 230, 0.6);
+  border: 1px solid rgba(200, 149, 74, 0.4);
+  border-radius: 999px;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-primary, #17132D);
+  cursor: pointer;
+  transition: all 0.22s ease;
+  user-select: none;
+}
+
+.symptomChip:hover {
+  background: rgba(200, 149, 74, 0.2);
+  border-color: var(--gold-accent, #C8954A);
+  transform: translateY(-1px);
+}
+
+.symptomChipActive {
+  background: linear-gradient(135deg, var(--plum-primary, #52204F) 0%, #3E1639 100%) !important;
+  color: #FFFFFF !important;
+  border-color: var(--gold-accent, #C8954A) !important;
+  box-shadow: 0 2px 8px rgba(82, 32, 79, 0.25);
+}
+
+.chipIcon {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.chipText {
+  line-height: 1.3;
+}
+
+.chipAction {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--gold-accent, #C8954A);
+  background: rgba(200, 149, 74, 0.16);
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.symptomChipActive .chipAction {
+  color: #FFFFFF;
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 1.25rem;
+}
+
+.label {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-primary, #17132D);
+}
+
+.input, .select, .textarea {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 1px solid rgba(82, 32, 79, 0.2);
+  background: rgba(247, 239, 230, 0.3);
+  color: var(--text-primary, #17132D);
+  transition: all 0.2s ease;
+}
+
+.input:focus, .select:focus, .textarea:focus {
+  outline: none;
+  border-color: var(--plum-primary, #52204F);
+  box-shadow: 0 0 0 3px rgba(82, 32, 79, 0.12);
+  background: #FFFFFF;
+}
+
+.textarea {
+  min-height: 110px;
+  resize: vertical;
+}
+
+.submitBtn {
+  width: 100%;
+  padding: 0.9rem;
+  background: linear-gradient(135deg, var(--plum-primary, #52204F) 0%, #3E1639 100%);
+  color: #FFFFFF;
+  border: 1px solid rgba(200, 149, 74, 0.4);
+  border-radius: 999px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(82, 32, 79, 0.25);
+  transition: all 0.3s ease;
+  margin-top: 0.5rem;
+}
+
+.submitBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(82, 32, 79, 0.35);
+}
+
+.successBox {
+  padding: 2.5rem;
+  text-align: center;
+  background: rgba(200, 149, 74, 0.08);
+  border: 1px solid var(--gold-accent, #C8954A);
+  border-radius: 16px;
+}
+
+.successIcon {
+  font-size: 2.5rem;
+  color: var(--gold-accent, #C8954A);
+  margin-bottom: 1rem;
+}
+
+.successHeading {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary, #17132D);
+  margin-bottom: 0.5rem;
+}
+
+.successText {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text-muted, #4A4560);
+  line-height: 1.6;
+}
+
+@media (max-width: 860px) {
+  .contactLayout {
+    grid-template-columns: 1fr;
+  }
+}
